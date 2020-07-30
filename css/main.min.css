@@ -750,3 +750,28 @@ h1 {
 .iconx-gab:before {
   content: "\e900";
 }
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 150px;
+  color: #000;
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.4rem;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 130%;
+  left: 30%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
