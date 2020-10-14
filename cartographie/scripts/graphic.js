@@ -89,8 +89,6 @@ function renderChart() {
 		calc.chartHeight = attrs.svgHeight - attrs.marginBottom - calc.chartTopMargin;
 
     var clusterNames = attrs.data.nodes
-      .filter(x => x.group.length)
-      .map(x => x.group.trim())
       .filter((d, i, arr) => arr.indexOf(d) === i);
 
     var maxRadius = attrs.radius_org,
@@ -116,7 +114,6 @@ function renderChart() {
     nodes_first = attrs.data.nodes
       .filter(d => d.type == 'people')
       .map(function(x) {
-        var i = clusterNames.indexOf(x.group);
         var d = Object.assign(x, {
           cluster: i,
           radius: attrs.radius_people,
@@ -294,14 +291,12 @@ function renderChart() {
         .attr('font-size', attrs.nodesFontSize + 'px')
         .attr('fill', d => d.type === 'people' ? textColorPeople : textColorOrg)
         .attr('dy', d => (d.radius + textNodePadding) / currentScale)
-        .text(d => d.node || d.group)
 
       node.patternify({ 
           tag: 'title', 
           selector: 'node-title', 
           data: d => [d] 
         })
-        .text(d => d.node || d.group)
 
       return text;
     }
@@ -325,7 +320,6 @@ function renderChart() {
           selector: 'node', 
           data: getNodes() 
         })
-        .attr('data-group', d => d.group)
         .attr('class', function (d) {
           var cl = 'node node-' + d.type;
           return cl;
