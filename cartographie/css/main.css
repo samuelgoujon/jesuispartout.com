@@ -1,0 +1,194 @@
+body {
+    background-color: #fff;
+    margin: 0px;
+}
+
+svg {
+    background-color: #fff;
+    display: block;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+}
+
+.nav-tabs {
+    border: none;
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: 0px;
+}
+
+svg.tooltip-shadow-wrapper-svg {
+    position: absolute;
+    text-align: center;
+    left: -300px;
+}
+
+.sidenav h1 {
+    margin-top: 0px;
+}
+
+.sidenav {
+    position: fixed;
+    height: 100%;
+    width: 400px;
+    z-index: 1;
+    top: 0;
+    right: -400px;
+    background-color: rgba(0,0,0,0.9);
+    overflow-x: hidden;
+    transition: right 0.3s;
+    padding-top: 100px;
+}
+
+.sidenav .item, .sidenav .closebtn {
+    padding: 15px 15px 15px 0px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+    display: block;
+}
+
+.sidenav .subtitle {
+    color: #fff;
+    font-size: 18px;
+    padding-left: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.sidenav .title {
+    color: #fff;
+    padding-left: 15px;
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.sidenav .item:hover, .sidenav .closebtn:hover {
+    color: #fff;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 35px;
+    right: 5px;
+    font-size: 36px;
+}
+
+.sidenav a {
+    color: #fff;
+}
+
+#main {
+    transition: margin-right .3s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+.toggle-button-container {
+    position: absolute;
+    left: 32px;
+    bottom: 32px;
+}
+
+.toggle-button {
+    padding: 20px 30px;
+    border-radius: 15px;
+    border-style: 1px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.toggle-button:hover {
+    color: #000;
+    transition: all 0.3ms;
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+.toggle-button:focus {
+    outline: none;
+}
+
+nav {
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+    background-color: #fff;
+    padding-top:0!important;
+    padding-bottom:0!important;
+}
+
+ul.navbar-nav li a {
+  padding-top: 0.7rem!important;
+  padding-bottom: 0.7rem!important;
+}
+
+.navbar-brand {
+    font-size: 24px;    
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    border-radius: 0;
+}
+
+.navbar-toggler {
+    font-size: 1rem;
+    padding: .65rem .4rem;
+    border: none;
+}
+
+.portrait {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.img-thumbnail {
+    max-width: 160px;
+    max-height: 225px;
+}
+
+/*Gab Font*/
+@font-face {
+  font-family: 'gab-font';
+  src:  url('../fonts/gab-font.eot?88f047');
+  src:  url('../fonts/gab-font.eot?88f047#iefix') format('embedded-opentype'),
+    url('../fonts/gab-font.ttf?88f047') format('truetype'),
+    url('../fonts/gab-font.woff?88f047') format('woff'),
+    url('../fonts/gab-font.svg?88f047#gab-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="iconx-"], [class*=" iconx-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'gab-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconx-gab:before {
+  content: "\e900";
+}

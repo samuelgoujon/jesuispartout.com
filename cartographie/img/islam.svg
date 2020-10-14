@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="272"
+   height="256"
+   viewBox="7 14 272 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Star_and_Crescent.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1845"
+     inkscape:window-height="983"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="-76.067797"
+     inkscape:cy="128"
+     inkscape:window-x="75"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="g4">
+    <path
+       d="M 125.13485,36.187753 C67.60819,37.282014 21.25984,84.307148 21.259843,142.094 C21.259843,200.56607 68.72535,248.0315 127.19735,248.0315 C154.53502,248.0315 179.46231,237.64775 198.25985,220.62525 C185.00691,228.24342 169.63331,232.594 153.25985,232.594 C103.33007,232.594 62.822343,192.08628 62.822343,142.1565 C62.822343,92.226718 103.33007,51.719003 153.25985,51.719003 C169.76352,51.719003 185.24789,56.144299 198.57235,63.875253 C179.73892,46.68361 154.68725,36.187751 127.19735,36.187753 C126.51213,36.187753 125.81698,36.174778 125.13485,36.187753 z"
+       id="path1315"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       d="M 316.15204,177.15572 L224.99653,206.77394 L281.33373,129.23243 V225.079 L224.99653,147.5375z"
+       transform="translate(-50.0214,-34.99975)"
+       id="path3098"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+</svg>
