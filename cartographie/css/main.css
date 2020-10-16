@@ -192,3 +192,15 @@ ul.navbar-nav li a {
 .iconx-gab:before {
   content: "\e900";
 }
+
+#svg-container {
+  text-align: center;
+}
+
+body {
+  overflow: hidden;
+}
+
+nav {
+    background: #FFAC1E;
+}
