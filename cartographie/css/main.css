@@ -31,6 +31,7 @@ svg.tooltip-shadow-wrapper-svg {
 }
 
 .sidenav {
+    position: relative;
     height: 100%;
     width: 400px;
     z-index: 1;
