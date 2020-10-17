@@ -31,7 +31,6 @@ svg.tooltip-shadow-wrapper-svg {
 }
 
 .sidenav {
-    position: fixed;
     height: 100%;
     width: 400px;
     z-index: 1;
