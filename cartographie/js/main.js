@@ -7,13 +7,6 @@ d3.csv('data/dextera_orgs.csv').then(data => {
     chart = initChart(width, height, '#svg-container', data);
 })
 
-// get feeds
-d3.json('/api/feeds')
-  .then(d => {
-      feeds = d;
-      return buildPanel(d)
-  })
-
 function initChart(width, height, container, data = []) {
     return renderChart()
         .svgWidth(width)
