@@ -69,7 +69,8 @@ nav {
     background-color: #fff;
     padding-top:0!important;
     padding-bottom:0!important;
-    position: relative;
+    position: relative!important;
+    background: #FFAC1E;
 }
 
 ul.navbar-nav li a {
@@ -135,8 +136,4 @@ ul.navbar-nav li a {
 
 body {
   overflow: hidden;
-}
-
-nav {
-    background: #FFAC1E;
 }
