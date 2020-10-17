@@ -60,9 +60,13 @@ function renderChart() {
             '#fcaa17', '#000000'
         ])
 
-        attrs.data.nodes.forEach(d => {
-          d.imagePath = 'img/judaism.svg';
-        });
+        function updateState() {
+          d3.selectAll('circle')  //here's how you get all the nodes
+            .each(function(d) {
+              d.imagePath = 'img/judaism.svg';
+              d3.select(this) // Transform to d3 Object
+            });
+        }
 
         let scaleRadius = d3.scaleLinear()
             .domain([
