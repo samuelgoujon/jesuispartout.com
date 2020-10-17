@@ -60,12 +60,12 @@ function renderChart() {
             '#fcaa17'
         ])
 
-        attrs.data.nodes.forEach(d => {
+        /* attrs.data.nodes.forEach(d => {
           d.tag = religion ? 'image' : 'circle';
           d.isImage = religion ? true : false;
           d.imagePath = religion ? 'img/' + religion.filename : null;
           d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-        });
+        });*/
 
         let scaleRadius = d3.scaleLinear()
             .domain([
