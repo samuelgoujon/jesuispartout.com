@@ -55,9 +55,9 @@ function renderChart() {
           .on("zoom", zoomed)
 
         let colorScale = d3.scaleOrdinal().domain([
-            'France Télévisions'
+            'France Télévisions', 'Gouvernement'
         ]).range([
-            '#fcaa17'
+            '#fcaa17', '#000000'
         ])
 
         attrs.data.nodes.forEach(d => {
