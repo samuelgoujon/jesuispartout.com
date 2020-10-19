@@ -19,10 +19,14 @@ function renderChart() {
       data: null
     };
 
-    var religions = [
+    var groups = [
         {
-          name: 'Judaïsme',
-          filename: 'judaism.svg'
+          name: 'France Télévisions',
+          filename: 'France Télévisions.svg'
+        },
+        {
+          name: 'Radio France',
+          filename: 'Radio France.svg'
         }
     ]
 
@@ -66,18 +70,12 @@ function renderChart() {
             'img/France Télévisions.svg'
         ])
 
-        var node = svg.selectAll(".node")
-            .data(json.nodes)
-            .enter().append("g")
-            .attr("class", "node")
-            .call(force.drag);
-
-        node.append("image")
-          .attr("xlink:href", "https://github.com/favicon.ico")
-          .attr("x", -8)
-          .attr("y", -8)
-          .attr("width", 16)
-          .attr("height", 16);
+        attrs.data.nodes.forEach(d => {
+            var group = groups.filter(x => x.name == d.group)[0];
+            d.tag = group ? 'image' : 'circle';
+            d.isImage = group ? true : false;
+            d.imagePath = group ? 'img/' + group.filename : null;
+        });
 
         let scaleRadius = d3.scaleLinear()
             .domain([
