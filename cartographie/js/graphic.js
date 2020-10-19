@@ -70,12 +70,19 @@ function renderChart() {
             'img/France Télévisions.svg'
         ])
 
+        var images = nodeEnter.append("svg:image")
+        .attr("xlink:href",  function(d) { return 'img/'+d.group+'.svg';})
+        .attr("x", function(d) { return -25;})
+        .attr("y", function(d) { return -25;})
+        .attr("height", 50)
+        .attr("width", 50);
+        /*
         attrs.data.nodes.forEach(d => {
             var group = groups.filter(x => x.name == d.group)[0];
             d.tag = group ? 'image' : 'circle';
             d.isImage = group ? true : false;
             d.imagePath = group ? 'img/' + group.filename : null;
-        });
+        });*/
 
         let scaleRadius = d3.scaleLinear()
             .domain([
