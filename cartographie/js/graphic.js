@@ -55,18 +55,16 @@ function renderChart() {
           .on("zoom", zoomed)
 
         let colorScale = d3.scaleOrdinal().domain([
-            'France Télévisions', 'Gouvernement'
+            'Gouvernement'
         ]).range([
             '#fcaa17', '#000000'
         ])
 
-        function updateState() {
-          d3.selectAll('circle')  //here's how you get all the nodes
-            .each(function(d) {
-              d.imagePath = 'img/judaism.svg';
-              d3.select(this) // Transform to d3 Object
-            });
-        }
+        let imagePath = d3.scaleOrdinal().domain([
+            'France Télévisions',
+        ]).range([
+            'img/judaism.svg'
+        ])
 
         let scaleRadius = d3.scaleLinear()
             .domain([
