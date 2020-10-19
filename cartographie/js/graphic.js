@@ -66,6 +66,12 @@ function renderChart() {
             'img/France Télévisions.svg'
         ])
 
+        var node = svg.selectAll(".node")
+            .data(json.nodes)
+            .enter().append("g")
+            .attr("class", "node")
+            .call(force.drag);
+
         node.append("image")
           .attr("xlink:href", "https://github.com/favicon.ico")
           .attr("x", -8)
