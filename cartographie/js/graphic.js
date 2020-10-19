@@ -63,8 +63,15 @@ function renderChart() {
         let imagePath = d3.scaleOrdinal().domain([
             'France Télévisions'
         ]).range([
-            'img/judaism.svg'
+            'img/France Télévisions.svg'
         ])
+
+        node.append("image")
+          .attr("xlink:href", "https://github.com/favicon.ico")
+          .attr("x", -8)
+          .attr("y", -8)
+          .attr("width", 16)
+          .attr("height", 16);
 
         let scaleRadius = d3.scaleLinear()
             .domain([
