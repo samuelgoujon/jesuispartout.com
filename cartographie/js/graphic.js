@@ -55,13 +55,13 @@ function renderChart() {
           .on("zoom", zoomed)
 
         let colorScale = d3.scaleOrdinal().domain([
-            'Gouvernement'
+            'Gouvernement','Assemblée nationale', 'Sénat', 'Industrie du cinéma'
         ]).range([
-            '#fcaa17', '#000000'
+            '#fcaa17', '#000000', '#333333', '#666666'
         ])
 
         let imagePath = d3.scaleOrdinal().domain([
-            'France Télévisions',
+            'France Télévisions'
         ]).range([
             'img/judaism.svg'
         ])
