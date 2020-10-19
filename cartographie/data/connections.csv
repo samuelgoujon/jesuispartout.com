@@ -1,133 +1,287 @@
 source,target,type
-Adrien Taquet,Fondation Jean-Jaurès,solid
-Adrien Taquet,Fondation Jean-Jaurès,dotted
-Agnès Pannier-Runacher,France China Foundation,solid
-Alain Druelles,MEDEF,solid
-Alain Richard,French-American Foundation,solid
-Alain Richard,Le Siècle,solid
-Alexandre Holroyd,Conseil Franco-Britannique,solid
-Alexis Corbière,UNEF,dotted
-Alexis Corbière,Grand Orient de France,solid
-Aloïs Kirchner,Institut Montaigne,dotted
-Amélie de Montchalin,French-American Foundation,solid
-Anne-Solène Roudel,LICRA,dotted
-Antoine Foucher,MEDEF,dotted
-Aurore Bergé,Conseil Franco-Britannique,solid
-Bénédicte Peyrol,Commission Franco-Américaine Fulbright,solid
-Bernard Rogel,Le Siècle,solid
-Brigitte Bourguignon,Fraternelle parlementaire,solid
-Bruno Le Maire,European Council on Foreign Relations,solid
-Bruno Le Maire,Groupe Bilderberg,solid
-Bruno Le Maire,Le Siècle,solid
-Cécile Cukierman,UNEF,dotted
-Cédric O,Fondation Jean-Jaurès,dotted
-Cédric O,Terra Nova,dotted
-Cédric Villani,French-American Foundation,solid
-Christian Jacob,Le Siècle,solid
-Christophe Castaner,Grand Orient de France,solid
-Christophe Castaner,UNEF,dotted
-Christophe-André Frassa,Fraternelle parlementaire,solid
-Christophe-André Frassa,Grand Orient de France,solid
-Clément Beaune,Groupe Bilderberg,solid
-Clémentine Autain,Fondation Copernic,solid
-Clémentine Autain,UNEF,dotted
-Coralie Dubost,France China Foundation,solid
-Deborah De Lieme Abisror,B'nai B'rith,solid
-Deborah De Lieme Abisror,European Union of Jewish Students,dotted
-Delphine Batho,SOS Racisme,dotted
-Diane Simiu,WWF,dotted
-Édouard Philippe,French-American Foundation,solid
-Édouard Philippe,Groupe Bilderberg,solid
-Édouard Philippe,Le Siècle,solid
-Elisabeth Borne,Le Siècle,solid
-Emmanuel Lenain,Carnegie Foundation,solid
-Emmanuel Lenain,France China Foundation,solid
-Emmanuel Lenain,French-American Foundation,solid
-Emmanuel Macron,French-American Foundation,solid
-Emmanuel Macron,German Marshall Fund,solid
-Emmanuel Macron,Groupe Bilderberg,solid
-Emmanuel Macron,Le Siècle,solid
-Emmanuelle Wargon,En Temps réel,solid
-Emmanuelle Wargon,Le Siècle,solid
-Éric Diard,Grand Orient de France,solid
-Éric Woerth,Le Siècle,solid
-Fabrice Aubert,Les Gracques,dotted
-Fanny Anor,Institut Montaigne,dotted
-Franck Riester,Le Siècle,solid
-François Cormier-Bouligeon,Grand Orient de France,solid
-François Patriat,Grand Orient de France,solid
-Gabriel Attal,UNEF,dotted
-Gérard Larcher,Le Siècle,solid
-Gérard Longuet,Le Siècle,solid
-Gilbert Collard,Grande Loge nationale française,solid
-Guillaume Chiche,UNEF,dotted
-Hélène Davo,Terra Nova,solid
-Jacques Mézard,Grand Orient de France,solid
-Jean-François Cesarini,Terra Nova,solid
-Jean-Louis Bourlanges,Le Siècle,solid
-Jean-Louis Touraine,Grand Orient de France,solid
-Jean-Luc Mélenchon,Grand Orient de France,solid
-Jean-Luc Mélenchon,UNEF,dotted
-Jean-Marie Bockel,Le Siècle,solid
-Jean-Michel Blanquer,Groupe Bilderberg,solid
-Jean-Michel Blanquer,Institut Montaigne,dotted
-Jean-Michel Blanquer,Le Siècle,solid
-Jean-Michel Mis,LICRA,solid
-Jean-Paul Delevoye,Grande Loge de France,solid
-Jean-Pierre Sueur,Grand Orient de France,solid
-Jean-Yves Le Drian,Grand Orient de France,solid
-Jean-Yves Le Drian,Le Siècle,solid
-Jean-Yves Le Drian,Le Siècle,solid
-Jennifer Pizzicara,Fondation Concorde,solid
-Jonas Bayard,Fondation France-Israël,dotted
-Jonathan Nussbaumer,Institut Montaigne,dotted
-Laurent Saint-Martin,En Temps réel,dotted
-Lionel Choukroun,Beit Haverim,solid
-Lionel Choukroun,CRIF,solid
-Marc Ferracci,Institut Montaigne,solid
-Marie Guévenoux,UNI,dotted
-Marine Braud,WWF,dotted
-Marlène Schiappa,Fondation Jean-Jaurès,dotted
-Muriel Pénicaud,Le Siècle,solid
-Naïma Moutchou,LICRA,solid
-Nicolas Dupont-Aignan,French-American Foundation,solid
-Nicolas Escoulan,French-American Foundation,solid
-Nicolas Sire,Fondation Jean-Jaurès,dotted
-Nicole Belloubet,Le Siècle,solid
-Olivier Dassault,Le Siècle,solid
-Olivier Decottignies,Washington Institute for Near East Policy,solid
-Olivier Dussopt,Fraternelle parlementaire,dotted
-Patrick Hetzel,Le Siècle,solid
-Perrine Dufoix,European Coalition for Israel,dotted
-Perrine Dufoix,Fondation France-Israël,dotted
-Pierre-André Imbert,ATTAC,dotted
-Pierre-André Imbert,SOS Racisme,dotted
-Pierre-André Imbert,UNEF,dotted
-Robert Navarro,Grand Orient de France,solid
-Romain Grau,Grand Orient de France,solid
-Sabine Thillaye,MEDEF,solid
-Sibeth Ndiayes,UNEF,dotted
-Simond de Galbert,Center for Strategic and International Studies,solid
-Sonya Djemni-Wagner,Terra Nova,dotted
-Stéphane Bouillon,Le Siècle,solid
-Stéphane Peu,Grand Orient de France,solid
-Stéphane Travert,Grand Orient de France,solid
-Stéphanie Atger,IRIS,dotted
-Thierry Solère,Grande Loge nationale française,solid
-Véronique Le Goff,MEDEF,dotted
-Victorin Lurel,Grand Orient de France,solid
-Vincent Éblé,Grand Orient de France,solid
-Virginie Duby-Muller,Conseil Franco-Britannique,solid
-Yves-Marie Cann,Fondation Jean-Jaurès,solid
-Joseph Zimet,Fondation Jean-Jaurès,dotted
-Alexandre Mirlesse,Institut Jacques Delors,dotted
-David Nguyen,Terra Nova,dotted
-Emmanuel Moulin,Le Siècle,solid
-Clément Beaune,Le Siècle,solid
-Martin Briens,Le Siècle,solid
-Édouard Courtial,Le Siècle,solid
-Laure Darcos,Le Siècle,solid
-Frédéric Dardel,Le Siècle,solid
-Jean-Baptiste Djebbari,Le Siècle,solid
-Patrick Hetzel,Le Siècle,solid
-Sébastien Lecornu,Le Siècle,solid
+Yaël Braun-Pivet,Assemblée nationale,solid
+Bruno Studer,Assemblée nationale,solid
+Guillaume Chiche,Assemblée nationale,solid
+Bérangère Abba,Assemblée nationale,solid
+Dominique David,Assemblée nationale,solid
+Geneviève Levy,Assemblée nationale,solid
+Olivier Dassault,Assemblée nationale,solid
+Sylvain Waserman,Assemblée nationale,solid
+Louis Aliot,Assemblée nationale,solid
+David Habib,Assemblée nationale,solid
+Meyer Habib,Assemblée nationale,solid
+Christophe Arend,Assemblée nationale,solid
+Patrick Drahi,BFM,solid
+Anna Cabana,BFM,solid
+Laurent Neumann,BFM,solid
+Ruth Elkrief,BFM,solid
+Marc-Olivier Fogiel,BFM,solid
+Nathalie Levy,BFM,solid
+Marc Fiorentino,BFM,solid
+Thomas Misrachi,BFM,solid
+Benjamin Amar,CGT,solid
+Maurice Szafran,Challenges,solid
+Annette Wieviorka,CNRS,solid
+Edgar Morin,CNRS,solid
+Danny Trom,CNRS,solid
+Henry Kissinger,Commission trilatérale,solid
+Serge Weinberg,Commission trilatérale,solid
+Hervé Mariton,Commission trilatérale,solid
+Élise Fajgeles,DILCRAH,solid
+Johanna Barasz,DILCRAH,solid
+Michel Wieviorka,DILCRAH,solid
+Tal Bruttmann,EHESS,solid
+Bruno Karsenti,EHESS,solid
+Jean-Pierre Elkabbach,Europe 1,solid
+Anne Sinclair,Europe 1,solid
+David Abiker,Europe 1,solid
+Patrick Cohen,Europe 1,solid
+Fabrice d’Almeida,Europe 1,solid
+Anne Roumanoff,Europe 1,solid
+Fabien Namias,Europe 1,solid
+Daniel Cohn-Bendit,Europe Écologie Les Verts,solid
+Alain Lipietz,Europe Écologie Les Verts,solid
+Gilles Finchelstein,Fondation Jean-Jaurès,solid
+Jean-Yves Camus,Fondation Jean-Jaurès,solid
+Michel Drucker,France Télévisions,solid
+Stéphane Sitbon-Gomez,France Télévisions,solid
+Diego Buñuel,France Télévisions,solid
+Michel Cymes,France Télévisions,solid
+Michel Field,France Télévisions,solid
+Marie Drucker,France Télévisions,solid
+Nagui,France Télévisions,solid
+Béatrice Schönberg,France Télévisions,solid
+Daniela Lumbroso,France Télévisions,solid
+Jérôme Clément,France Télévisions,solid
+Serge Moati,France Télévisions,solid
+Alain Minc,French-American Foundation,solid
+Gérald Darmanin,Gouvernement,solid
+Joachim Bokobza,Gouvernement,solid
+Déborah Münzer,Gouvernement,solid
+Anne Rubinstein,Gouvernement,solid
+Maïa Wirgin,Gouvernement,solid
+Eve Zuckerman,Gouvernement,solid
+Constance Bensussan,Gouvernement,solid
+Alexis Zajdenweber,Gouvernement,solid
+Alexis Kohler,Gouvernement,solid
+Mickaël Benzaqui,Gouvernement,solid
+Thomas Hartog,Gouvernement,solid
+Jack Azoulay,Gouvernement,solid
+Élisabeth Borne,Gouvernement,solid
+Juliette Oury,Gouvernement,solid
+Simon Fetet,Gouvernement,solid
+Samira Jemaï,Gouvernement,solid
+Nathanaël Mason-Schuler,Gouvernement,solid
+Soria Blatmann,Gouvernement,solid
+Alexandre Adam,Gouvernement,solid
+Jean Salomon,Gouvernement,solid
+Daniel Zielinski,Gouvernement,solid
+Yedidia Levy-Zauberman,Gouvernement,solid
+Emmanuelle Wargon,Gouvernement,solid
+Lionel Choukroun,Gouvernement,solid
+Gabriel Attal,Gouvernement,solid
+Joseph Zimet,Gouvernement,solid
+Léo Finkel,Gouvernement,solid
+Jérôme Salomon,Gouvernement,solid
+Cyril Hanouna,Groupe Canal+,solid
+Éric Zemmour,Groupe Canal+,solid
+Valérie Bénaïm,Groupe Canal+,solid
+Pierre Ménès,Groupe Canal+,solid
+Clément Viktorovitch,Groupe Canal+,solid
+Maxime Saada,Groupe Canal+,solid
+Arthur,Groupe TF1,solid
+Jean-Pierre Foucault,Groupe TF1,solid
+Claude Berda,Groupe TF1,solid
+Christophe Dechavanne,Groupe TF1,solid
+Jean-Luc Reichmann,Groupe TF1,solid
+Laurence Tubiana,Haut Conseil pour le climat,solid
+Judith Mergui,Humoristes,solid
+Gad Elmaleh,Humoristes,solid
+Kev Adams,Humoristes,solid
+Dany Boon,Humoristes,solid
+Élie Semoun,Humoristes,solid
+Raphaël Mezrahi,Humoristes,solid
+Jean-François Dérec,Humoristes,solid
+Michel Leeb,Humoristes,solid
+Marie Benoliel,Humoristes,solid
+Max Boublil,Humoristes,solid
+Tomer Sisley,Humoristes,solid
+Armand Abécassis,Industrie culturelle,solid
+Éliette Abécassis,Industrie culturelle,solid
+Christine Angot,Industrie culturelle,solid
+Étienne Balibar,Industrie culturelle,solid
+François Samuelson,Industrie culturelle,solid
+Jacques-Alain Miller,Industrie culturelle,solid
+Gilles Cohen-Solal,Industrie culturelle,solid
+Élisabeth Roudinesco,Industrie culturelle,solid
+Odile Jacob,Industrie culturelle,solid
+Marc Jacobs,Industrie de la mode,solid
+Élisabeth Garouste,Industrie de la mode,solid
+Sidney Toledano,Industrie de la mode,solid
+Evelyne Chétrite,Industrie de la mode,
+Judith Milgrom,Industrie de la mode,
+Franck Provost,Industrie de la mode,
+Raphaël Elicha ,Industrie de la mode,
+Alexandre Elicha,Industrie de la mode,
+Laurent Elicha,Industrie de la mode,
+Patrick Pariente,Industrie de la mode,
+Gérard Pariente,Industrie de la mode,
+Ary Abittan,Industrie du cinéma,
+Cédric Klapisch,Industrie du cinéma,
+François Berléand,Industrie du cinéma,
+Christophe Lambert,Industrie du cinéma,
+Claude Berri,Industrie du cinéma,
+Jean-Pierre Bacri,Industrie du cinéma,
+Claude Lelouch,Industrie du cinéma,
+Anouk Aimée,Industrie du cinéma,
+Philippe Lellouche,Industrie du cinéma,
+Elsa Zylberstein,Industrie du cinéma,
+Judith Godrèche,Industrie du cinéma,
+David Charvet,Industrie du cinéma,
+Richard Anconina,Industrie du cinéma,
+Gérard Darmon,Industrie du cinéma,
+Francis Huster,Industrie du cinéma,
+Alain Chabat,Industrie du cinéma,
+Dominique Farrugia,Industrie du cinéma,
+Yvan Attal,Industrie du cinéma,
+Yvan Attal,Industrie du cinéma,
+Michel Boujenah,Industrie du cinéma,
+Emmanuelle Béart,Industrie du cinéma,
+Jean Benguigui,Industrie du cinéma,
+Alexandre Arcady,Industrie du cinéma,
+Olivier Sitruk,Industrie du cinéma,
+Pierre Arditi,Industrie du cinéma,
+Jonathan Cohen,Industrie du cinéma,
+Marina Foïs,Industrie du cinéma,
+Louis Garrel,Industrie du cinéma,
+Rebecca Zlotowski,Industrie du cinéma,
+Vincent Elbaz,Industrie du cinéma,
+Pascal Elbé,Industrie du cinéma,
+Mathieu Kassovitz,Industrie du cinéma,
+Élie Chouraqui,Industrie du cinéma,
+Sandrine Kiberlain,Industrie du cinéma,
+Richard Berry,Industrie du cinéma,
+Léa Drucker,Industrie du cinéma,
+Charlotte Gainsbourg,Industrie du cinéma,
+Thomas Langmann,Industrie du cinéma,
+Thierry Lhermitte,Industrie du cinéma,
+Patrick Timsit,Industrie du cinéma,
+Steve Suissa,Industrie du cinéma,
+Mélanie Laurent,Industrie du cinéma,
+Pierre Niney,Industrie du cinéma,
+Olivier Nakache,Industrie du cinéma,
+Éric Toledano,Industrie du cinéma,
+Patrick Bruel,Industrie musicale,
+Dave,Industrie musicale,
+Drake,Industrie musicale,
+Gilbert Montagné,Industrie musicale,
+Bruno Mars,Industrie musicale,
+Catherine Ringer,Industrie musicale,
+David Guetta,Industrie musicale,
+Enrico Macias,Industrie musicale,
+Isabelle Huppert,Industrie musicale,
+Jean-Jacques Goldman,Industrie musicale,
+Lenny Kravitz,Industrie musicale,
+Michel Jonasz,Industrie musicale,
+Joyce Jonathan,Industrie musicale,
+Thomas Bangalter,Industrie musicale,
+Simon Ghraichy,Industrie musicale,
+Serge Khalfon,Industrie musicale,
+Sean Paul,Industrie musicale,
+Richard Kolinka,Industrie musicale,
+Louis Bertignac,Industrie musicale,
+Marc Dorcel,Industrie pornographique,
+Fabian Thylmann,Industrie pornographique,
+David Marmorstein,Industrie pornographique,
+James Deen,Industrie pornographique,
+Greg Lansky,Industrie pornographique,
+Grégory Dorcel,Industrie pornographique,
+Pierre Nora,Institut de France,
+Bernard Stirn,Institut de France,
+Michel David-Weill,Institut de France,
+Dominique Moïsi,Institut Montaigne,
+Daniel Schneidermann,Journalisme,
+Georges-Marc Benamou,Journalisme,
+Guy Konopnicki,Journalisme,
+Judith Waintraub,Journalisme,
+Anne Rosencher,L’Express,
+Dominique Nora,L’Obs,
+Ilana Cicurel,La République en marche,
+Mathias Enthoven,Le Média,
+Gérard Miller,Le Média,
+Antoine Spire,Le Monde,
+Louis Dreyfus,Le Monde,
+Alain Gresh,Le Monde diplomatique,
+Serge Halimi,Le Monde diplomatique,
+Bernard-Henri-Lévy,Le Point,
+Patrick Balkany,Les Républicains,
+Jean-François Copé,Les Républicains,
+Valérie Hoffenberg,Les Républicains,
+Benjamin Lancar,Les Républicains,
+Jean-Louis Debré,Les Républicains,
+Michèle Barzach,Les Républicains,
+Mickaël Szerman,Les Républicains,
+Roger Karoutchi,Les Républicains,
+Olivier Dassault,Les Républicains,
+Denis Olivenne,Libération,
+Céline Bekerman,LICRA,
+Alain Jakubowicz,LICRA,
+Nathalie Boy de la Tour,Ligue de football professionnel,
+Arié Alimi,Ligue des droits de l’homme,
+Ariel Weil,Mairie de Paris,
+Pierre Aidenbaum,Mairie de Paris,
+Karen Taïeb,Mairie de Paris,
+Ian Brossat,Mairie de Paris,
+Patrick Klugman,Mairie de Paris,
+Jean-Louis Missika,Mairie de Paris,
+Paul Simondon,Mairie de Paris,
+Sylvie Wieviorka,Mairie de Paris,
+Grégoire Chertok,Marie de Paris,
+Jean-Michel Cohen,Médecine,
+Marc Peschanski,Médecine,
+Martin Hirsch,Médecine,
+Virginie Schwarz,Météo-France,
+Jean-François Kahn,Mouvement démocrate,
+Corinne Lepage,Mouvement démocrate,
+Alain Krivine,Nouveau Parti anticapitaliste,
+Daniel Bensaïd,Nouveau Parti anticapitaliste,
+Audrey Azoulay,Organisation des Nations Unies,
+Pascal Cherki,Parti socialiste,
+Vincent Peillon,Parti socialiste,
+Pierre Moscovici,Parti socialiste,
+Adeline Hazan,Parti socialiste,
+Jack Lang,Parti socialiste,
+Robert Badinter,Parti socialiste,
+Georges Kiejman,Parti socialiste,
+Laurent Fabius,Parti socialiste,
+Henri Weber,Parti socialiste,
+Danièle Hoffman-Rispal,Parti socialiste,
+Dominique Strauss-Kahn,Parti socialiste,
+Stéphane Fouks,Parti socialiste,
+Henri Weber,Parti socialiste,
+Julien Dray,Parti socialiste,
+Pierre Joxe,Parti socialiste,
+Maurice Lévy,Publicis,
+Arthur Sadoun,Publicis,
+Élisabeth Badinter,Publicis,
+Édouard Baer,Radio France,
+Nicolas Demorand,Radio France,
+Raphaël Enthoven,Radio France,
+Alain Finkielkraut,Radio France,
+Claude Askolovitch,Radio France,
+Laure Adler,Radio France,
+Laurence Bloch,Radio France,
+Marc Kravetz,Radio France,
+Serge Federbusch,Rassemblement national,
+Louis Aliot,Rassemblement national,
+Stéphane Bern,RTL,
+Esther Benbassa,Sénat,
+Cécile Cukierman,Sénat,
+Laurence Cohen,Sénat,
+Michel Amiel,Sénat,
+Roger Karoutchi,Sénat,
+David Assouline,Sénat,
+Patrick Kanner,Sénat,
+Nathalie Goulet,Sénat,
+Marek Halter,SOS Racisme,
+André Bercoff,Sud Radio,
