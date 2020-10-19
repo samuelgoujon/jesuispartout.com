@@ -53,6 +53,21 @@
             </ul>
          </div>
       </nav>
+      <div class="tab-content" id="pageContent">
+         <div class="tab-pane fade show active" id="first" role="tabpanel" aria-labelledby="first-tab" data-area="Gouvernement">
+         </div>
+         <div class="tab-pane fade" id="second" role="tabpanel" aria-labelledby="second-tab" data-area="Assemblée nationale">
+         </div>
+         <div class="tab-pane fade" id="third" role="tabpanel" aria-labelledby="third-tab" data-area="Sénat">
+         </div>
+      </div>
+      <!-- Button -->
+      <div class="toggle-button-container">
+         <!--<input type="checkbox" checked data-toggle="toggle" data-on="Cartographie" data-off="Réseaux" data-onstyle="primary" data-offstyle="light">-->
+         <button class="toggle-button" data-mode="first" id="viewToggler">
+         Réseaux
+         </button>
+      </div>
       <!-- JavaScript -->
       <script src="libs/d3.v3.min.js"></script>
       <script src="libs/d3-queue.v3.min.js"></script>
