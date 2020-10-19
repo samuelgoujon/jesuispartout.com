@@ -88,10 +88,10 @@ function renderChart() {
 		calc.chartWidth = attrs.svgWidth - attrs.marginRight - calc.chartLeftMargin;
 		calc.chartHeight = attrs.svgHeight - attrs.marginBottom - calc.chartTopMargin;
 
-    /*var clusterNames = attrs.data.nodes
-      .filter(x => x.group.length)
-      .map(x => x.group.trim())
-      .filter((d, i, arr) => arr.indexOf(d) === i);*/
+    var clusterNames = attrs.data.nodes
+      /*.filter(x => x.group.length)
+      .map(x => x.group.trim())*/
+      .filter((d, i, arr) => arr.indexOf(d) === i);
 
     var maxRadius = attrs.radius_org,
         m = clusterNames.length,
