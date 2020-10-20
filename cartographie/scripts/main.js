@@ -185,7 +185,7 @@ d3.queue()
             }
         })
 
-    selectChart("Gouvernement")
+    selectChart("Politique")
 
     setTimeout(() => {
         d3.select('.area-link').attr('area-toggled', true)
