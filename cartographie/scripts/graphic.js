@@ -14,7 +14,7 @@ function renderChart() {
     iconSize: 20,
     nodesFontSize: 12,
     defaultFont: 'Helvetica',
-    color_org: '#cccccc',
+    color_org: '#FFAC1E',
     colors:  [
       "#B0E2A7","#19494D",
       "#D0BAE8","#53B8C6",
