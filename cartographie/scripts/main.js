@@ -142,10 +142,10 @@ d3.queue()
         let self = d3.select(this);
         if (self.attr('data-mode') === 'first') {
             self.attr('data-mode', 'second');
-            self.html("Cartographie");
+            self.html("<i class="far fa-smile"></i>");
         } else {
             self.attr('data-mode', 'first')
-            self.html("Réseaux");
+            self.html("<i class="far fa-smile-wink"></i>");
         }
 
         if (activeChart) {
