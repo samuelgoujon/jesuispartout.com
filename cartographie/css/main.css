@@ -10,6 +10,7 @@ svg {
 
 .nav-tabs .nav-link {
     border: none;
+    border-radius: 0;
 }
 
 .nav-tabs {
