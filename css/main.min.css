@@ -603,6 +603,9 @@ h1 {
 .epstein .follows {
     background: #e4405f
 }
+.cartographie .follows {
+    background: #606060
+}
 .link {
     right: 0;
     font-size: 1.563em;
