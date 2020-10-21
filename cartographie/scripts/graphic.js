@@ -105,10 +105,10 @@ function renderChart() {
       .on("zoom", zoomed)
 
     attrs.data.nodes.forEach(d => {
-      var religion = religions.filter(x => x.name == d.religion)[0];
-      d.tag = religion ? 'image' : 'circle';
-      d.isImage = religion ? true : false;
-      d.imagePath = religion ? 'img/' + religion.filename : null;
+      var portrait = node.filter(x => x.name == d.portrait)[0];
+      d.tag = portrait ? 'image' : 'circle';
+      d.isImage = portrait ? true : false;
+      d.imagePath = portrait ? 'img/portraits/' + portrait.filename : null;
       d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
     });
 
