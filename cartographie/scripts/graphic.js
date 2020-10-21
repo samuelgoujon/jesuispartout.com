@@ -86,8 +86,6 @@ function renderChart() {
       .on("zoom", zoomed)
 
     attrs.data.nodes.forEach(d => {
-      var portrait = document.getElementById('portrait');
-      document.getElementById('node').innerHTML = d.node
       var image_url = 'img/portraits/' + d.node + '.jpg';
       var portrait = image_url.filter(x => x.name == d.portrait)[0];
       d.tag = portrait ? 'image' : 'circle';
