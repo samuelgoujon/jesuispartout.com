@@ -36,24 +36,7 @@ function renderChart() {
     closeNav: d => d
   };
 
-  var religions = [
-    {
-      name: 'Islam',
-      filename: 'islam.svg'
-    },
-    {
-      name: 'Judaïsme',
-      filename: 'judaism.svg'
-    },
-    {
-      name: 'Grand Orient de France',
-      filename: 'freemasonry.svg'
-    },
-    {
-      name: 'Grande Loge nationale française',
-      filename: 'freemasonry.svg'
-    }
-  ]
+  var image_url = 'img/portraits/' + d.node + '.jpg';
 
   // constants
   var toggle = null;
@@ -105,7 +88,7 @@ function renderChart() {
       .on("zoom", zoomed)
 
     attrs.data.nodes.forEach(d => {
-      var portrait = node.filter(x => x.name == d.portrait)[0];
+      var portrait = image_url.filter(x => x.name == d.portrait)[0];
       d.tag = portrait ? 'image' : 'circle';
       d.isImage = portrait ? true : false;
       d.imagePath = portrait ? 'img/portraits/' + portrait.filename : null;
