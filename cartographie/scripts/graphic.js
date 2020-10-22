@@ -87,7 +87,7 @@ function renderChart() {
 
     attrs.data.nodes.forEach(d => {
       var portraits = 'img/portraits/' + d.node + '.jpg';
-      var portrait = portraits.filter(x => x.name == d.portrait)[0];
+      var portrait = nodes.filter(x => x.name == d.portrait)[0];
       d.tag = portrait ? 'image' : 'circle';
       d.isImage = portrait ? true : false;
       d.imagePath = portrait ? 'img/portraits/' + portrait.filename : null;
