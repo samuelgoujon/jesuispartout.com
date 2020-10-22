@@ -92,7 +92,7 @@ function renderChart() {
       d.isImage = portrait ? true : false;
       d.imagePath = portrait ? 'img/portraits/' + portrait.filename : null;
       d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-    });
+    });*/
 
     attrs.data.nodes.forEach(d => {
       var religion = religions.filter(x => x.name == d.religion)[0];
@@ -100,7 +100,7 @@ function renderChart() {
       d.isImage = religion ? true : false;
       d.imagePath = religion ? 'img/' + religion.filename : null;
       d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-    });*/
+    });
 
     // get nodes for first view. ONLY PEOPLE
     nodes_first = attrs.data.nodes
