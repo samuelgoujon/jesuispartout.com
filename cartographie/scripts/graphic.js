@@ -56,6 +56,14 @@ function renderChart() {
   var hideTextsOnScaleView1 = 2;
   var hideTextsOnScaleView2 = 0.8;
 
+
+  var religions = [
+    {
+      name: 'Judaïsme',
+      filename: 'judaism.svg'
+    }
+  ]
+
 	//Main chart object
 	var main = function() {
 		//Drawing containers
