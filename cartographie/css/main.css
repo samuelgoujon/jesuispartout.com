@@ -37,34 +37,6 @@ svg.tooltip-shadow-wrapper-svg {
     .sidenav a {font-size: 18px;}
 }
 
-.toggle-button-container {
-    position: absolute;
-    left: 32px;
-    bottom: 32px;
-}
-
-.toggle-button {
-    padding: 20px 30px;
-    border-radius: 15px;
-    border-style: 1px;
-    background-color: #fff;
-    color: #000;
-    cursor: pointer;
-    font-size: 18px;
-    font-family: 'Oswald', sans-serif;
-}
-
-.toggle-button:hover {
-    color: #000;
-    transition: all 0.3ms;
-    background-color: rgba(0, 0, 0, 0.1);
-    transition: 0.3s;
-}
-
-.toggle-button:focus {
-    outline: none;
-}
-
 nav {
     background-color: #fff;
     padding-top:0!important;
@@ -86,8 +58,8 @@ ul.navbar-nav li a {
     font-family: 'Oswald', sans-serif;
 }
 
-.nav-link:hover {
-    background-color: rgba(0, 0, 0, 0.1);
+.nav-item:hover {
+    background-color: white;
     transition: 0.3s;
     border-radius: 0;
 }
