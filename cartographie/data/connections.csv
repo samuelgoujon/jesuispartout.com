@@ -172,9 +172,7 @@ Olivier Nakache,Réalisateurs,solid
 Éric Toledano,Réalisateurs,solid
 Patrick Bruel,Industrie musicale,solid
 Dave,Industrie musicale,solid
-Drake,Industrie musicale,solid
 Gilbert Montagné,Industrie musicale,solid
-Bruno Mars,Industrie musicale,solid
 Catherine Ringer,Industrie musicale,solid
 David Guetta,Industrie musicale,solid
 Enrico Macias,Industrie musicale,solid
@@ -199,10 +197,10 @@ Pierre Nora,Institut de France,solid
 Bernard Stirn,Institut de France,solid
 Michel David-Weill,Institut de France,solid
 Dominique Moïsi,Institut Montaigne,solid
-Daniel Schneidermann,Journalisme,solid
-Georges-Marc Benamou,Journalisme,solid
-Guy Konopnicki,Journalisme,solid
-Judith Waintraub,Journalisme,solid
+Daniel Schneidermann,Journalistes,solid
+Georges-Marc Benamou,Journalistes,solid
+Guy Konopnicki,Journalistes,solid
+Judith Waintraub,Journalistes,solid
 Anne Rosencher,L’Express,solid
 Dominique Nora,L’Obs,solid
 Ilana Cicurel,La République en marche,solid
@@ -322,7 +320,8 @@ Gil Taïeb,CRIF,solid
 Michael Dell,Dell,solid
 Viatcheslav Moshe Kantor,Congrès juif européen,solid
 Alain Bauer,Grand Orient de France,solid
-Alexandre Adler,Union libérale israélite de France,solid
+Alexandre Adler,Mouvement juif libéral de France,solid
+Delphine Horvilleur,Mouvement juif libéral de France,solid
 Alain Afflelou,Alain Afflelou (entreprise),solid
 Agnès Jaoui,Acteurs,solid
 David Solomon,Goldman Sachs,solid
@@ -352,14 +351,14 @@ Gil Mihaely,Causeur,solid
 Gilles-William Goldnadel,Avocats sans frontières,solid
 Gabriel Naouri,Groupe Casino,solid
 Jean-Charles Naouri,Groupe Casino,solid
-Étienne Moatti,Journalisme,solid
+Étienne Moatti,Journalistes,solid
 Franz-Olivier Giesbert,France Télévisions,solid
 Frédéric Encel,LICRA,solid
-Frédéric Haziza,Journalisme,solid
+Frédéric Haziza,Journalistes,solid
 Jean-Paul Enthoven,Le Point,solid
 Hervé Temime,Juristes,solid
 Howard Schultz,Starbucks,solid
-Jean-Claude Elfassi,Journalisme,solid
+Jean-Claude Elfassi,Journalistes,solid
 Jean-David Levitte,Institut de France,solid
 Jean-Pierre Rosenczveig,Juristes,solid
 Laurent Karila,Médecine,solid
@@ -375,3 +374,20 @@ Vincent Lindon,Acteurs,solid
 Alexandra Minkowski,Juristes,solid
 Valéry Zeitoun,Industrie culturelle,solid
 Ariel Wizman,Radio Nova,solid
+Noémie Halioua,i24news,solid
+Hélène Cixous,Industrie culturelle,solid
+Pierre Haski,Reporters sans frontières,solid
+Guy Sorman,Reporters sans frontières,solid
+Bernard Guetta,La République en marche,solid
+Géraldine Nakache,Acteurs,solid
+Gabriel Matzneff,Industrie culturelle,solid
+Frédéric Diefenthal,Acteurs,solid
+Mathias Chichportich,Juristes,solid
+David-Olivier Kaminski,Juristes,solid
+David de Rothschild,Fondation pour la mémoire de la Shoah,solid
+Daniel Hechter,Industrie de la mode,solid
+Michaël Youn,Humoristes,solid
+Éric de Rothschild,Fondation pour la mémoire de la Shoah,solid
+Galia Ackerman,Journalistes,solid
+Radu Mihaileanu,Réalisateurs,solid
+Sylviane Agacinski,EHESS,dotted
