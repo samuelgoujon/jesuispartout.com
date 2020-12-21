@@ -135,6 +135,16 @@ ul.navbar-nav li a {
     border: none;
 }
 
+.portrait {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.img-thumbnail {
+    max-width: 160px;
+    max-height: 225px;
+}
+
 /*Gab Font*/
 @font-face {
   font-family: 'gab-font';
