@@ -85,22 +85,13 @@ function renderChart() {
       .scaleExtent([0.5, 10])
       .on("zoom", zoomed)
 
-    attrs.data.nodes.forEach(d => {
-      var portraits = 'img/portraits/' + d.node + '.jpg';
-      var portrait = nodes.filter(x => x.name == d.portrait)[0];
-      d.tag = portrait ? 'image' : 'circle';
-      d.isImage = portrait ? true : false;
-      d.imagePath = portrait ? 'img/portraits/' + portrait.filename : null;
-      d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-    });
-
-    attrs.data.nodes.forEach(d => {
+    /*attrs.data.nodes.forEach(d => {
       var religion = religions.filter(x => x.name == d.religion)[0];
       d.tag = religion ? 'image' : 'circle';
       d.isImage = religion ? true : false;
       d.imagePath = religion ? 'img/' + religion.filename : null;
       d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-    });
+    });*/
 
     // get nodes for first view. ONLY PEOPLE
     nodes_first = attrs.data.nodes
