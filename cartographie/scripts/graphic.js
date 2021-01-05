@@ -36,6 +36,25 @@ function renderChart() {
     closeNav: d => d
   };
 
+  var religions = [
+    {
+      name: 'Islam',
+      filename: 'islam.svg'
+    },
+    {
+      name: 'Judaïsme',
+      filename: 'judaism.svg'
+    },
+    {
+      name: 'Grand Orient de France',
+      filename: 'freemasonry.svg'
+    },
+    {
+      name: 'Grande Loge nationale française',
+      filename: 'freemasonry.svg'
+    }
+  ]
+
   // constants
   var toggle = null;
   var currentScale = 1;
@@ -85,13 +104,13 @@ function renderChart() {
       .scaleExtent([0.5, 10])
       .on("zoom", zoomed)
 
-    /*attrs.data.nodes.forEach(d => {
+    attrs.data.nodes.forEach(d => {
       var religion = religions.filter(x => x.name == d.religion)[0];
       d.tag = religion ? 'image' : 'circle';
       d.isImage = religion ? true : false;
       d.imagePath = religion ? 'img/' + religion.filename : null;
       d.radius = d.type === 'organization' ? attrs.radius_org : attrs.radius_people;
-    });*/
+    });
 
     // get nodes for first view. ONLY PEOPLE
     nodes_first = attrs.data.nodes
