@@ -142,10 +142,10 @@ d3.queue()
         let self = d3.select(this);
         if (self.attr('data-mode') === 'first') {
             self.attr('data-mode', 'second');
-            self.html("1");
+            self.html("Cartographie");
         } else {
             self.attr('data-mode', 'first')
-            self.html("2");
+            self.html("Réseaux");
         }
 
         if (activeChart) {
