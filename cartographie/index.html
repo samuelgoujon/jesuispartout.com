@@ -68,13 +68,19 @@
             </ul>
          </div>
       </nav>
+
       <!-- Sidenav -->
       <div id="sidenav" class="sidenav">
          <h1 id="node" class="title"></h1>
+         
          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-         <div class="portrait text-center"><img id="portrait" class="d-none img-thumbnail" src="./img/portraits/Pierre Aidenbaum.jpg" alt=""></div>
-         <div class="subtitle people">▶ Wikipédia<span id="" class="item"></span></div>
+
+         <div class="portrait text-center">
+            <img id="portrait" class="d-none img-thumbnail" src="./img/portraits/Pierre Aidenbaum.jpg" alt="">
+         </div>
+         <!-- <div class="subtitle people">▶ Wikipédia<span id="" class="item"></span></div> -->
       </div>
+
       <!-- Page Content -->
       <div class="tab-content" id="pageContent">
          <div class="tab-pane fade show active" id="first" role="tabpanel" aria-labelledby="first-tab" data-area="Politique">
@@ -85,15 +91,10 @@
          </div>
          <div class="tab-pane fade" id="fourth" role="tabpanel" aria-labelledby="fourth-tab" data-area="Économie">
       </div>
-      <!-- Button -->
-      <div class="toggle-button-container d-none">
-         <button class="toggle-button" data-mode="first" id="viewToggler">
-         <i class="far fa-smile"></i>
-         </button>
-      </div>
+
       <!-- JavaScript -->
-      <script src="libs/d3.v3.min.js"></script>
-      <script src="libs/d3-queue.v3.min.js"></script>
+      <script src="libs/d3.v6.min.js"></script>
+      <script src="scripts/utils.js"></script>
       <script src="scripts/graphic.js"></script>
       <script src="scripts/main.js"></script>
    </body>
