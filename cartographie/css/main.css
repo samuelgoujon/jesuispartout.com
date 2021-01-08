@@ -30,26 +30,26 @@ svg {
     text-decoration: none;
     font-size: 18px;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #fff;
+    color: #000;
     display: block;
 }
 
 .sidenav .subtitle {
-    color: #fff;
+    color: #000;
     font-size: 18px;
     padding-left: 15px;
     font-family: 'Oswald', sans-serif;
 }
 
 .sidenav .title {
-    color: #fff;
+    color: #000;
     padding-left: 15px;
     font-size: 24px;
     font-family: 'Oswald', sans-serif;
 }
 
 .sidenav .item:hover, .sidenav .closebtn:hover {
-    color: #fff;
+    color: #000;
 }
 
 .sidenav .closebtn {
@@ -60,7 +60,7 @@ svg {
 }
 
 .sidenav a {
-    color: #fff;
+    color: #000;
 }
 
 #main {
@@ -106,7 +106,7 @@ nav {
     background-color: #fff;
     padding-top:0!important;
     padding-bottom:0!important;
-    background: #FFAC1E;
+    background: rgba(255,172,30,0.9);
 }
 
 ul.navbar-nav li a {
