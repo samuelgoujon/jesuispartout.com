@@ -141,8 +141,8 @@ function selectChart(area) {
 
 function init() {
   Promise.all([
-    d3.csv("./data/nodes.csv"),
-    d3.csv("./data/connections.csv"),
+    d3.csv("./data/nodes.csv", d3.autoType),
+    d3.csv("./data/connections.csv", d3.autoType),
   ]).then((resp) => {
     const colors = ["#B0E2A7", "#19494D", "#D0BAE8", "#53B8C6"];
     const colorMap = {};
@@ -160,7 +160,7 @@ function init() {
 
       var _links = areaLinks[area];
       var _nodes = areaNodes[area];
-
+ 
       var chart = renderChart()
         .svgHeight(window.innerHeight)
         .svgWidth(window.innerWidth)
