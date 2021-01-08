@@ -48,28 +48,35 @@ function openNav(d) {
 
     var image_url = "img/portraits/" + d.node + ".jpg";
 
-    imageExists(
-      image_url,
-      function () {
-        portrait.src = image_url;
-        portrait.classList.remove("d-none");
-      },
-      function () {
-        portrait.classList.add("d-none");
-      }
-    );
-
-    if (d.wikipedia) {
-        loadWiki(
-            d.wikipedia,
-            function() {
-
-            },
-            function() {
-
-            }
-        )
+    if (d.image) {
+      portrait.src = image_url;
+      portrait.classList.remove("d-none");
+    } else {
+      portrait.classList.add("d-none");
     }
+
+    // imageExists(
+    //   image_url,
+    //   function () {
+    //     portrait.src = image_url;
+    //     portrait.classList.remove("d-none");
+    //   },
+    //   function () {
+    //     portrait.classList.add("d-none");
+    //   }
+    // );
+
+    // if (d.wikipedia) {
+    //     loadWiki(
+    //         d.wikipedia,
+    //         function() {
+
+    //         },
+    //         function() {
+
+    //         }
+    //     )
+    // }
 
   } else {
     portrait.classList.add("d-none");
@@ -141,8 +148,8 @@ function selectChart(area) {
 
 function init() {
   Promise.all([
-    d3.csv("./data/nodes.csv"),
-    d3.csv("./data/connections.csv"),
+    d3.csv("./data/nodes.csv", d3.autoType),
+    d3.csv("./data/connections.csv", d3.autoType),
   ]).then((resp) => {
     const colors = ["#B0E2A7", "#19494D", "#D0BAE8", "#53B8C6"];
     const colorMap = {};
@@ -160,7 +167,7 @@ function init() {
 
       var _links = areaLinks[area];
       var _nodes = areaNodes[area];
-
+ 
       var chart = renderChart()
         .svgHeight(window.innerHeight)
         .svgWidth(window.innerWidth)
