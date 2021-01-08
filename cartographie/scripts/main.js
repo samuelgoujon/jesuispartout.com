@@ -18,6 +18,26 @@ function imageExists(image_url, callback, reject) {
   http.send();
 }
 
+function loadWiki(wikipedia, callback, reject) {
+    var http = new XMLHttpRequest();
+    
+    http.onreadystatechange = function () {
+    if (this.readyState == 4) {
+        if (this.status == 200) {
+            console.log(this);
+            callback();
+        } else if (reject) {
+            reject();
+        }
+    }
+    };
+
+    http.open("HEAD", wikipedia, true);
+    // http.setRequestHeader("Origin", "*");
+    http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+    http.send();
+}
+
 function openNav(d) {
   var portrait = document.getElementById("portrait");
 
@@ -38,6 +58,19 @@ function openNav(d) {
         portrait.classList.add("d-none");
       }
     );
+
+    if (d.wikipedia) {
+        loadWiki(
+            d.wikipedia,
+            function() {
+
+            },
+            function() {
+
+            }
+        )
+    }
+
   } else {
     portrait.classList.add("d-none");
     d3.selectAll(".people").style("display", "none");
