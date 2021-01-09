@@ -9,9 +9,8 @@ function renderChart() {
     marginRight: 5,
     marginLeft: 5,
     container: "body",
-    radius_org: 16,
-    radius_people: 10,
-    iconSize: 20,
+    radius_org: 20,
+    radius_people: 16,
     nodesFontSize: 12,
     defaultFont: "Helvetica",
     color_org: "#FFAC1E",
@@ -58,7 +57,7 @@ function renderChart() {
     let zoom = d3.zoom().scaleExtent([0.5, 10]).on("zoom", zoomed);
 
     attrs.data.nodes.forEach((d,i) => {
-      d.id = 'node-' + i;
+      d.id = 'node-' + i + '-' + getRandomId();
       d.radius = d.type === "organization" ? attrs.radius_org : attrs.radius_people;
     });
 
