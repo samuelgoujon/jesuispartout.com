@@ -26,7 +26,7 @@ function renderChart() {
   var strokeWidth = 1;
   var strokeWidthSelected = 2;
   var padding = 1.5 + strokeWidth; // separation between same-color nodes
-  var resize_ratio = 3; // multiply node radius on select
+  var resize_ratio = 2.2; // multiply node radius on select
   var textNodePadding = 17;
   var linkColor = "#666";
   var nodeStroke = "#666";
@@ -279,6 +279,32 @@ function renderChart() {
             .attr("display", null)
             .attr("font-weight", "bold")
             .attr("fill", textColorSelected);
+
+          if (!d.clicked && d.image) {
+            let el = d3.select(this);
+            let clipCircle = el.select(".clip-circle");
+            let image = el.select("image");
+            let radius = d.radius * resize_ratio;
+    
+            clipCircle.attr("r", () => {
+              return radius / currentScale;
+            });
+    
+            image
+              .transition()
+              .duration(150)
+              .attr("width", (radius * 2) / currentScale)
+              .attr("height", (radius * 2) / currentScale)
+              .attr("x", -radius / currentScale)
+              .attr("y", -radius / currentScale);
+
+            text
+            .transition()
+            .duration(150)
+            .attr("dy", (d) => {
+              return (radius + textNodePadding) / currentScale;
+            });
+          } 
         })
         .on("mouseout", function (e, d) {
           var circle = d3.select(this).select(".node-circle");
@@ -315,6 +341,31 @@ function renderChart() {
                 return color(d.area);
               })
               .attr("stroke", nodeStroke);
+
+            if (d.image) {
+              let el = d3.select(this);
+              let clipCircle = el.select(".clip-circle");
+              let image = el.select("image");
+      
+              clipCircle.attr("r", (d) => {
+                return d.radius / currentScale;
+              });
+      
+              image
+                .transition()
+                .duration(150)
+                .attr("width", (d) => (d.radius * 2) / currentScale)
+                .attr("height", (d) => (d.radius * 2) / currentScale)
+                .attr("x", -d.radius / currentScale)
+                .attr("y", -d.radius / currentScale);
+
+              text
+              .transition()
+              .duration(150)  
+              .attr("dy", (d) => {
+                  return (d.radius + textNodePadding) / currentScale;
+                });
+            }
           }
         });
 
