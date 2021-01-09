@@ -34,7 +34,6 @@ function makeChain(attrs, main) {
   });
 }
 
-
 var isMobile = {
   Android: function() {
       return navigator.userAgent.match(/Android/i);
@@ -55,3 +54,5 @@ var isMobile = {
       return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
   }
 };
+
+const getRandomId = () => Date.now().toString(36) + Math.random().toString(36).substr(2);
