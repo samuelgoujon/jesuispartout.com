@@ -125,10 +125,12 @@ function getAreaLevelData(all_nodes, all_links) {
       let node = people.get(d.source) || people.get(d.target);
 
       if (node) {
-        areaNodes[area].push({
-          ...node,
-          area: area,
-        });
+        if (!areaNodes[area].some(d => d.node === node.node)) {
+          areaNodes[area].push({
+            ...node,
+            area: area
+          });
+        }
         areaLinks[area].push(d);
       }
     }
