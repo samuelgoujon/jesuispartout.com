@@ -1,494 +1,495 @@
-source,target,type,
-Yaël Braun-Pivet,Assemblée nationale,solid,
-Bruno Studer,Assemblée nationale,solid,
-Guillaume Chiche,Assemblée nationale,solid,
-Bérangère Abba,Assemblée nationale,solid,
-Dominique David,Assemblée nationale,solid,
-Geneviève Levy,Assemblée nationale,solid,
-Olivier Dassault,Assemblée nationale,solid,
-Sylvain Waserman,Assemblée nationale,solid,
-Louis Aliot,Assemblée nationale,solid,
-David Habib,Assemblée nationale,solid,
-Meyer Habib,Assemblée nationale,solid,
-Christophe Arend,Assemblée nationale,solid,
-Patrick Drahi,BFM,solid,
-Anna Cabana,BFM,solid,
-Laurent Neumann,BFM,solid,
-Ruth Elkrief,BFM,solid,
-Marc-Olivier Fogiel,BFM,solid,
-Nathalie Levy,BFM,solid,
-Marc Fiorentino,BFM,solid,
-Thomas Misrachi,BFM,solid,
-Benjamin Amar,CGT,solid,
-Maurice Szafran,Challenges,solid,
-Annette Wieviorka,CNRS,solid,
-Edgar Morin,CNRS,solid,
-Danny Trom,CNRS,solid,
-Henry Kissinger,Commission trilatérale,solid,
-Serge Weinberg,Commission trilatérale,solid,
-Hervé Mariton,Commission trilatérale,solid,
-Élise Fajgeles,DILCRAH,solid,
-Johanna Barasz,DILCRAH,solid,
-Michel Wieviorka,DILCRAH,solid,
-Tal Bruttmann,EHESS,solid,
-Bruno Karsenti,EHESS,solid,
-Jean-Pierre Elkabbach,Europe 1,solid,
-Anne Sinclair,Europe 1,solid,
-David Abiker,Europe 1,solid,
-Patrick Cohen,Europe 1,solid,
-Fabrice d’Almeida,Europe 1,solid,
-Anne Roumanoff,Europe 1,solid,
-Fabien Namias,Europe 1,solid,
-Daniel Cohn-Bendit,Europe Écologie Les Verts,solid,
-Alain Lipietz,Europe Écologie Les Verts,solid,
-Gilles Finchelstein,Fondation Jean-Jaurès,solid,Le Siècle
-Jean-Yves Camus,Fondation Jean-Jaurès,solid,
-Michel Drucker,France Télévisions,solid,
-Stéphane Sitbon-Gomez,France Télévisions,solid,
-Diego Buñuel,France Télévisions,solid,
-Michel Cymes,France Télévisions,solid,
-Michel Field,France Télévisions,solid,
-Marie Drucker,France Télévisions,solid,
-Nagui,France Télévisions,solid,
-Béatrice Schönberg,France Télévisions,solid,
-Daniela Lumbroso,France Télévisions,solid,
-Jérôme Clément,France Télévisions,solid,
-Serge Moati,France Télévisions,solid,
-Alain Minc,French-American Foundation,solid,
-Gérald Darmanin,Gouvernement,solid,
-Joachim Bokobza,Gouvernement,solid,
-Déborah Münzer,Gouvernement,solid,
-Anne Rubinstein,Gouvernement,solid,
-Maïa Wirgin,Gouvernement,solid,
-Eve Zuckerman,Gouvernement,solid,
-Constance Bensussan,Gouvernement,solid,
-Alexis Zajdenweber,Gouvernement,solid,
-Alexis Kohler,Gouvernement,solid,
-Mickaël Benzaqui,Gouvernement,solid,
-Thomas Hartog,Gouvernement,solid,
-Jack Azoulay,Gouvernement,solid,
-Élisabeth Borne,Gouvernement,solid,
-Juliette Oury,Gouvernement,solid,
-Simon Fetet,Gouvernement,solid,
-Samira Jemaï,Gouvernement,solid,
-Nathanaël Mason-Schuler,Gouvernement,solid,
-Soria Blatmann,Gouvernement,solid,
-Alexandre Adam,Gouvernement,solid,
-Jean Salomon,Gouvernement,solid,
-Daniel Zielinski,Gouvernement,solid,
-Yedidia Levy-Zauberman,Gouvernement,solid,
-Emmanuelle Wargon,Gouvernement,solid,
-Lionel Choukroun,Gouvernement,solid,
-Gabriel Attal,Gouvernement,solid,
-Joseph Zimet,Gouvernement,solid,
-Léo Finkel,Gouvernement,solid,
-Jérôme Salomon,Gouvernement,solid,
-Cyril Hanouna,Groupe Canal+,solid,
-Éric Zemmour,Groupe Canal+,solid,
-Valérie Bénaïm,Groupe Canal+,solid,
-Pierre Ménès,Groupe Canal+,solid,
-Clément Viktorovitch,Groupe Canal+,solid,
-Maxime Saada,Groupe Canal+,solid,
-Arthur,Groupe TF1,solid,
-Jean-Pierre Foucault,Groupe TF1,solid,
-Claude Berda,Producteurs,solid,
-Christophe Dechavanne,Groupe TF1,solid,
-Jean-Luc Reichmann,Groupe TF1,solid,
-Laurence Tubiana,Haut Conseil pour le climat,solid,
-Judith Mergui,Humoristes,solid,
-Gad Elmaleh,Humoristes,solid,
-Kev Adams,Humoristes,solid,
-Dany Boon,Humoristes,solid,
-Élie Semoun,Humoristes,solid,
-Raphaël Mezrahi,Humoristes,solid,
-Jean-François Dérec,Humoristes,solid,
-Michel Leeb,Humoristes,solid,
-Marie Benoliel,Humoristes,solid,
-Max Boublil,Humoristes,solid,
-Tomer Sisley,Humoristes,solid,
-Armand Abécassis,Industrie culturelle,solid,
-Éliette Abécassis,Industrie culturelle,solid,
-Christine Angot,Industrie culturelle,solid,
-Étienne Balibar,Industrie culturelle,solid,
-François Samuelson,Industrie culturelle,solid,
-Jacques-Alain Miller,Industrie culturelle,solid,
-Gilles Cohen-Solal,Industrie culturelle,solid,
-Élisabeth Roudinesco,Industrie culturelle,solid,
-Odile Jacob,Industrie culturelle,solid,
-Marc Jacobs,Industrie de la mode,solid,
-Élisabeth Garouste,Industrie de la mode,solid,
-Sidney Toledano,Dior,solid,
-Evelyne Chétrite,Industrie de la mode,solid,
-Judith Milgrom,Industrie de la mode,solid,
-Franck Provost,Industrie de la mode,solid,
-Raphaël Elicha ,Industrie de la mode,solid,
-Alexandre Elicha,Industrie de la mode,solid,
-Laurent Elicha,Industrie de la mode,solid,
-Patrick Pariente,Industrie de la mode,solid,
-Gérard Pariente,Industrie de la mode,solid,
-Ary Abittan,Acteurs,solid,
-Cédric Klapisch,Réalisateurs,solid,
-François Berléand,Acteurs,solid,
-Christophe Lambert,Acteurs,solid,
-Claude Berri,Réalisateurs,solid,
-Jean-Pierre Bacri,Acteurs,solid,
-Claude Lelouch,Réalisateurs,solid,
-Anouk Aimée,Acteurs,solid,
-Philippe Lellouche,Acteurs,solid,
-Elsa Zylberstein,Acteurs,solid,
-Judith Godrèche,Acteurs,solid,
-David Charvet,Acteurs,solid,
-Richard Anconina,Acteurs,solid,
-Gérard Darmon,Acteurs,solid,
-Francis Huster,Acteurs,solid,
-Alain Chabat,Acteurs,solid,
-Dominique Farrugia,Acteurs,solid,
-Yvan Attal,Réalisateurs,solid,
-Michel Boujenah,Acteurs,solid,
-Emmanuelle Béart,Acteurs,solid,
-Jean Benguigui,Acteurs,solid,
-Alexandre Arcady,Réalisateurs,solid,
-Olivier Sitruk,Acteurs,solid,
-Pierre Arditi,Acteurs,solid,
-Jonathan Cohen,Acteurs,solid,
-Marina Foïs,Acteurs,solid,
-Louis Garrel,Acteurs,solid,
-Rebecca Zlotowski,Acteurs,solid,
-Vincent Elbaz,Acteurs,solid,
-Pascal Elbé,Acteurs,solid,
-Mathieu Kassovitz,Réalisateurs,solid,
-Élie Chouraqui,Réalisateurs,solid,
-Sandrine Kiberlain,Acteurs,solid,
-Richard Berry,Acteurs,solid,
-Léa Drucker,Acteurs,solid,
-Charlotte Gainsbourg,Acteurs,solid,
-Thomas Langmann,Réalisateurs,solid,
-Thierry Lhermitte,Acteurs,solid,
-Patrick Timsit,Acteurs,solid,
-Steve Suissa,Acteurs,solid,
-Mélanie Laurent,Acteurs,solid,
-Pierre Niney,Acteurs,solid,
-Olivier Nakache,Réalisateurs,solid,
-Éric Toledano,Réalisateurs,solid,
-Patrick Bruel,Industrie musicale,solid,
-Dave,Industrie musicale,solid,
-Gilbert Montagné,Industrie musicale,solid,
-Catherine Ringer,Industrie musicale,solid,
-David Guetta,Industrie musicale,solid,
-Enrico Macias,Industrie musicale,solid,
-Isabelle Huppert,Industrie musicale,solid,
-Jean-Jacques Goldman,Industrie musicale,solid,
-Lenny Kravitz,Industrie musicale,solid,
-Michel Jonasz,Industrie musicale,solid,
-Joyce Jonathan,Industrie musicale,solid,
-Thomas Bangalter,Industrie musicale,solid,
-Simon Ghraichy,Industrie musicale,solid,
-Serge Khalfon,Industrie musicale,solid,
-Sean Paul,Industrie musicale,solid,
-Richard Kolinka,Industrie musicale,solid,
-Louis Bertignac,Industrie musicale,solid,
-Marc Dorcel,Industrie pornographique,solid,
-Fabian Thylmann,Industrie pornographique,solid,
-David Marmorstein,Industrie pornographique,solid,
-James Deen,Industrie pornographique,solid,
-Greg Lansky,Industrie pornographique,solid,
-Grégory Dorcel,Industrie pornographique,solid,
-Pierre Nora,Institut de France,solid,
-Bernard Stirn,Institut de France,solid,
-Michel David-Weill,Institut de France,solid,
-Dominique Moïsi,Institut Montaigne,solid,
-Dominique Moïsi,IFRI,dotted,
-Dominique Moïsi,Groupe Bilderberg,dotted,
-Dominique Moïsi,Commission trilatérale,solid,
-Daniel Schneidermann,Journalistes,solid,
-Georges-Marc Benamou,Journalistes,solid,
-Guy Konopnicki,Journalistes,solid,
-Judith Waintraub,Journalistes,solid,
-Anne Rosencher,L’Express,solid,
-Dominique Nora,L’Obs,solid,
-Ilana Cicurel,La République en marche,solid,
-Mathias Enthoven,Le Média,solid,
-Gérard Miller,Le Média,solid,
-Antoine Spire,Le Monde,solid,
-Louis Dreyfus,Le Monde,solid,
-Alain Gresh,Le Monde diplomatique,solid,
-Serge Halimi,Le Monde diplomatique,solid,
-Bernard-Henri-Lévy,Le Point,solid,
-Patrick Balkany,Les Républicains,solid,
-Jean-François Copé,Les Républicains,solid,
-Valérie Hoffenberg,Les Républicains,solid,
-Benjamin Lancar,Les Républicains,dotted,
-Jean-Louis Debré,Les Républicains,solid,
-Michèle Barzach,Les Républicains,solid,
-Mickaël Szerman,Les Républicains,solid,
-Denis Olivenne,Libération,solid,
-Céline Bekerman,LICRA,solid,
-Alain Jakubowicz,LICRA,solid,
-Nathalie Boy de la Tour,Ligue de football professionnel,solid,
-Arié Alimi,Ligue des droits de l’homme,solid,
-Ariel Weil,Mairie de Paris,solid,
-Pierre Aidenbaum,Mairie de Paris,dotted,
-Karen Taïeb,Mairie de Paris,solid,
-Ian Brossat,Mairie de Paris,solid,
-Patrick Klugman,Mairie de Paris,solid,
-Jean-Louis Missika,Mairie de Paris,solid,
-Paul Simondon,Mairie de Paris,solid,
-Sylvie Wieviorka,Mairie de Paris,solid,
-Grégoire Chertok,Mairie de Paris,solid,
-Jean-Michel Cohen,Médecine,solid,
-Martin Hirsch,Médecine,solid,
-Virginie Schwarz,Météo-France,solid,
-Jean-François Kahn,Mouvement démocrate,solid,
-Corinne Lepage,Mouvement démocrate,solid,
-Alain Krivine,Nouveau Parti anticapitaliste,solid,
-Daniel Bensaïd,Nouveau Parti anticapitaliste,solid,
-Audrey Azoulay,Organisation des Nations Unies,solid,
-Pascal Cherki,Parti socialiste,solid,
-Vincent Peillon,Parti socialiste,solid,
-Pierre Moscovici,Parti socialiste,solid,
-Adeline Hazan,Parti socialiste,solid,
-Jack Lang,Parti socialiste,solid,
-Robert Badinter,Parti socialiste,solid,
-Georges Kiejman,Juristes,solid,
-Laurent Fabius,Parti socialiste,solid,
-Henri Weber,Parti socialiste,solid,
-Danièle Hoffman-Rispal,Parti socialiste,solid,
-Dominique Strauss-Kahn,Parti socialiste,solid,
-Stéphane Fouks,Parti socialiste,solid,
-Julien Dray,Parti socialiste,solid,
-Pierre Joxe,Parti socialiste,solid,
-Maurice Lévy,Publicis,dotted,
-Arthur Sadoun,Publicis,solid,
-Élisabeth Badinter,Publicis,solid,
-Édouard Baer,Radio France,solid,
-Nicolas Demorand,Radio France,solid,
-Raphaël Enthoven,Radio France,solid,
-Alain Finkielkraut,Radio France,solid,
-Claude Askolovitch,Radio France,solid,
-Laure Adler,Radio France,solid,
-Laurence Bloch,Radio France,solid,
-Marc Kravetz,Radio France,solid,
-Serge Federbusch,Rassemblement national,solid,
-Stéphane Bern,RTL,solid,
-Esther Benbassa,Sénat,solid,
-Cécile Cukierman,Sénat,solid,
-Laurence Cohen,Sénat,solid,
-Michel Amiel,Sénat,solid,
-Roger Karoutchi,Sénat,solid,
-David Assouline,Sénat,solid,
-Patrick Kanner,Sénat,solid,
-Marek Halter,SOS Racisme,solid,
-André Bercoff,Sud Radio,solid,
-Pierre Bellanger,Skyrock,solid,
-Rudy Reichstadt,Conspiracy Watch,solid,
-Emmanuel Levy,NRJ,solid,
-Ginette Moulin,Galeries Lafayette,solid,
-Christiane Houzé,Galeries Lafayette,solid,
-Guillaume Houzé,Galeries Lafayette,solid,
-Mark Zuckerberg,Facebook,solid,
-Sheryl Sandberg,Facebook,solid,
-Reid Hoffman,LinkedIn,solid,
-Orit Gadiesh,Bain & Company,solid,
-Safra Catz,Oracle,solid,
-Larry Ellison,Oracle,solid,
-Travis Kalanick,Uber,solid,
-Alain Némarq,Mauboussin,solid,
-Robert Kraft,Kraft Group,solid,
-Axel Kahn,Comité consultatif national d'éthique,solid,
-Jean-François Delfraissy,Comité consultatif national d'éthique,solid,
-Sergueï Brin,Google,solid,
-Susan Wojcicki,Google,solid,
-Tristan Mendès France,Stop hate money,solid,
-Arié Bensemhoun,Journalistes,solid,
-Barry Diller,"IAC (Tinder, Match.com, OkCupid, Vimeo...)",solid,
-Pierre Besnainou,Congrès juif européen,solid,
-Jacob Rothschild,Congrès juif mondial,solid,
-David de Rothschild,Congrès juif mondial,solid,
-Chella Safra,Congrès juif mondial,solid,
-Jack Terpins,Congrès juif mondial,solid,
-Robert Singer,Congrès juif mondial,solid,
-Claudio Epelman,Congrès juif mondial,solid,
-Élie Chouraqui,i24news,solid,
-Roger Cukierman,CRIF,solid,
-Ronald Lauder,Congrès juif mondial,solid,
-Joël Mergui,Consistoire central israélite de France,solid,
-Francis Kalifat,CRIF,solid,
-Ariel Goldmann,Fonds social juif unifié,solid,
-Valérie Maupas,CRIF,solid,
-Gérard Garçon,Tsédaka,solid,
-Philippe Meyer,B'nai B'rith,solid,
-Gil Taïeb,CRIF,solid,
-Michael Dell,Dell,solid,
-Viatcheslav Moshe Kantor,Congrès juif européen,solid,
-Alain Bauer,Grand Orient de France,solid,
-Alexandre Adler,Mouvement juif libéral de France,solid,
-Delphine Horvilleur,Mouvement juif libéral de France,solid,
-Alain Afflelou,Alain Afflelou (entreprise),solid,
-Agnès Jaoui,Acteurs,solid,
-David Solomon,Goldman Sachs,solid,
-Lloyd Blankfein,Goldman Sachs,dotted,
-Thierry Veil,Bagelstein,solid,
-Gilles Abecassis,Bagelstein,solid,
-Stéphane Israël,Arianespace,solid,
-Santiago Amigorena,Réalisateurs,solid,
-Samuel Benchetrit,Industrie culturelle,solid,
-Richard Malka,Juristes,solid,
-Raphaël Glucksmann,Parti socialiste,solid,
-Alain Weill,BFM,solid,
-Laurent Weil,Groupe Canal+,dotted,
-Alain Finkielkraut,Institut de France,solid,
-Lionel Abelanski,Acteurs,solid,
-Laurent Alexandre,Doctissimo,dotted,
-Paul Amar,i24news,solid,
-Frank Melloul,i24news,solid,
-Jacques Attali,L’Express,dotted,
-Éric Antoine,Humoristes,solid,
-Nora Arnezeder,Acteurs,solid,
-Françoise Atlan,Industrie musicale,solid,
-Sylvain Attal,France Télévisions,solid,
-Jean-Charles Banoun,i24news,solid,
-Élisabeth Lévy,Causeur,solid,
-Gil Mihaely,Causeur,solid,
-Gilles-William Goldnadel,Avocats sans frontières,solid,
-Gabriel Naouri,Groupe Casino,solid,
-Jean-Charles Naouri,Groupe Casino,solid,
-Étienne Moatti,Journalistes,solid,
-Franz-Olivier Giesbert,France Télévisions,solid,
-Frédéric Encel,LICRA,solid,
-Frédéric Haziza,Journalistes,solid,
-Jean-Paul Enthoven,Le Point,solid,
-Hervé Temime,Juristes,solid,
-Howard Schultz,Starbucks,solid,
-Jean-Claude Elfassi,Journalistes,solid,
-Jean-David Levitte,Institut de France,solid,
-Jean-Pierre Rosenczveig,Juristes,solid,
-Laurent Karila,Médecine,solid,
-William Lowenstein,Médecine,solid,
-Étienne-Émile Baulieu,Médecine,solid,
-Marin Karmitz,MK2,solid,
-Alain Wertheimer,Chanel,solid,
-Gérard Wertheimer,Chanel,solid,
-Marc Peschanski,Médecine,solid,
-Jean-Bernard Lévy,Électricité de France,solid,
-Marc Knobel,CRIF,solid,
-Vincent Lindon,Acteurs,solid,
-Alexandra Minkowski,Juristes,solid,
-Valéry Zeitoun,Industrie culturelle,solid,
-Ariel Wizman,Radio Nova,solid,
-Noémie Halioua,i24news,solid,
-Hélène Cixous,Industrie culturelle,solid,
-Pierre Haski,Reporters sans frontières,solid,
-Guy Sorman,Reporters sans frontières,solid,
-Bernard Guetta,La République en marche,solid,
-Géraldine Nakache,Acteurs,solid,
-Gabriel Matzneff,Industrie culturelle,solid,
-Frédéric Diefenthal,Acteurs,solid,
-Mathias Chichportich,Juristes,solid,
-David-Olivier Kaminski,Juristes,solid,
-David de Rothschild,Fondation pour la mémoire de la Shoah,solid,
-Daniel Hechter,Industrie de la mode,solid,
-Michaël Youn,Humoristes,solid,
-Éric de Rothschild,Fondation pour la mémoire de la Shoah,solid,
-Galia Ackerman,Journalistes,solid,
-Radu Mihaileanu,Réalisateurs,solid,
-Sylviane Agacinski,EHESS,dotted,
-Agnès Buzyn,Gouvernement,dotted,
-Frédéric Dabi,IFOP,solid,
-Daniel Lévy-Bruhl,Médecine,solid,
-Dan Cohen,SOS Racisme,solid,
-Elsa Fayer,Groupe TF1,solid,
-Bernard Sabbah,RTL,dotted,
-Jan Koum,Facebook,dotted,
-Bertrand Lebeau Leibovici,Médecine,solid,
-Olivier Rubinstein,Diplomates,solid,
-Joseph Stiglitz,Banque mondiale,dotted,
-Nicholas Stern,Banque mondiale,dotted,
-Jeffrey Sachs,Banque mondiale,dotted,
-Pierre Lévy,Diplomates,solid,
-Serge Klarsfeld,Fondation pour la mémoire de la Shoah,solid,
-Steeve Ruben,Juristes,solid,
-Georges Beller,France Télévisions,dotted,
-Ralph Lauren,Industrie de la mode,solid,
-Paul Lederman,Producteurs,solid,
-Jean-Luc Azoulay,Producteurs,solid,
-Zabou Breitman,Acteurs,solid,
-Olivier Wieviorka,Libération,solid,
-Nicole Guedj,Consistoire central israélite de France,solid,
-Michel Ciment,Radio France,solid,
-Michel Cicurel,Homme d’affaires,solid,
-Mcfly,Humoristes,solid,
-Carlito,Humoristes,solid,
-Vincent Bolloré,Homme d’affaires,solid,
-Lucian Grainge,Universal Music Group,solid,
-Serge Toubiana,Industrie culturelle,solid,
-Corinne Dreyfus-Schmidt,Juristes,solid,
-Roland Castro,Mairie de Paris,dotted,
-Jean-Michel Darrois,Juristes,solid,
-Bettina Rheims,Industrie culturelle,solid,
-Jean-Jacques Ohana,Homme d’affaires,solid,
-Patrick Partouche,Groupe Partouche,solid,
-Isidore Partouche,Groupe Partouche,solid,
-Iris Knobloch,Warner Bros.,solid,
-Francis Szpiner,Mairie de Paris,solid,
-Doris Fisher,Gap,solid,
-Éric Ghebali,SOS Racisme,dotted,
-Haïm Korsia,Institut de France,solid,
-Laurence Fink,BlackRock,solid,
-Patrick Klugman,UEJF,dotted,
-Noémie Madar,UEJF,solid,
-Sacha Ghozlan ,UEJF,solid,
-Patrick Klugman,CRIF,solid,
-Richard Prasquier,CRIF,solid,
-Gil Taïeb,Fonds social juif unifié,solid,
-Ben Cohen,Ben & Jerry's,solid,
-Jerry Greenfield,Ben & Jerry's,solid,
-Laurence Haïm,Groupe Canal+,dotted,
-André Azoulay,Diplomates,solid,
-Arnaud Spire,L’Humanité,solid,
-Serge Nedjar,Groupe Canal+,solid,
-Vincent Bolloré,Groupe Canal+,dotted,
-Ilana Soskin,LICRA,dotted,
-Stéphane Lilti,UEJF,dotted,
-Albert Bourla,Pfizer,solid,
-Dov Alfon,Libération,solid,
-Marc Benioff,Salesforce,solid,
-Raphaël Grably,BFM,solid,
-David Azéma,Institut Montaigne,solid,
-Emmanuel Goldstein,Fondapol,solid,
-Christophe Bejach,Terra Nova,dotted,
-Michel David-Weill,Commission trilatérale,solid,
-Clément Weill-Raynal,France Télévisions,dotted,
-Guillaume Weill-Raynal,Juristes,solid,
-Aude Weill-Raynal,Avocats sans frontières,solid,
-Luc Rosenzweig,Causeur,solid,
-Emmanuel Kessler,Public Sénat,solid,
-Dominique Schnapper,DILCRAH,dotted,
-Sylvie Kauffmann,Commission trilatérale,solid,
-Sylvie Kauffmann,French-American Foundation,solid,
-Sylvie Kauffmann,European Council on Foreign Relations,solid,
-George Soros,European Council on Foreign Relations,solid,
-Gérard Lindeperg,Parti socialiste,dotted,
-Gérard Lindeperg,Fondation Jean-Jaurès,solid,
-Daniel Cohen,Fondation Jean-Jaurès,solid,
-Laurent Azoulai,Fondation Jean-Jaurès,solid,
-Laurent Azoulai,Parti socialiste,dotted,
-Adrien Abecassis,Fondation Jean-Jaurès,solid,
-Pierre Abou,Fondation Jean-Jaurès,solid,
-David Amiel,Fondation Jean-Jaurès,solid,
-Laurent Cohen,Fondation Jean-Jaurès,solid,
-Gilles Bornstein,Radio France,solid,
-Michel Tubiana,Ligue des droits de l’homme,dotted,
-Michel Tubiana,Grand Orient de France,solid,
-Jean-Bernard Lévy,Activision Blizzard,dotted,
-Robert Kotick,Activision Blizzard,solid,
-Michael Morhaime,Activision Blizzard,solid,
-Alice Zagury,TheFamily,solid,
-Alain Fischer,Comité consultatif national d'éthique,solid,
-Eva Green,Acteurs,solid,
-Aure Atika,Acteurs,solid,
-Mathieu Amalric,Acteurs,solid,
-Gilbert Melki,Acteurs,solid,
-Pierre Lellouche,Les Républicains,solid,
-Isaac Larian,MGA Entertainment,solid,
-Stephen Kaufer,Tripadvisor,solid,
-Stuart Levey,Facebook,solid,
+source,target,type
+Ary Abittan,Acteurs,solid
+François Berléand,Acteurs,solid
+Christophe Lambert,Acteurs,solid
+Jean-Pierre Bacri,Acteurs,solid
+Anouk Aimée,Acteurs,solid
+Philippe Lellouche,Acteurs,solid
+Elsa Zylberstein,Acteurs,solid
+Judith Godrèche,Acteurs,solid
+David Charvet,Acteurs,solid
+Richard Anconina,Acteurs,solid
+Gérard Darmon,Acteurs,solid
+Francis Huster,Acteurs,solid
+Alain Chabat,Acteurs,solid
+Dominique Farrugia,Acteurs,solid
+Michel Boujenah,Acteurs,solid
+Emmanuelle Béart,Acteurs,solid
+Jean Benguigui,Acteurs,solid
+Olivier Sitruk,Acteurs,solid
+Pierre Arditi,Acteurs,solid
+Jonathan Cohen,Acteurs,solid
+Marina Foïs,Acteurs,solid
+Louis Garrel,Acteurs,solid
+Rebecca Zlotowski,Acteurs,solid
+Vincent Elbaz,Acteurs,solid
+Pascal Elbé,Acteurs,solid
+Sandrine Kiberlain,Acteurs,solid
+Richard Berry,Acteurs,solid
+Léa Drucker,Acteurs,solid
+Charlotte Gainsbourg,Acteurs,solid
+Thierry Lhermitte,Acteurs,solid
+Patrick Timsit,Acteurs,solid
+Steve Suissa,Acteurs,solid
+Mélanie Laurent,Acteurs,solid
+Pierre Niney,Acteurs,solid
+Agnès Jaoui,Acteurs,solid
+Lionel Abelanski,Acteurs,solid
+Nora Arnezeder,Acteurs,solid
+Vincent Lindon,Acteurs,solid
+Géraldine Nakache,Acteurs,solid
+Frédéric Diefenthal,Acteurs,solid
+Alain Afflelou,Alain Afflelou (entreprise),solid
+Stéphane Israël,Arianespace,solid
+Yaël Braun-Pivet,Assemblée nationale,solid
+Bruno Studer,Assemblée nationale,solid
+Guillaume Chiche,Assemblée nationale,solid
+Bérangère Abba,Assemblée nationale,solid
+Dominique David,Assemblée nationale,solid
+Geneviève Levy,Assemblée nationale,solid
+Olivier Dassault,Assemblée nationale,solid
+Sylvain Waserman,Assemblée nationale,solid
+Louis Aliot,Assemblée nationale,solid
+David Habib,Assemblée nationale,solid
+Meyer Habib,Assemblée nationale,solid
+Christophe Arend,Assemblée nationale,solid
+Gilles-William Goldnadel,Avocats sans frontières,solid
+Philippe Meyer,B'nai B'rith,solid
+Thierry Veil,Bagelstein,solid
+Gilles Abecassis,Bagelstein,solid
+Orit Gadiesh,Bain & Company,solid
+Patrick Drahi,BFM,solid
+Anna Cabana,BFM,solid
+Laurent Neumann,BFM,solid
+Ruth Elkrief,BFM,solid
+Marc-Olivier Fogiel,BFM,solid
+Nathalie Levy,BFM,solid
+Marc Fiorentino,BFM,solid
+Thomas Misrachi,BFM,solid
+Alain Weill,BFM,solid
+Élisabeth Lévy,Causeur,solid
+Gil Mihaely,Causeur,solid
+Benjamin Amar,CGT,solid
+Maurice Szafran,Challenges,solid
+Alain Wertheimer,Chanel,solid
+Gérard Wertheimer,Chanel,solid
+Annette Wieviorka,CNRS,solid
+Edgar Morin,CNRS,solid
+Danny Trom,CNRS,solid
+Axel Kahn,Comité consultatif national d'éthique,solid
+Jean-François Delfraissy,Comité consultatif national d'éthique,solid
+Henry Kissinger,Commission trilatérale,solid
+Serge Weinberg,Commission trilatérale,solid
+Hervé Mariton,Commission trilatérale,solid
+Dominique Moïsi,Commission trilatérale,solid
+Pierre Besnainou,Congrès juif européen,solid
+Viatcheslav Moshe Kantor,Congrès juif européen,solid
+Jacob Rothschild,Congrès juif mondial,solid
+David de Rothschild,Congrès juif mondial,solid
+Chella Safra,Congrès juif mondial,solid
+Jack Terpins,Congrès juif mondial,solid
+Robert Singer,Congrès juif mondial,solid
+Claudio Epelman,Congrès juif mondial,solid
+Ronald Lauder,Congrès juif mondial,solid
+Joël Mergui,Consistoire central israélite de France,solid
+Rudy Reichstadt,Conspiracy Watch,solid
+Roger Cukierman,CRIF,solid
+Francis Kalifat,CRIF,solid
+Valérie Maupas,CRIF,solid
+Gil Taïeb,CRIF,solid
+Marc Knobel,CRIF,solid
+Michael Dell,Dell,solid
+Élise Fajgeles,DILCRAH,solid
+Johanna Barasz,DILCRAH,solid
+Michel Wieviorka,DILCRAH,solid
+Sidney Toledano,Dior,solid
+Laurent Alexandre,Doctissimo,dotted
+Tal Bruttmann,EHESS,solid
+Bruno Karsenti,EHESS,solid
+Sylviane Agacinski,EHESS,dotted
+Jean-Bernard Lévy,Électricité de France,solid
+Jean-Pierre Elkabbach,Europe 1,solid
+Anne Sinclair,Europe 1,solid
+David Abiker,Europe 1,solid
+Patrick Cohen,Europe 1,solid
+Fabrice d’Almeida,Europe 1,solid
+Anne Roumanoff,Europe 1,solid
+Fabien Namias,Europe 1,solid
+Daniel Cohn-Bendit,Europe Écologie Les Verts,solid
+Alain Lipietz,Europe Écologie Les Verts,solid
+Mark Zuckerberg,Facebook,solid
+Sheryl Sandberg,Facebook,solid
+Gilles Finchelstein,Le Siècle,solid
+Gilles Finchelstein,Fondation Jean-Jaurès,solid
+Jean-Yves Camus,Fondation Jean-Jaurès,solid
+David de Rothschild,Fondation pour la mémoire de la Shoah,solid
+Éric de Rothschild,Fondation pour la mémoire de la Shoah,solid
+Ariel Goldmann,Fonds social juif unifié,solid
+Michel Drucker,France Télévisions,solid
+Stéphane Sitbon-Gomez,France Télévisions,solid
+Diego Buñuel,France Télévisions,solid
+Michel Cymes,France Télévisions,solid
+Michel Field,France Télévisions,solid
+Marie Drucker,France Télévisions,solid
+Nagui,France Télévisions,solid
+Béatrice Schönberg,France Télévisions,solid
+Daniela Lumbroso,France Télévisions,solid
+Jérôme Clément,France Télévisions,solid
+Serge Moati,France Télévisions,solid
+Sylvain Attal,France Télévisions,solid
+Franz-Olivier Giesbert,France Télévisions,solid
+Alain Minc,French-American Foundation,solid
+Ginette Moulin,Galeries Lafayette,solid
+Christiane Houzé,Galeries Lafayette,solid
+Guillaume Houzé,Galeries Lafayette,solid
+David Solomon,Goldman Sachs,solid
+Lloyd Blankfein,Goldman Sachs,dotted
+Sergueï Brin,Google,solid
+Susan Wojcicki,Google,solid
+Gérald Darmanin,Gouvernement,solid
+Joachim Bokobza,Gouvernement,solid
+Déborah Münzer,Gouvernement,solid
+Anne Rubinstein,Gouvernement,solid
+Maïa Wirgin,Gouvernement,solid
+Eve Zuckerman,Gouvernement,solid
+Constance Bensussan,Gouvernement,solid
+Alexis Zajdenweber,Gouvernement,solid
+Alexis Kohler,Gouvernement,solid
+Mickaël Benzaqui,Gouvernement,solid
+Thomas Hartog,Gouvernement,solid
+Jack Azoulay,Gouvernement,solid
+Élisabeth Borne,Gouvernement,solid
+Juliette Oury,Gouvernement,solid
+Simon Fetet,Gouvernement,solid
+Samira Jemaï,Gouvernement,solid
+Nathanaël Mason-Schuler,Gouvernement,solid
+Soria Blatmann,Gouvernement,solid
+Alexandre Adam,Gouvernement,solid
+Jean Salomon,Gouvernement,solid
+Daniel Zielinski,Gouvernement,solid
+Yedidia Levy-Zauberman,Gouvernement,solid
+Emmanuelle Wargon,Gouvernement,solid
+Lionel Choukroun,Gouvernement,solid
+Gabriel Attal,Gouvernement,solid
+Joseph Zimet,Gouvernement,solid
+Léo Finkel,Gouvernement,solid
+Jérôme Salomon,Gouvernement,solid
+Agnès Buzyn,Gouvernement,dotted
+Alain Bauer,Grand Orient de France,solid
+Dominique Moïsi,Groupe Bilderberg,dotted
+Cyril Hanouna,Groupe Canal+,solid
+Éric Zemmour,Groupe Canal+,solid
+Valérie Bénaïm,Groupe Canal+,solid
+Pierre Ménès,Groupe Canal+,solid
+Clément Viktorovitch,Groupe Canal+,solid
+Maxime Saada,Groupe Canal+,solid
+Laurent Weil,Groupe Canal+,dotted
+Gabriel Naouri,Groupe Casino,solid
+Jean-Charles Naouri,Groupe Casino,solid
+Arthur,Groupe TF1,solid
+Jean-Pierre Foucault,Groupe TF1,solid
+Christophe Dechavanne,Groupe TF1,solid
+Jean-Luc Reichmann,Groupe TF1,solid
+Laurence Tubiana,Haut Conseil pour le climat,solid
+Judith Mergui,Humoristes,solid
+Gad Elmaleh,Humoristes,solid
+Kev Adams,Humoristes,solid
+Dany Boon,Humoristes,solid
+Élie Semoun,Humoristes,solid
+Raphaël Mezrahi,Humoristes,solid
+Jean-François Dérec,Humoristes,solid
+Michel Leeb,Humoristes,solid
+Marie Benoliel,Humoristes,solid
+Max Boublil,Humoristes,solid
+Tomer Sisley,Humoristes,solid
+Éric Antoine,Humoristes,solid
+Michaël Youn,Humoristes,solid
+Élie Chouraqui,i24news,solid
+Paul Amar,i24news,solid
+Frank Melloul,i24news,solid
+Jean-Charles Banoun,i24news,solid
+Noémie Halioua,i24news,solid
+Barry Diller,"IAC (Tinder, Match.com, OkCupid, Vimeo...)",solid
+Frédéric Dabi,IFOP,solid
+Dominique Moïsi,IFRI,dotted
+Armand Abécassis,Industrie culturelle,solid
+Éliette Abécassis,Industrie culturelle,solid
+Christine Angot,Industrie culturelle,solid
+Étienne Balibar,Industrie culturelle,solid
+François Samuelson,Industrie culturelle,solid
+Jacques-Alain Miller,Industrie culturelle,solid
+Gilles Cohen-Solal,Industrie culturelle,solid
+Élisabeth Roudinesco,Industrie culturelle,solid
+Odile Jacob,Industrie culturelle,solid
+Samuel Benchetrit,Industrie culturelle,solid
+Valéry Zeitoun,Industrie culturelle,solid
+Hélène Cixous,Industrie culturelle,solid
+Gabriel Matzneff,Industrie culturelle,solid
+Marc Jacobs,Industrie de la mode,solid
+Élisabeth Garouste,Industrie de la mode,solid
+Evelyne Chétrite,Industrie de la mode,solid
+Judith Milgrom,Industrie de la mode,solid
+Franck Provost,Industrie de la mode,solid
+Raphaël Elicha ,Industrie de la mode,solid
+Alexandre Elicha,Industrie de la mode,solid
+Laurent Elicha,Industrie de la mode,solid
+Patrick Pariente,Industrie de la mode,solid
+Gérard Pariente,Industrie de la mode,solid
+Daniel Hechter,Industrie de la mode,solid
+Patrick Bruel,Industrie musicale,solid
+Dave,Industrie musicale,solid
+Gilbert Montagné,Industrie musicale,solid
+Catherine Ringer,Industrie musicale,solid
+David Guetta,Industrie musicale,solid
+Enrico Macias,Industrie musicale,solid
+Isabelle Huppert,Industrie musicale,solid
+Jean-Jacques Goldman,Industrie musicale,solid
+Lenny Kravitz,Industrie musicale,solid
+Michel Jonasz,Industrie musicale,solid
+Joyce Jonathan,Industrie musicale,solid
+Thomas Bangalter,Industrie musicale,solid
+Simon Ghraichy,Industrie musicale,solid
+Serge Khalfon,Industrie musicale,solid
+Sean Paul,Industrie musicale,solid
+Richard Kolinka,Industrie musicale,solid
+Louis Bertignac,Industrie musicale,solid
+Françoise Atlan,Industrie musicale,solid
+Marc Dorcel,Industrie pornographique,solid
+Fabian Thylmann,Industrie pornographique,solid
+David Marmorstein,Industrie pornographique,solid
+James Deen,Industrie pornographique,solid
+Greg Lansky,Industrie pornographique,solid
+Grégory Dorcel,Industrie pornographique,solid
+Pierre Nora,Institut de France,solid
+Bernard Stirn,Institut de France,solid
+Michel David-Weill,Institut de France,solid
+Alain Finkielkraut,Institut de France,solid
+Jean-David Levitte,Institut de France,solid
+Dominique Moïsi,Institut Montaigne,solid
+Daniel Schneidermann,Journalistes,solid
+Georges-Marc Benamou,Journalistes,solid
+Guy Konopnicki,Journalistes,solid
+Judith Waintraub,Journalistes,solid
+Arié Bensemhoun,Journalistes,solid
+Étienne Moatti,Journalistes,solid
+Frédéric Haziza,Journalistes,solid
+Jean-Claude Elfassi,Journalistes,solid
+Galia Ackerman,Journalistes,solid
+Georges Kiejman,Juristes,solid
+Richard Malka,Juristes,solid
+Hervé Temime,Juristes,solid
+Jean-Pierre Rosenczveig,Juristes,solid
+Alexandra Minkowski,Juristes,solid
+Mathias Chichportich,Juristes,solid
+David-Olivier Kaminski,Juristes,solid
+Robert Kraft,Kraft Group,solid
+Anne Rosencher,L’Express,solid
+Jacques Attali,L’Express,dotted
+Dominique Nora,L’Obs,solid
+Ilana Cicurel,La République en marche,solid
+Bernard Guetta,La République en marche,solid
+Mathias Enthoven,Le Média,solid
+Gérard Miller,Le Média,solid
+Antoine Spire,Le Monde,solid
+Louis Dreyfus,Le Monde,solid
+Alain Gresh,Le Monde diplomatique,solid
+Serge Halimi,Le Monde diplomatique,solid
+Bernard-Henri-Lévy,Le Point,solid
+Jean-Paul Enthoven,Le Point,solid
+Patrick Balkany,Les Républicains,solid
+Jean-François Copé,Les Républicains,solid
+Valérie Hoffenberg,Les Républicains,solid
+Benjamin Lancar,Les Républicains,dotted
+Jean-Louis Debré,Les Républicains,solid
+Michèle Barzach,Les Républicains,solid
+Mickaël Szerman,Les Républicains,solid
+Denis Olivenne,Libération,solid
+Céline Bekerman,LICRA,solid
+Alain Jakubowicz,LICRA,solid
+Frédéric Encel,LICRA,solid
+Nathalie Boy de la Tour,Ligue de football professionnel,solid
+Arié Alimi,Ligue des droits de l’homme,solid
+Reid Hoffman,LinkedIn,solid
+Ariel Weil,Mairie de Paris,solid
+Pierre Aidenbaum,Mairie de Paris,dotted
+Karen Taïeb,Mairie de Paris,solid
+Ian Brossat,Mairie de Paris,solid
+Patrick Klugman,Mairie de Paris,solid
+Jean-Louis Missika,Mairie de Paris,solid
+Paul Simondon,Mairie de Paris,solid
+Sylvie Wieviorka,Mairie de Paris,solid
+Grégoire Chertok,Mairie de Paris,solid
+Alain Némarq,Mauboussin,solid
+Jean-Michel Cohen,Médecine,solid
+Martin Hirsch,Médecine,solid
+Laurent Karila,Médecine,solid
+William Lowenstein,Médecine,solid
+Étienne-Émile Baulieu,Médecine,solid
+Marc Peschanski,Médecine,solid
+Daniel Lévy-Bruhl,Médecine,solid
+Virginie Schwarz,Météo-France,solid
+Marin Karmitz,MK2,solid
+Jean-François Kahn,Mouvement démocrate,solid
+Corinne Lepage,Mouvement démocrate,solid
+Alexandre Adler,Mouvement juif libéral de France,solid
+Delphine Horvilleur,Mouvement juif libéral de France,solid
+Alain Krivine,Nouveau Parti anticapitaliste,solid
+Daniel Bensaïd,Nouveau Parti anticapitaliste,solid
+Emmanuel Levy,NRJ,solid
+Safra Catz,Oracle,solid
+Larry Ellison,Oracle,solid
+Audrey Azoulay,Organisation des Nations Unies,solid
+Pascal Cherki,Parti socialiste,solid
+Vincent Peillon,Parti socialiste,solid
+Pierre Moscovici,Parti socialiste,solid
+Adeline Hazan,Parti socialiste,solid
+Jack Lang,Parti socialiste,solid
+Robert Badinter,Parti socialiste,solid
+Laurent Fabius,Parti socialiste,solid
+Henri Weber,Parti socialiste,solid
+Danièle Hoffman-Rispal,Parti socialiste,solid
+Dominique Strauss-Kahn,Parti socialiste,solid
+Stéphane Fouks,Parti socialiste,solid
+Julien Dray,Parti socialiste,solid
+Pierre Joxe,Parti socialiste,solid
+Raphaël Glucksmann,Parti socialiste,solid
+Claude Berda,Producteurs,solid
+Maurice Lévy,Publicis,dotted
+Arthur Sadoun,Publicis,solid
+Élisabeth Badinter,Publicis,solid
+Édouard Baer,Radio France,solid
+Nicolas Demorand,Radio France,solid
+Raphaël Enthoven,Radio France,solid
+Alain Finkielkraut,Radio France,solid
+Claude Askolovitch,Radio France,solid
+Laure Adler,Radio France,solid
+Laurence Bloch,Radio France,solid
+Marc Kravetz,Radio France,solid
+Ariel Wizman,Radio Nova,solid
+Serge Federbusch,Rassemblement national,solid
+Cédric Klapisch,Réalisateurs,solid
+Claude Berri,Réalisateurs,solid
+Claude Lelouch,Réalisateurs,solid
+Yvan Attal,Réalisateurs,solid
+Alexandre Arcady,Réalisateurs,solid
+Mathieu Kassovitz,Réalisateurs,solid
+Élie Chouraqui,Réalisateurs,solid
+Thomas Langmann,Réalisateurs,solid
+Olivier Nakache,Réalisateurs,solid
+Éric Toledano,Réalisateurs,solid
+Santiago Amigorena,Réalisateurs,solid
+Radu Mihaileanu,Réalisateurs,solid
+Pierre Haski,Reporters sans frontières,solid
+Guy Sorman,Reporters sans frontières,solid
+Stéphane Bern,RTL,solid
+Esther Benbassa,Sénat,solid
+Cécile Cukierman,Sénat,solid
+Laurence Cohen,Sénat,solid
+Michel Amiel,Sénat,solid
+Roger Karoutchi,Sénat,solid
+David Assouline,Sénat,solid
+Patrick Kanner,Sénat,solid
+Pierre Bellanger,Skyrock,solid
+Marek Halter,SOS Racisme,solid
+Dan Cohen,SOS Racisme,solid
+Howard Schultz,Starbucks,solid
+Tristan Mendès France,Stop hate money,solid
+André Bercoff,Sud Radio,solid
+Gérard Garçon,Tsédaka,solid
+Travis Kalanick,Uber,solid
+Elsa Fayer,Groupe TF1,solid
+Bernard Sabbah,RTL,dotted
+Jan Koum,Facebook,dotted
+Bertrand Lebeau Leibovici,Médecine,solid
+Olivier Rubinstein,Diplomates,solid
+Joseph Stiglitz,Banque mondiale,dotted
+Nicholas Stern,Banque mondiale,dotted
+Jeffrey Sachs,Banque mondiale,dotted
+Pierre Lévy,Diplomates,solid
+Serge Klarsfeld,Fondation pour la mémoire de la Shoah,solid
+Steeve Ruben,Juristes,solid
+Georges Beller,France Télévisions,dotted
+Ralph Lauren,Industrie de la mode,solid
+Paul Lederman,Producteurs,solid
+Jean-Luc Azoulay,Producteurs,solid
+Zabou Breitman,Acteurs,solid
+Olivier Wieviorka,Libération,solid
+Nicole Guedj,Consistoire central israélite de France,solid
+Michel Ciment,Radio France,solid
+Michel Cicurel,Homme d’affaires,solid
+Mcfly,Humoristes,solid
+Carlito,Humoristes,solid
+Vincent Bolloré,Homme d’affaires,solid
+Lucian Grainge,Universal Music Group,solid
+Serge Toubiana,Industrie culturelle,solid
+Corinne Dreyfus-Schmidt,Juristes,solid
+Roland Castro,Mairie de Paris,dotted
+Jean-Michel Darrois,Juristes,solid
+Bettina Rheims,Industrie culturelle,solid
+Jean-Jacques Ohana,Homme d’affaires,solid
+Patrick Partouche,Groupe Partouche,solid
+Isidore Partouche,Groupe Partouche,solid
+Iris Knobloch,Warner Bros.,solid
+Francis Szpiner,Mairie de Paris,solid
+Doris Fisher,Gap,solid
+Éric Ghebali,SOS Racisme,dotted
+Haïm Korsia,Institut de France,solid
+Laurence Fink,BlackRock,solid
+Patrick Klugman,UEJF,dotted
+Noémie Madar,UEJF,solid
+Sacha Ghozlan ,UEJF,solid
+Patrick Klugman,CRIF,solid
+Richard Prasquier,CRIF,solid
+Gil Taïeb,Fonds social juif unifié,solid
+Ben Cohen,Ben & Jerry's,solid
+Jerry Greenfield,Ben & Jerry's,solid
+Laurence Haïm,Groupe Canal+,dotted
+André Azoulay,Diplomates,solid
+Arnaud Spire,L’Humanité,solid
+Serge Nedjar,Groupe Canal+,solid
+Vincent Bolloré,Groupe Canal+,dotted
+Ilana Soskin,LICRA,dotted
+Stéphane Lilti,UEJF,dotted
+Albert Bourla,Pfizer,solid
+Dov Alfon,Libération,solid
+Marc Benioff,Salesforce,solid
+Raphaël Grably,BFM,solid
+David Azéma,Institut Montaigne,solid
+Emmanuel Goldstein,Fondapol,solid
+Christophe Bejach,Terra Nova,dotted
+Michel David-Weill,Commission trilatérale,solid
+Clément Weill-Raynal,France Télévisions,dotted
+Guillaume Weill-Raynal,Juristes,solid
+Aude Weill-Raynal,Avocats sans frontières,solid
+Luc Rosenzweig,Causeur,solid
+Emmanuel Kessler,Public Sénat,solid
+Dominique Schnapper,DILCRAH,dotted
+Sylvie Kauffmann,Commission trilatérale,solid
+Sylvie Kauffmann,French-American Foundation,solid
+Sylvie Kauffmann,European Council on Foreign Relations,solid
+George Soros,European Council on Foreign Relations,solid
+Gérard Lindeperg,Parti socialiste,dotted
+Gérard Lindeperg,Fondation Jean-Jaurès,solid
+Daniel Cohen,Fondation Jean-Jaurès,solid
+Laurent Azoulai,Fondation Jean-Jaurès,solid
+Laurent Azoulai,Parti socialiste,dotted
+Adrien Abecassis,Fondation Jean-Jaurès,solid
+Pierre Abou,Fondation Jean-Jaurès,solid
+David Amiel,Fondation Jean-Jaurès,solid
+Laurent Cohen,Fondation Jean-Jaurès,solid
+Gilles Bornstein,Radio France,solid
+Michel Tubiana,Ligue des droits de l’homme,dotted
+Michel Tubiana,Grand Orient de France,solid
+Jean-Bernard Lévy,Activision Blizzard,dotted
+Robert Kotick,Activision Blizzard,solid
+Michael Morhaime,Activision Blizzard,solid
+Alice Zagury,TheFamily,solid
+Alain Fischer,Comité consultatif national d'éthique,solid
+Eva Green,Acteurs,solid
+Aure Atika,Acteurs,solid
+Mathieu Amalric,Acteurs,solid
+Gilbert Melki,Acteurs,solid
+Pierre Lellouche,Les Républicains,solid
+Isaac Larian,MGA Entertainment,solid
+Stephen Kaufer,Tripadvisor,solid
+Stuart Levey,Facebook,solid
