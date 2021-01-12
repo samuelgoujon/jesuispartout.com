@@ -598,3 +598,4 @@ Terra Nova,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=jso
 IFRI,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IFRI
 Groupe Bilderberg,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Bilderberg
 European Council on Foreign Relations,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=European%20Council%20on%20Foreign%20Relations
+Le Siècle,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Siècle
