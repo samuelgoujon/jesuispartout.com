@@ -153,7 +153,7 @@ function init() {
     d3.csv("./data/nodes.csv", d3.autoType),
     d3.csv("./data/connections.csv", d3.autoType),
   ]).then((resp) => {
-    const colors = ["#B0E2A7", "#19494D", "#D0BAE8", "#53B8C6"];
+    const colors = ["#B0E2A7", "#8DA5A7", "#D0BAE8", "#53B8C6"];
     const colorMap = {};
 
     const { 
