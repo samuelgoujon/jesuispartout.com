@@ -97,7 +97,7 @@ David Amiel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=
 Pierre Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Lellouche
 Alexandre Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Elicha
 Judith Milgrom,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Milgrom
-Raphaël Elicha ,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Elicha%20
+Raphaël Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Elicha%20
 Georges Beller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges%20Beller
 Olivier Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Wieviorka
 Michel Ciment,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Ciment
@@ -403,7 +403,7 @@ Jean-Michel Darrois,people,,true,https://fr.wikipedia.org/w/api.php?format=json&
 Francis Szpiner,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Szpiner
 Éric Ghebali,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Ghebali
 Noémie Madar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Noémie%20Madar
-Sacha Ghozlan ,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sacha%20Ghozlan%20
+Sacha Ghozlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sacha%20Ghozlan%20
 Richard Prasquier,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Prasquier
 André Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=André%20Azoulay
 Ilana Soskin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Soskin
