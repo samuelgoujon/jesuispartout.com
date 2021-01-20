@@ -6,8 +6,8 @@ Isabelle Huppert,people,,false,https://fr.wikipedia.org/w/api.php?format=json&ac
 James Deen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=James%20Deen
 Louis Garrel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Garrel
 Philippe Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Philippe%20Lellouche
-Mcfly,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mcfly
-Carlito,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Carlito
+Mcfly,people,,false,
+Carlito,people,,false,
 Eva Green,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Eva%20Green
 Aure Atika,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Aure%20Atika
 Mathieu Amalric,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathieu%20Amalric
@@ -495,7 +495,7 @@ Facebook,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&
 Galeries Lafayette,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Galeries%20Lafayette
 Goldman Sachs,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Goldman%20Sachs
 Google,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Google
-"IAC (Tinder, Match.com, OkCupid, Vimeo...)",organization,Économie,,"https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IAC%20(Tinder,%20Match.com,%20OkCupid,%20Vimeo...)"
+"IAC (Tinder, Match.com, OkCupid, Vimeo...)",organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IAC%20(entreprise)
 Industrie de la mode,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20de%20la%20mode
 Kraft Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Kraft%20Group
 Ligue de football professionnel,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ligue%20de%20football%20professionnel
