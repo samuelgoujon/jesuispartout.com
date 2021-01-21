@@ -1,601 +1,600 @@
 node,type,area,image,wikipedia
 Acteurs,organization,Culture,,
-CNRS,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=CNRS
-EHESS,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=EHESS
-Humoristes,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Humoristes
-Industrie culturelle,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20culturelle
-Industrie musicale,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20musicale
-Industrie pornographique,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20pornographique
-Institut de France,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Institut%20de%20France
-Réalisateurs,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Réalisateurs
-Producteurs,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Producteurs
+Activision Blizzard,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Activision%20Blizzard
+Adeline Hazan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Adeline%20Hazan
+Adrien Abecassis,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Adrien%20Abecassis
+Agnès Buzyn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Agnès%20Buzyn
+Agnès Jaoui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Agnès%20Jaoui
+Alain Afflelou,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Afflelou
 Alain Afflelou (entreprise),organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Afflelou%20(entreprise)
+Alain Bauer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Bauer
+Alain Chabat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Chabat
+Alain Finkielkraut,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Finkielkraut
+Alain Fischer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Fischer
+Alain Gresh,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Gresh
+Alain Jakubowicz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Jakubowicz
+Alain Krivine,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Krivine
+Alain Lipietz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Lipietz
+Alain Minc,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Minc
+Alain Némarq,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Némarq
+Alain Weill,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Weill
+Alain Wertheimer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Wertheimer
+Albert Bourla,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Albert%20Bourla
+Alexandra Minkowski,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandra%20Minkowski
+Alexandre Adam,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Adam
+Alexandre Adler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Adler
+Alexandre Arcady,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Arcady
+Alexandre Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Elicha
+Alexis Kohler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexis%20Kohler
+Alexis Zajdenweber,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexis%20Zajdenweber
+Alice Zagury,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alice%20Zagury
+André Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=André%20Azoulay
+André Bercoff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=André%20Bercoff
+Anna Cabana,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anna%20Cabana
+Anne Rosencher,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Rosencher
+Anne Roumanoff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Roumanoff
+Anne Rubinstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Rubinstein
+Anne Sinclair,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Sinclair
+Annette Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Annette%20Wieviorka
+Anouk Aimée,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anouk%20Aimée
+Antoine Spire,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Antoine%20Spire
+Arianespace,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arianespace
+Arié Alimi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arié%20Alimi
+Arié Bensemhoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arié%20Bensemhoun
+Ariel Goldmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Goldmann
+Ariel Weil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Weil
+Ariel Wizman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Wizman
+Armand Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Armand%20Abécassis
+Arnaud Spire,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arnaud%20Spire
+Arthur,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arthur
+Arthur Sadoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arthur%20Sadoun
+Ary Abittan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ary%20Abittan
+Assemblée nationale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Assemblée%20nationale
+Aude Weill-Raynal,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Aude%20Weill-Raynal
+Audrey Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Audrey%20Azoulay
+Aure Atika,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Aure%20Atika
+Avocats sans frontières,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Avocats%20sans%20frontières
+Axel Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Axel%20Kahn
+B'nai B'rith,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=B'nai%20B'rith
 Bagelstein,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bagelstein
 Bain & Company,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bain%20&%20Company
-Dell,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dell
-Facebook,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Facebook
-Galeries Lafayette,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Galeries%20Lafayette
-Goldman Sachs,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Goldman%20Sachs
-Google,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Google
-"IAC (Tinder, Match.com, OkCupid, Vimeo...)",organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IAC%20(entreprise)
-Industrie de la mode,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20de%20la%20mode
-Kraft Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Kraft%20Group
-Ligue de football professionnel,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ligue%20de%20football%20professionnel
-LinkedIn,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=LinkedIn
-Mauboussin,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mauboussin
-Médecine,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Médecine
-Oracle,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Oracle
-Publicis,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Publicis
-Uber,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Uber
-Groupe Casino,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Casino
-Starbucks,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Starbucks
-MK2,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=MK2
-Dior,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dior
-Chanel,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Chanel
-Électricité de France,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Électricité%20de%20France
-Arianespace,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arianespace
-Doctissimo,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Doctissimo
-Homme d’affaires,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Homme%20d’affaires
-Universal Music Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Universal%20Music%20Group
-Groupe Partouche,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Partouche
-Warner Bros.,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Warner%20Bros.
-Gap,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gap
-BlackRock,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=BlackRock
+Banque mondiale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Banque%20mondiale
+Barry Diller,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Barry%20Diller
+Béatrice Schönberg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Béatrice%20Schönberg
 Ben & Jerry's,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ben%20&%20Jerry's
-Pfizer,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pfizer
-Salesforce,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Salesforce
-Activision Blizzard,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Activision%20Blizzard
-TheFamily,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=TheFamily
-MGA Entertainment,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=MGA%20Entertainment
-Tripadvisor,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tripadvisor
+Ben Cohen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ben%20Cohen
+Benjamin Amar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Benjamin%20Amar
+Benjamin Lancar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Benjamin%20Lancar
+Bérangère Abba,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bérangère%20Abba
+Bernard Guetta,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Guetta
+Bernard Sabbah,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Sabbah
+Bernard Stirn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Stirn
+Bernard-Henri Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard-Henri-Lévy
+Bertrand Lebeau Leibovici,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bertrand%20Lebeau%20Leibovici
+Bettina Rheims,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bettina%20Rheims
 BFM,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=BFM
+BlackRock,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=BlackRock
+Bruno Karsenti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bruno%20Karsenti
+Bruno Studer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bruno%20Studer
+Carlito,people,,false,
+Catherine Ringer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Catherine%20Ringer
 Causeur,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Causeur
-Challenges,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Challenges
-Europe 1,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Europe%201
-France Télévisions,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=France%20Télévisions
-Groupe Canal+,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Canal+
-Groupe TF1,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20TF1
-IFOP,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IFOP
-Journalistes,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Journalistes
-L’Express,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Express
-L’Obs,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Obs
-Le Média,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Média
-Le Monde,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Monde
-Le Monde diplomatique,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Monde%20diplomatique
-Le Point,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Point
-Libération,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Libération
-Météo-France,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Météo-France
-NRJ,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=NRJ
-Radio France,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radio%20France
-RTL,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=RTL
-Skyrock,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Skyrock
-Sud Radio,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sud%20Radio
-i24news,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=i24news
-Radio Nova,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radio%20Nova
-L’Humanité,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Humanité
-Public Sénat,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Public%20Sénat
-Assemblée nationale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Assemblée%20nationale
-B'nai B'rith,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=B'nai%20B'rith
+Cécile Cukierman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cécile%20Cukierman
+Cédric Klapisch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cédric%20Klapisch
+Céline Bekerman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Céline%20Bekerman
 CGT,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=CGT
+Challenges,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Challenges
+Chanel,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Chanel
+Charlotte Gainsbourg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Charlotte%20Gainsbourg
+Chella Safra,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Chella%20Safra
+Christiane Houzé,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christiane%20Houzé
+Christine Angot,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christine%20Angot
+Christophe Arend,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Arend
+Christophe Bejach,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Bejach
+Christophe Dechavanne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Dechavanne
+Christophe Lambert,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Lambert
+Claude Askolovitch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Askolovitch
+Claude Berda,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Berda
+Claude Berri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Berri
+Claude Lelouch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Lelouch
+Claudio Epelman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claudio%20Epelman
+Clément Viktorovitch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Clément%20Viktorovitch
+Clément Weill-Raynal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Clément%20Weill-Raynal
+CNRS,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=CNRS
 Comité consultatif national d'éthique,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Comité%20consultatif%20national%20d'éthique
 Commission trilatérale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Commission%20trilatérale
 Congrès juif européen,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Congrès%20juif%20européen
 Congrès juif mondial,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Congrès%20juif%20mondial
 Consistoire central israélite de France,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Consistoire%20central%20israélite%20de%20France
 Conspiracy Watch,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Conspiracy%20Watch
-CRIF,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=CRIF
-DILCRAH,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=DILCRAH
-Europe Écologie Les Verts,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Europe%20Écologie%20Les%20Verts
-Fondation Jean-Jaurès,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondation%20Jean-Jaurès
-Fonds social juif unifié,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fonds%20social%20juif%20unifié
-French-American Foundation,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=French-American%20Foundation
-Gouvernement,organization,Politique,,
-Grand Orient de France,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grand%20Orient%20de%20France
-Haut Conseil pour le climat,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Haut%20Conseil%20pour%20le%20climat
-Institut Montaigne,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Institut%20Montaigne
-Juristes,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Juristes
-La République en marche,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=La%20République%20en%20marche
-Les Républicains,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Les%20Républicains
-LICRA,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=LICRA
-Ligue des droits de l’homme,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ligue%20des%20droits%20de%20l’homme
-Mairie de Paris,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mairie%20de%20Paris
-Mouvement démocrate,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mouvement%20démocrate
-Mouvement juif libéral de France,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mouvement%20juif%20libéral%20de%20France
-Nouveau Parti anticapitaliste,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nouveau%20Parti%20anticapitaliste
-Organisation des Nations Unies,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Organisation%20des%20Nations%20Unies
-Parti socialiste,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Parti%20socialiste
-Rassemblement national,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rassemblement%20national
-Sénat,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sénat
-SOS Racisme,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=SOS%20Racisme
-Stop hate money,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stop%20hate%20money
-Tsédaka,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tsédaka
-Avocats sans frontières,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Avocats%20sans%20frontières
-Reporters sans frontières,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Reporters%20sans%20frontières
-Fondation pour la mémoire de la Shoah,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondation%20pour%20la%20mémoire%20de%20la%20Shoah
-Diplomates,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Diplomates
-Banque mondiale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Banque%20mondiale
-UEJF,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=UEJF
-Fondapol,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondapol
-Terra Nova,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Terra%20Nova
-IFRI,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IFRI
-Groupe Bilderberg,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Bilderberg
-European Council on Foreign Relations,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=European%20Council%20on%20Foreign%20Relations
-Le Siècle,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Siècle
-Christophe Lambert,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Lambert
-David Marmorstein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Marmorstein
-Fabian Thylmann,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fabian%20Thylmann
-Isabelle Huppert,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isabelle%20Huppert
-James Deen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=James%20Deen
-Louis Garrel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Garrel
-Philippe Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Philippe%20Lellouche
-Mcfly,people,,false,
-Carlito,people,,false,
-Eva Green,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Eva%20Green
-Aure Atika,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Aure%20Atika
-Mathieu Amalric,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathieu%20Amalric
-Barry Diller,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Barry%20Diller
-Christiane Houzé,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christiane%20Houzé
-David Solomon,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Solomon
-Franck Provost,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franck%20Provost
-Larry Ellison,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Larry%20Ellison
-Lloyd Blankfein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lloyd%20Blankfein
-Marc Jacobs,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Jacobs
-Mark Zuckerberg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mark%20Zuckerberg
-Michael Dell,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michael%20Dell
-Orit Gadiesh,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Orit%20Gadiesh
-Reid Hoffman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Reid%20Hoffman
-Robert Kraft,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Kraft
-Safra Catz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Safra%20Catz
-Sergueï Brin,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sergueï%20Brin
-Sheryl Sandberg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sheryl%20Sandberg
-Sidney Toledano,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sidney%20Toledano
-Susan Wojcicki,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Susan%20Wojcicki
-Travis Kalanick,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Travis%20Kalanick
-Howard Schultz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Howard%20Schultz
-Jan Koum,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jan%20Koum
-Ralph Lauren,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ralph%20Lauren
-Lucian Grainge,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lucian%20Grainge
-Iris Knobloch,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Iris%20Knobloch
-Doris Fisher,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Doris%20Fisher
-Laurence Fink,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Fink
-Ben Cohen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ben%20Cohen
-Jerry Greenfield,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jerry%20Greenfield
-Albert Bourla,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Albert%20Bourla
-Marc Benioff,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Benioff
-Robert Kotick,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Kotick
-Isaac Larian,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isaac%20Larian
-Stephen Kaufer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stephen%20Kaufer
-Michael Morhaime,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michael%20Morhaime
-Stuart Levey,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stuart%20Levey
-Anna Cabana,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anna%20Cabana
-Frank Melloul,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frank%20Melloul
-Jérôme Clément,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jérôme%20Clément
-Raphaël Grably,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Grably
-Luc Rosenzweig,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Luc%20Rosenzweig
-Alexandre Adam,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Adam
-Alexis Zajdenweber,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexis%20Zajdenweber
-Bérangère Abba,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bérangère%20Abba
-Bruno Studer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bruno%20Studer
-Céline Bekerman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Céline%20Bekerman
-Chella Safra,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Chella%20Safra
-Christophe Arend,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Arend
-Claudio Epelman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claudio%20Epelman
 Constance Bensussan,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Constance%20Bensussan
-Daniel Zielinski,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Zielinski
-Déborah Münzer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Déborah%20Münzer
-Dominique David,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20David
-Henry Kissinger,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Henry%20Kissinger
-Jack Terpins,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Terpins
-Jacob Rothschild,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jacob%20Rothschild
-Joachim Bokobza,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joachim%20Bokobza
-Juliette Oury,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Juliette%20Oury
-Maïa Wirgin,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maïa%20Wirgin
-Nathanaël Mason-Schuler,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathanaël%20Mason-Schuler
-Paul Simondon,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Simondon
-Robert Singer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Singer
-Ronald Lauder,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ronald%20Lauder
-Samira Jemaï,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Samira%20Jemaï
-Simon Fetet,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Simon%20Fetet
-Soria Blatmann,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Soria%20Blatmann
-Stéphane Fouks,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Fouks
-Thomas Hartog,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Hartog
-Viatcheslav Moshe Kantor,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Viatcheslav%20Moshe%20Kantor
-Jean-Pierre Rosenczveig,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Pierre%20Rosenczveig
-Alexandra Minkowski,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandra%20Minkowski
+Corinne Dreyfus-Schmidt,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Corinne%20Dreyfus-Schmidt
+Corinne Lepage,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Corinne%20Lepage
+CRIF,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=CRIF
+Cyril Hanouna,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cyril%20Hanouna
 Dan Cohen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dan%20Cohen
-Joseph Stiglitz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joseph%20Stiglitz
-Nicholas Stern,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicholas%20Stern
-Jeffrey Sachs,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jeffrey%20Sachs
-David Azéma,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Azéma
-Emmanuel Goldstein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Goldstein
-Christophe Bejach,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Bejach
-Aude Weill-Raynal,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Aude%20Weill-Raynal
-George Soros,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=George%20Soros
-Gérard Lindeperg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Lindeperg
-Laurent Azoulai,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Azoulai
-Adrien Abecassis,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Adrien%20Abecassis
-Pierre Abou,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Abou
-David Amiel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Amiel
-Pierre Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Lellouche
-Alexandre Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Elicha
-Judith Milgrom,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Milgrom
-Raphaël Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Elicha%20
-Georges Beller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges%20Beller
-Olivier Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Wieviorka
-Michel Ciment,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Ciment
-Laurence Haïm,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Haïm
-Arnaud Spire,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arnaud%20Spire
-Serge Nedjar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Nedjar
-Vincent Bolloré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Bolloré
-Dov Alfon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dov%20Alfon
-Clément Weill-Raynal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Clément%20Weill-Raynal
-Agnès Jaoui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Agnès%20Jaoui
-Alain Chabat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Chabat
-Alain Finkielkraut,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Finkielkraut
-Alexandre Arcady,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Arcady
-Annette Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Annette%20Wieviorka
-Anouk Aimée,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anouk%20Aimée
-Armand Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Armand%20Abécassis
-Ary Abittan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ary%20Abittan
-Bernard Stirn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Stirn
-Bruno Karsenti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bruno%20Karsenti
-Catherine Ringer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Catherine%20Ringer
-Cédric Klapisch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cédric%20Klapisch
-Charlotte Gainsbourg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Charlotte%20Gainsbourg
-Christine Angot,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christine%20Angot
-Claude Berda,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Berda
-Claude Berri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Berri
-Claude Lelouch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Lelouch
+Daniel Bensaïd,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Bensaïd
+Daniel Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Cohen
+Daniel Cohn-Bendit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Cohn-Bendit
+Daniel Hechter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Hechter
+Daniel Lévy-Bruhl,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Lévy-Bruhl
+Daniel Schneidermann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Schneidermann
+Daniel Zielinski,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Zielinski
+Daniela Lumbroso,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniela%20Lumbroso
+Danièle Hoffman-Rispal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Danièle%20Hoffman-Rispal
 Danny Trom,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Danny%20Trom
 Dany Boon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dany%20Boon
 Dave,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dave
+David Abiker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Abiker
+David Amiel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Amiel
+David Assouline,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Assouline
+David Azéma,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Azéma
 David Charvet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Charvet
+David de Rothschild,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20de%20Rothschild
 David Guetta,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Guetta
+David Habib,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Habib
+David Marmorstein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Marmorstein
+David Solomon,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Solomon
+David-Olivier Kaminski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David-Olivier%20Kaminski
+Déborah Münzer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Déborah%20Münzer
+Dell,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dell
+Delphine Horvilleur,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Delphine%20Horvilleur
+Denis Olivenne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Denis%20Olivenne
+Diego Buñuel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Diego%20Buñuel
+DILCRAH,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=DILCRAH
+Dior,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dior
+Diplomates,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Diplomates
+Doctissimo,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Doctissimo
+Dominique David,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20David
 Dominique Farrugia,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Farrugia
+Dominique Moïsi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Moïsi
+Dominique Nora,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Nora
+Dominique Schnapper,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Schnapper
+Dominique Strauss-Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Strauss-Kahn
+Doris Fisher,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Doris%20Fisher
+Dov Alfon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dov%20Alfon
 Edgar Morin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Edgar%20Morin
-Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
-Élie Semoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Semoun
-Éliette Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éliette%20Abécassis
-Élisabeth Roudinesco,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Roudinesco
+Édouard Baer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Édouard%20Baer
+EHESS,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=EHESS
+Électricité de France,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Électricité%20de%20France
+Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
+Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
+Élie Semoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Semoun
+Éliette Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éliette%20Abécassis
+Élisabeth Badinter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Badinter
+Élisabeth Borne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Borne
+Élisabeth Garouste,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Garouste
+Élisabeth Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Lévy
+Élisabeth Roudinesco,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Roudinesco
+Élise Fajgeles,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élise%20Fajgeles
+Elsa Fayer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Elsa%20Fayer
 Elsa Zylberstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Elsa%20Zylberstein
-Emmanuelle Béart,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuelle%20Béart
+Emmanuel Goldstein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Goldstein
+Emmanuel Kessler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Kessler
+Emmanuel Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Levy
+Emmanuelle Béart,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuelle%20Béart
+Emmanuelle Wargon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuelle%20Wargon
 Enrico Macias,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Enrico%20Macias
 Éric Antoine,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Antoine
-Éric Toledano,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Toledano
+Éric de Rothschild,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20de%20Rothschild
+Éric Ghebali,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Ghebali
+Éric Toledano,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Toledano
+Éric Zemmour,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Zemmour
+Esther Benbassa,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Esther%20Benbassa
 Étienne Balibar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Étienne%20Balibar
-Francis Huster,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Huster
-François Berléand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Berléand
-François Samuelson,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Samuelson
-Françoise Atlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Françoise%20Atlan
-Gad Elmaleh,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gad%20Elmaleh
-Gérard Darmon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Darmon
-Gilbert Montagné,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilbert%20Montagné
-Gilles Cohen-Solal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Cohen-Solal
-Greg Lansky,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Greg%20Lansky
-Grégory Dorcel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grégory%20Dorcel
-Jacques-Alain Miller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jacques-Alain%20Miller
-Jean Benguigui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean%20Benguigui
-Jean-François Dérec,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Dérec
-Jean-Jacques Goldman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Goldman
-Jean-Pierre Bacri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Pierre%20Bacri
-Jonathan Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jonathan%20Cohen
-Joyce Jonathan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joyce%20Jonathan
-Judith Godrèche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Godrèche
-Judith Mergui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Mergui
-Kev Adams,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Kev%20Adams
-Léa Drucker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Léa%20Drucker
-Lionel Abelanski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lionel%20Abelanski
-Louis Bertignac,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Bertignac
-Marc Dorcel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Dorcel
-Marie Benoliel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marie%20Benoliel
-Marina Foïs,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marina%20Foïs
-Mathieu Kassovitz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathieu%20Kassovitz
-Max Boublil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Max%20Boublil
-Mélanie Laurent,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mélanie%20Laurent
-Michel Boujenah,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Boujenah
-Michel David-Weill,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20David-Weill
-Michel Jonasz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Jonasz
-Michel Leeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Leeb
-Nora Arnezeder,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nora%20Arnezeder
-Odile Jacob,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Odile%20Jacob
-Olivier Nakache,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Nakache
-Olivier Sitruk,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Sitruk
-Pascal Elbé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pascal%20Elbé
-Patrick Bruel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Bruel
-Patrick Timsit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Timsit
-Pierre Arditi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Arditi
-Pierre Niney,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Niney
-Pierre Nora,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Nora
-Raphaël Mezrahi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Mezrahi
-Rebecca Zlotowski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rebecca%20Zlotowski
-Richard Anconina,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Anconina
-Richard Berry,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Berry
-Richard Kolinka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Kolinka
-Samuel Benchetrit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Samuel%20Benchetrit
-Sandrine Kiberlain,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sandrine%20Kiberlain
-Santiago Amigorena,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Santiago%20Amigorena
-Serge Khalfon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Khalfon
-Simon Ghraichy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Simon%20Ghraichy
-Steve Suissa,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Steve%20Suissa
-Tal Bruttmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tal%20Bruttmann
-Thierry Lhermitte,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thierry%20Lhermitte
-Thomas Bangalter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Bangalter
-Thomas Langmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Langmann
-Tomer Sisley,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tomer%20Sisley
-Vincent Elbaz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Elbaz
-Yvan Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yvan%20Attal
-Jean-David Levitte,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-David%20Levitte
-Vincent Lindon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Lindon
-Valéry Zeitoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valéry%20Zeitoun
-Hélène Cixous,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hélène%20Cixous
-Géraldine Nakache,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Géraldine%20Nakache
-Gabriel Matzneff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Matzneff
-Frédéric Diefenthal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Diefenthal
-Michaël Youn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michaël%20Youn
-Radu Mihaileanu,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radu%20Mihaileanu
-Sylviane Agacinski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylviane%20Agacinski
-Paul Lederman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Lederman
-Jean-Luc Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Luc%20Azoulay
-Zabou Breitman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Zabou%20Breitman
-Serge Toubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Toubiana
-Bettina Rheims,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bettina%20Rheims
-Haïm Korsia,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Haïm%20Korsia
-Marc Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Levy
-Gilbert Melki,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilbert%20Melki
-Alain Afflelou,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Afflelou
-Alain Némarq,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Némarq
-Arthur Sadoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arthur%20Sadoun
-Élisabeth Badinter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Badinter
-Élisabeth Garouste,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Garouste
-Evelyne Chétrite,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Evelyne%20Chétrite
-Gérard Pariente,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Pariente
-Gilles Abecassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Abecassis
-Ginette Moulin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ginette%20Moulin
-Guillaume Houzé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Houzé
-Jean-Michel Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Michel%20Cohen
-Laurent Alexandre,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Alexandre
-Laurent Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Elicha
-Marc Peschanski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Peschanski
-Nathalie Boy de la Tour,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathalie%20Boy%20de%20la%20Tour
-Patrick Pariente,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Pariente
-Stéphane Israël,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Israël
-Thierry Veil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thierry%20Veil
-Gabriel Naouri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Naouri
-Laurent Karila,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Karila
-William Lowenstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=William%20Lowenstein
+Étienne Moatti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Étienne%20Moatti
 Étienne-Émile Baulieu,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Étienne-Émile%20Baulieu
-Marin Karmitz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marin%20Karmitz
-Jean-Bernard Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Bernard%20Lévy
-Jean-Charles Naouri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Charles%20Naouri
-Alain Wertheimer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Wertheimer
-Gérard Wertheimer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Wertheimer
-Daniel Hechter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Hechter
-Daniel Lévy-Bruhl,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Lévy-Bruhl
-Bertrand Lebeau Leibovici,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bertrand%20Lebeau%20Leibovici
-Michel Cicurel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Cicurel
-Vincent Bolloré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Bolloré
-Jean-Jacques Ohana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Ohana
-Patrick Partouche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Partouche
-Isidore Partouche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isidore%20Partouche
-Alice Zagury,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alice%20Zagury
-Alain Gresh,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Gresh
-Alain Weill,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Weill
-André Bercoff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=André%20Bercoff
-Anne Roumanoff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Roumanoff
-Anne Sinclair,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Sinclair
-Antoine Spire,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Antoine%20Spire
-Arié Bensemhoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arié%20Bensemhoun
-Christophe Dechavanne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Christophe%20Dechavanne
-Claude Askolovitch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Claude%20Askolovitch
-Clément Viktorovitch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Clément%20Viktorovitch
-Cyril Hanouna,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cyril%20Hanouna
-Daniela Lumbroso,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniela%20Lumbroso
-David Abiker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Abiker
-Denis Olivenne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Denis%20Olivenne
-Diego Buñuel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Diego%20Buñuel
-Édouard Baer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Édouard%20Baer
-Élisabeth Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Lévy
-Emmanuel Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Levy
-Éric Zemmour,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Zemmour
+Europe 1,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Europe%201
+Europe Écologie Les Verts,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Europe%20Écologie%20Les%20Verts
+European Council on Foreign Relations,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=European%20Council%20on%20Foreign%20Relations
+Eva Green,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Eva%20Green
+Eve Zuckerman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Eve%20Zuckerman
+Evelyne Chétrite,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Evelyne%20Chétrite
+Fabian Thylmann,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fabian%20Thylmann
 Fabien Namias,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fabien%20Namias
 Fabrice d’Almeida,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fabrice%20d’Almeida
-Frédéric Dabi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Dabi
-Gérard Miller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Miller
+Facebook,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Facebook
+Fondapol,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondapol
+Fondation Jean-Jaurès,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondation%20Jean-Jaurès
+Fondation pour la mémoire de la Shoah,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fondation%20pour%20la%20mémoire%20de%20la%20Shoah
+Fonds social juif unifié,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Fonds%20social%20juif%20unifié
+France Télévisions,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=France%20Télévisions
+Francis Huster,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Huster
+Francis Kalifat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Kalifat
+Francis Szpiner,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Szpiner
+Franck Provost,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franck%20Provost
+François Berléand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Berléand
+François Samuelson,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Samuelson
+Françoise Atlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Françoise%20Atlan
+Frank Melloul,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frank%20Melloul
+Franz-Olivier Giesbert,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franz-Olivier%20Giesbert
+Frédéric Dabi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Dabi
+Frédéric Diefenthal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Diefenthal
+Frédéric Encel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Encel
+Frédéric Haziza,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Haziza
+French-American Foundation,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=French-American%20Foundation
+Gabriel Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Attal
+Gabriel Matzneff,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Matzneff
+Gabriel Naouri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Naouri
+Gad Elmaleh,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gad%20Elmaleh
+Galeries Lafayette,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Galeries%20Lafayette
+Galia Ackerman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Galia%20Ackerman
+Gap,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gap
+Geneviève Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Geneviève%20Levy
+George Soros,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=George%20Soros
+Georges Beller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges%20Beller
+Georges Kiejman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges%20Kiejman
+Georges-Marc Benamou,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges-Marc%20Benamou
+Gérald Darmanin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérald%20Darmanin
+Géraldine Nakache,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Géraldine%20Nakache
+Gérard Darmon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Darmon
+Gérard Garçon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Garçon
+Gérard Lindeperg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Lindeperg
+Gérard Miller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Miller
+Gérard Pariente,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Pariente
+Gérard Wertheimer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Wertheimer
 Gil Mihaely,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gil%20Mihaely
+Gil Taïeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gil%20Taïeb
+Gilbert Melki,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilbert%20Melki
+Gilbert Montagné,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilbert%20Montagné
+Gilles Abecassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Abecassis
+Gilles Bornstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Bornstein
+Gilles Cohen-Solal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Cohen-Solal
+Gilles Finchelstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Finchelstein
+Gilles-William Goldnadel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles-William%20Goldnadel
+Ginette Moulin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ginette%20Moulin
+Goldman Sachs,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Goldman%20Sachs
+Google,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Google
+Gouvernement,organization,Politique,,
+Grand Orient de France,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grand%20Orient%20de%20France
+Greg Lansky,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Greg%20Lansky
+Grégoire Chertok,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grégoire%20Chertok
+Grégory Dorcel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grégory%20Dorcel
+Groupe Bilderberg,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Bilderberg
+Groupe Canal+,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Canal+
+Groupe Casino,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Casino
+Groupe Partouche,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20Partouche
+Groupe TF1,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Groupe%20TF1
+Guillaume Chiche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Chiche
+Guillaume Houzé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Houzé
+Guillaume Weill-Raynal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Weill-Raynal
+Guy Konopnicki,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guy%20Konopnicki
+Guy Sorman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guy%20Sorman
+Haïm Korsia,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Haïm%20Korsia
+Haut Conseil pour le climat,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Haut%20Conseil%20pour%20le%20climat
+Hélène Cixous,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hélène%20Cixous
+Henri Weber,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Henri%20Weber
+Henry Kissinger,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Henry%20Kissinger
+Hervé Mariton,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hervé%20Mariton
+Hervé Temime,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hervé%20Temime
+Homme d’affaires,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Homme%20d’affaires
+Howard Schultz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Howard%20Schultz
+Humoristes,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Humoristes
+i24news,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=i24news
+"IAC (Tinder, Match.com, OkCupid, Vimeo...)",organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IAC%20(entreprise)
+Ian Brossat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ian%20Brossat
+IFOP,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IFOP
+IFRI,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=IFRI
+Ilana Cicurel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Cicurel
+Ilana Soskin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Soskin
+Industrie culturelle,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20culturelle
+Industrie de la mode,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20de%20la%20mode
+Industrie musicale,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20musicale
+Industrie pornographique,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20pornographique
+Institut de France,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Institut%20de%20France
+Institut Montaigne,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Institut%20Montaigne
+Iris Knobloch,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Iris%20Knobloch
+Isaac Larian,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isaac%20Larian
+Isabelle Huppert,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isabelle%20Huppert
+Isidore Partouche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Isidore%20Partouche
+Jack Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Azoulay
+Jack Lang,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Lang
+Jack Terpins,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Terpins
+Jacob Rothschild,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jacob%20Rothschild
 Jacques Attali,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jacques%20Attali
+Jacques-Alain Miller,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jacques-Alain%20Miller
+James Deen,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=James%20Deen
+Jan Koum,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jan%20Koum
+Jean Benguigui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean%20Benguigui
+Jean Salomon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean%20Salomon
+Jean-Bernard Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Bernard%20Lévy
 Jean-Charles Banoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Charles%20Banoun
+Jean-Charles Naouri,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Charles%20Naouri
+Jean-Claude Elfassi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Claude%20Elfassi
+Jean-David Levitte,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-David%20Levitte
+Jean-François Copé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Copé
+Jean-François Delfraissy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Delfraissy
+Jean-François Dérec,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Dérec
+Jean-François Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Kahn
+Jean-Jacques Goldman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Goldman
+Jean-Jacques Ohana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Ohana
+Jean-Louis Debré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Louis%20Debré
+Jean-Louis Missika,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Louis%20Missika
+Jean-Luc Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Luc%20Azoulay
 Jean-Luc Reichmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Luc%20Reichmann
+Jean-Michel Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Michel%20Cohen
+Jean-Michel Darrois,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Michel%20Darrois
+Jean-Paul Enthoven,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Paul%20Enthoven
 Jean-Pierre Elkabbach,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Pierre%20Elkabbach
 Jean-Pierre Foucault,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Pierre%20Foucault
+Jean-Pierre Rosenczveig,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Pierre%20Rosenczveig
+Jean-Yves Camus,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Yves%20Camus
+Jeffrey Sachs,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jeffrey%20Sachs
+Jérôme Clément,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jérôme%20Clément
+Jérôme Salomon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jérôme%20Salomon
+Jerry Greenfield,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jerry%20Greenfield
+Joachim Bokobza,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joachim%20Bokobza
+Joël Mergui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joël%20Mergui
+Johanna Barasz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Johanna%20Barasz
+Jonathan Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jonathan%20Cohen
+Joseph Stiglitz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joseph%20Stiglitz
+Joseph Zimet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joseph%20Zimet
+Journalistes,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Journalistes
+Joyce Jonathan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joyce%20Jonathan
+Judith Godrèche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Godrèche
+Judith Mergui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Mergui
+Judith Milgrom,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Milgrom
+Judith Waintraub,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Waintraub
+Julien Dray,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Julien%20Dray
+Juliette Oury,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Juliette%20Oury
+Juristes,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Juristes
+Karen Taïeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Karen%20Taïeb
+Kev Adams,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Kev%20Adams
+Kraft Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Kraft%20Group
+L’Express,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Express
+L’Humanité,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Humanité
+L’Obs,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=L’Obs
+La République en marche,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=La%20République%20en%20marche
+Larry Ellison,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Larry%20Ellison
 Laure Adler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laure%20Adler
 Laurence Bloch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Bloch
+Laurence Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Cohen
+Laurence Fink,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Fink
+Laurence Haïm,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Haïm
+Laurence Tubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Tubiana
+Laurent Alexandre,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Alexandre
+Laurent Azoulai,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Azoulai
+Laurent Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Cohen
+Laurent Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Elicha
+Laurent Fabius,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Fabius
+Laurent Karila,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Karila
 Laurent Neumann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Neumann
 Laurent Weil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Weil
+Le Média,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Média
+Le Monde,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Monde
+Le Monde diplomatique,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Monde%20diplomatique
+Le Point,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Point
+Le Siècle,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Le%20Siècle
+Léa Drucker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Léa%20Drucker
+Léo Finkel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Léo%20Finkel
+Les Républicains,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Les%20Républicains
+Libération,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Libération
+LICRA,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=LICRA
+Ligue de football professionnel,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ligue%20de%20football%20professionnel
+Ligue des droits de l’homme,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ligue%20des%20droits%20de%20l’homme
+LinkedIn,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=LinkedIn
+Lionel Abelanski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lionel%20Abelanski
+Lionel Choukroun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lionel%20Choukroun
+Lloyd Blankfein,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lloyd%20Blankfein
+Louis Aliot,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Aliot
+Louis Bertignac,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Bertignac
 Louis Dreyfus,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Dreyfus
+Louis Garrel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Garrel
+Luc Rosenzweig,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Luc%20Rosenzweig
+Lucian Grainge,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lucian%20Grainge
+Maïa Wirgin,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maïa%20Wirgin
+Mairie de Paris,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mairie%20de%20Paris
+Marc Benioff,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Benioff
+Marc Dorcel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Dorcel
 Marc Fiorentino,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Fiorentino
+Marc Jacobs,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Jacobs
+Marc Knobel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Knobel
 Marc Kravetz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Kravetz
+Marc Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Levy
+Marc Peschanski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Peschanski
 Marc-Olivier Fogiel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc-Olivier%20Fogiel
+Marek Halter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marek%20Halter
+Marie Benoliel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marie%20Benoliel
 Marie Drucker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marie%20Drucker
+Marin Karmitz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marin%20Karmitz
+Marina Foïs,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marina%20Foïs
+Mark Zuckerberg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mark%20Zuckerberg
+Martin Hirsch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Martin%20Hirsch
+Mathias Chichportich,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathias%20Chichportich
 Mathias Enthoven,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathias%20Enthoven
+Mathieu Amalric,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathieu%20Amalric
+Mathieu Kassovitz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathieu%20Kassovitz
+Mauboussin,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mauboussin
+Maurice Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maurice%20Lévy
 Maurice Szafran,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maurice%20Szafran
+Max Boublil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Max%20Boublil
 Maxime Saada,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maxime%20Saada
+Mcfly,people,,false,
+Médecine,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Médecine
+Mélanie Laurent,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mélanie%20Laurent
+Météo-France,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Météo-France
+Meyer Habib,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Meyer%20Habib
+MGA Entertainment,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=MGA%20Entertainment
+Michael Dell,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michael%20Dell
+Michael Morhaime,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michael%20Morhaime
+Michaël Youn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michaël%20Youn
+Michel Amiel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Amiel
+Michel Boujenah,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Boujenah
+Michel Cicurel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Cicurel
+Michel Ciment,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Ciment
 Michel Cymes,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Cymes
+Michel David-Weill,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20David-Weill
 Michel Drucker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Drucker
 Michel Field,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Field
-Nagui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nagui
-Nathalie Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathalie%20Levy
-Nicolas Demorand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicolas%20Demorand
-Patrick Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Cohen
-Patrick Drahi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Drahi
-Paul Amar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Amar
-Pierre Bellanger,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Bellanger
-Pierre Ménès,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Ménès
-Raphaël Enthoven,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Enthoven
-Ruth Elkrief,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ruth%20Elkrief
-Serge Halimi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Halimi
-Serge Moati,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Moati
-Stéphane Bern,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Bern
-Stéphane Sitbon-Gomez,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Sitbon-Gomez
-Sylvain Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvain%20Attal
-Thomas Misrachi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Misrachi
-Valérie Bénaïm,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valérie%20Bénaïm
-Anne Rosencher,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Rosencher
-Daniel Schneidermann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Schneidermann
-Dominique Nora,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Nora
-Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
-Georges-Marc Benamou,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges-Marc%20Benamou
-Guy Konopnicki,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guy%20Konopnicki
-Judith Waintraub,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Judith%20Waintraub
-Virginie Schwarz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Virginie%20Schwarz
-Étienne Moatti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Étienne%20Moatti
-Franz-Olivier Giesbert,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franz-Olivier%20Giesbert
-Frédéric Haziza,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Haziza
-Jean-Paul Enthoven,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Paul%20Enthoven
-Jean-Claude Elfassi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Claude%20Elfassi
-Ariel Wizman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Wizman
-Noémie Halioua,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Noémie%20Halioua
-Galia Ackerman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Galia%20Ackerman
-Elsa Fayer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Elsa%20Fayer
-Bernard Sabbah,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Sabbah
-Anne Rubinstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Anne%20Rubinstein
-Cécile Cukierman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Cécile%20Cukierman
-David Assouline,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Assouline
-David Habib,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Habib
-Élisabeth Borne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Borne
-Élise Fajgeles,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élise%20Fajgeles
-Emmanuelle Wargon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuelle%20Wargon
-Esther Benbassa,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Esther%20Benbassa
-Gabriel Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gabriel%20Attal
-Geneviève Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Geneviève%20Levy
-Gérald Darmanin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérald%20Darmanin
-Jack Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Azoulay
-Jean Salomon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean%20Salomon
-Joseph Zimet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joseph%20Zimet
-Laurence Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Cohen
-Léo Finkel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Léo%20Finkel
-Lionel Choukroun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Lionel%20Choukroun
-Louis Aliot,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Louis%20Aliot
-Meyer Habib,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Meyer%20Habib
-Michel Amiel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Amiel
+Michel Jonasz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Jonasz
+Michel Leeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Leeb
+Michel Tubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Tubiana
+Michel Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Wieviorka
 Michèle Barzach,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michèle%20Barzach
 Mickaël Benzaqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mickaël%20Benzaqui
 Mickaël Szerman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mickaël%20Szerman
+MK2,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=MK2
+Mouvement démocrate,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mouvement%20démocrate
+Mouvement juif libéral de France,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mouvement%20juif%20libéral%20de%20France
+Nagui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nagui
+Nathalie Boy de la Tour,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathalie%20Boy%20de%20la%20Tour
 Nathalie Goulet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathalie%20Goulet
+Nathalie Levy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathalie%20Levy
+Nathanaël Mason-Schuler,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nathanaël%20Mason-Schuler
+Nicholas Stern,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicholas%20Stern
+Nicolas Demorand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicolas%20Demorand
+Nicole Guedj,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicole%20Guedj
+Noémie Halioua,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Noémie%20Halioua
+Noémie Madar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Noémie%20Madar
+Nora Arnezeder,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nora%20Arnezeder
+Nouveau Parti anticapitaliste,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nouveau%20Parti%20anticapitaliste
+NRJ,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=NRJ
+Odile Jacob,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Odile%20Jacob
 Olivier Dassault,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Dassault
+Olivier Nakache,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Nakache
+Olivier Rubinstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Rubinstein
+Olivier Sitruk,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Sitruk
+Olivier Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Wieviorka
+Oracle,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Oracle
+Organisation des Nations Unies,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Organisation%20des%20Nations%20Unies
+Orit Gadiesh,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Orit%20Gadiesh
+Parti socialiste,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Parti%20socialiste
 Pascal Cherki,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pascal%20Cherki
+Pascal Elbé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pascal%20Elbé
 Patrick Balkany,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Balkany
+Patrick Bruel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Bruel
+Patrick Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Cohen
+Patrick Drahi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Drahi
 Patrick Kanner,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Kanner
 Patrick Klugman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Klugman
+Patrick Pariente,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Pariente
+Patrick Partouche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Partouche
+Patrick Timsit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Patrick%20Timsit
+Paul Amar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Amar
+Paul Lederman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Lederman
+Paul Simondon,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Paul%20Simondon
+Pfizer,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pfizer
+Philippe Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Philippe%20Lellouche
 Philippe Meyer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Philippe%20Meyer
+Pierre Abou,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Abou
 Pierre Aidenbaum,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Aidenbaum
+Pierre Arditi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Arditi
+Pierre Bellanger,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Bellanger
 Pierre Besnainou,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Besnainou
+Pierre Haski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Haski
 Pierre Joxe,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Joxe
+Pierre Lellouche,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Lellouche
+Pierre Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Lévy
+Pierre Ménès,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Ménès
 Pierre Moscovici,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Moscovici
+Pierre Niney,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Niney
+Pierre Nora,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Nora
+Producteurs,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Producteurs
+Public Sénat,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Public%20Sénat
+Publicis,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Publicis
+Radio France,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radio%20France
+Radio Nova,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radio%20Nova
+Radu Mihaileanu,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Radu%20Mihaileanu
+Ralph Lauren,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ralph%20Lauren
+Raphaël Elicha,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Elicha%20
+Raphaël Enthoven,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Enthoven
 Raphaël Glucksmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Glucksmann
+Raphaël Grably,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Grably
+Raphaël Mezrahi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Raphaël%20Mezrahi
+Rassemblement national,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rassemblement%20national
+Réalisateurs,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Réalisateurs
+Rebecca Zlotowski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rebecca%20Zlotowski
+Reid Hoffman,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Reid%20Hoffman
+Reporters sans frontières,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Reporters%20sans%20frontières
+Richard Anconina,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Anconina
+Richard Berry,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Berry
+Richard Kolinka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Kolinka
 Richard Malka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Malka
+Richard Prasquier,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Prasquier
 Robert Badinter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Badinter
+Robert Kotick,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Kotick
+Robert Kraft,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Kraft
+Robert Singer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Robert%20Singer
+Roger Cukierman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Roger%20Cukierman
 Roger Karoutchi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Roger%20Karoutchi
+Roland Castro,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Roland%20Castro
+Ronald Lauder,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ronald%20Lauder
+RTL,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=RTL
+Rudy Reichstadt,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rudy%20Reichstadt
+Ruth Elkrief,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ruth%20Elkrief
+Sacha Ghozlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sacha%20Ghozlan%20
+Safra Catz,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Safra%20Catz
+Salesforce,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Salesforce
+Samira Jemaï,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Samira%20Jemaï
+Samuel Benchetrit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Samuel%20Benchetrit
+Sandrine Kiberlain,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sandrine%20Kiberlain
+Santiago Amigorena,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Santiago%20Amigorena
+Sénat,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sénat
+Serge Federbusch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Federbusch
+Serge Halimi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Halimi
+Serge Khalfon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Khalfon
+Serge Klarsfeld,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Klarsfeld
+Serge Moati,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Moati
+Serge Nedjar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Nedjar
+Serge Toubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Toubiana
+Serge Weinberg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Weinberg
+Sergueï Brin,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sergueï%20Brin
+Sheryl Sandberg,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sheryl%20Sandberg
+Sidney Toledano,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sidney%20Toledano
+Simon Fetet,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Simon%20Fetet
+Simon Ghraichy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Simon%20Ghraichy
+Skyrock,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Skyrock
+Soria Blatmann,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Soria%20Blatmann
+SOS Racisme,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=SOS%20Racisme
+Starbucks,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Starbucks
+Steeve Ruben,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Steeve%20Ruben
+Stéphane Bern,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Bern
+Stéphane Fouks,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Fouks
+Stéphane Israël,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Israël
+Stéphane Lilti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Lilti
+Stéphane Sitbon-Gomez,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Sitbon-Gomez
+Stephen Kaufer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stephen%20Kaufer
+Steve Suissa,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Steve%20Suissa
+Stop hate money,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stop%20hate%20money
+Stuart Levey,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stuart%20Levey
+Sud Radio,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sud%20Radio
+Susan Wojcicki,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Susan%20Wojcicki
+Sylvain Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvain%20Attal
 Sylvain Waserman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvain%20Waserman
+Sylviane Agacinski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylviane%20Agacinski
+Sylvie Kauffmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvie%20Kauffmann
 Sylvie Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvie%20Wieviorka
+Tal Bruttmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tal%20Bruttmann
+Terra Nova,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Terra%20Nova
+TheFamily,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=TheFamily
+Thierry Lhermitte,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thierry%20Lhermitte
+Thierry Veil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thierry%20Veil
+Thomas Bangalter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Bangalter
+Thomas Hartog,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Hartog
+Thomas Langmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Langmann
+Thomas Misrachi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Thomas%20Misrachi
+Tomer Sisley,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tomer%20Sisley
+Travis Kalanick,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Travis%20Kalanick
+Tripadvisor,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tripadvisor
 Tristan Mendès France,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tristan%20Mendès%20France
+Tsédaka,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Tsédaka
+Uber,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Uber
+UEJF,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=UEJF
+Universal Music Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Universal%20Music%20Group
+Valérie Bénaïm,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valérie%20Bénaïm
 Valérie Hoffenberg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valérie%20Hoffenberg
 Valérie Maupas,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valérie%20Maupas
+Valéry Zeitoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Valéry%20Zeitoun
+Viatcheslav Moshe Kantor,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Viatcheslav%20Moshe%20Kantor
+Vincent Bolloré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Bolloré
+Vincent Bolloré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Bolloré
+Vincent Elbaz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Elbaz
+Vincent Lindon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Lindon
 Vincent Peillon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Vincent%20Peillon
+Virginie Schwarz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Virginie%20Schwarz
+Warner Bros.,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Warner%20Bros.
+William Lowenstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=William%20Lowenstein
 Yaël Braun-Pivet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yaël%20Braun-Pivet
 Yedidia Levy-Zauberman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yedidia%20Levy-Zauberman
-Frédéric Encel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frédéric%20Encel
-Hervé Temime,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hervé%20Temime
-Marc Knobel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marc%20Knobel
-Pierre Haski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Haski
-Guy Sorman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guy%20Sorman
-Bernard Guetta,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard%20Guetta
-Mathias Chichportich,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mathias%20Chichportich
-Delphine Horvilleur,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Delphine%20Horvilleur
-David-Olivier Kaminski,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David-Olivier%20Kaminski
-Éric de Rothschild,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20de%20Rothschild
-Agnès Buzyn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Agnès%20Buzyn
-Olivier Rubinstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Olivier%20Rubinstein
-Pierre Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Pierre%20Lévy
-Serge Klarsfeld,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Klarsfeld
-Steeve Ruben,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Steeve%20Ruben
-Nicole Guedj,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Nicole%20Guedj
-Corinne Dreyfus-Schmidt,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Corinne%20Dreyfus-Schmidt
-Roland Castro,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Roland%20Castro
-Jean-Michel Darrois,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Michel%20Darrois
-Francis Szpiner,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Szpiner
-Éric Ghebali,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éric%20Ghebali
-Noémie Madar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Noémie%20Madar
-Sacha Ghozlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sacha%20Ghozlan%20
-Richard Prasquier,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Richard%20Prasquier
-André Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=André%20Azoulay
-Ilana Soskin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Soskin
-Stéphane Lilti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Lilti
-Guillaume Weill-Raynal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Weill-Raynal
-Dominique Schnapper,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Schnapper
-Sylvie Kauffmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Sylvie%20Kauffmann
-Daniel Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Cohen
-Laurent Cohen,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Cohen
-Michel Tubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Tubiana
-Alain Fischer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Fischer
-Martin Hirsch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Martin%20Hirsch
-Maurice Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maurice%20Lévy
-Arthur,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arthur
-Béatrice Schönberg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Béatrice%20Schönberg
-Bernard-Henri Lévy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Bernard-Henri-Lévy
-Emmanuel Kessler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Emmanuel%20Kessler
-Gilles Bornstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Bornstein
-Adeline Hazan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Adeline%20Hazan
-Alain Bauer,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Bauer
-Alain Jakubowicz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Jakubowicz
-Alain Krivine,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Krivine
-Alain Lipietz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Lipietz
-Alain Minc,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Minc
-Alexandre Adler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexandre%20Adler
-Alexis Kohler,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alexis%20Kohler
-Arié Alimi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arié%20Alimi
-Ariel Goldmann,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Goldmann
-Ariel Weil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ariel%20Weil
-Audrey Azoulay,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Audrey%20Azoulay
-Axel Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Axel%20Kahn
-Benjamin Amar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Benjamin%20Amar
-Benjamin Lancar,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Benjamin%20Lancar
-Corinne Lepage,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Corinne%20Lepage
-Daniel Bensaïd,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Bensaïd
-Daniel Cohn-Bendit,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Daniel%20Cohn-Bendit
-Danièle Hoffman-Rispal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Danièle%20Hoffman-Rispal
-David de Rothschild,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20de%20Rothschild
-Dominique Moïsi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Moïsi
-Dominique Strauss-Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dominique%20Strauss-Kahn
-Eve Zuckerman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Eve%20Zuckerman
-Francis Kalifat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Kalifat
-Georges Kiejman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Georges%20Kiejman
-Gérard Garçon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gérard%20Garçon
-Gil Taïeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gil%20Taïeb
-Gilles Finchelstein,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles%20Finchelstein
-Gilles-William Goldnadel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Gilles-William%20Goldnadel
-Grégoire Chertok,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Grégoire%20Chertok
-Guillaume Chiche,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Guillaume%20Chiche
-Henri Weber,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Henri%20Weber
-Hervé Mariton,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Hervé%20Mariton
-Ian Brossat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ian%20Brossat
-Ilana Cicurel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Cicurel
-Jack Lang,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jack%20Lang
-Jean-François Copé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Copé
-Jean-François Delfraissy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Delfraissy
-Jean-François Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Kahn
-Jean-Louis Debré,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Louis%20Debré
-Jean-Louis Missika,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Louis%20Missika
-Jean-Yves Camus,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Yves%20Camus
-Jérôme Salomon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jérôme%20Salomon
-Joël Mergui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Joël%20Mergui
-Johanna Barasz,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Johanna%20Barasz
-Julien Dray,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Julien%20Dray
-Karen Taïeb,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Karen%20Taïeb
-Laurence Tubiana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurence%20Tubiana
-Laurent Fabius,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Laurent%20Fabius
-Marek Halter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Marek%20Halter
-Michel Wieviorka,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Michel%20Wieviorka
-Roger Cukierman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Roger%20Cukierman
-Rudy Reichstadt,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Rudy%20Reichstadt
-Serge Federbusch,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Federbusch
-Serge Weinberg,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Serge%20Weinberg
+Yvan Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yvan%20Attal
+Zabou Breitman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Zabou%20Breitman
