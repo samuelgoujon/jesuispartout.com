@@ -124,7 +124,7 @@ Daniela Lumbroso,people,,true,https://fr.wikipedia.org/w/api.php?format=json&act
 Danièle Hoffman-Rispal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Danièle%20Hoffman-Rispal
 Danny Trom,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Danny%20Trom
 Dany Boon,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dany%20Boon
-Dave,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dave
+Dave,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Dave
 David Abiker,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Abiker
 David Amiel,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Amiel
 David Assouline,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=David%20Assouline
@@ -160,7 +160,7 @@ EHESS,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&actio
 Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
 Élie Chouraqui,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Chouraqui
 Élie Semoun,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élie%20Semoun
-Éliette Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éliette%20Abécassis
+Éliette Abécassis,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Éliette%20Abécassis
 Élisabeth Badinter,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Badinter
 Élisabeth Borne,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Borne
 Élisabeth Garouste,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Élisabeth%20Garouste
@@ -203,8 +203,8 @@ Francis Huster,people,,true,https://fr.wikipedia.org/w/api.php?format=json&actio
 Francis Kalifat,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Kalifat
 Francis Szpiner,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Francis%20Szpiner
 Franck Provost,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franck%20Provost
-François Berléand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Berléand
-François Samuelson,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Samuelson
+François Berléand,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Berléand
+François Samuelson,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Samuelson
 Françoise Atlan,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Françoise%20Atlan
 Frank Melloul,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Frank%20Melloul
 Franz-Olivier Giesbert,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Franz-Olivier%20Giesbert
@@ -279,6 +279,7 @@ Ilana Cicurel,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action
 Ilana Soskin,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Ilana%20Soskin
 Industrie culturelle,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20culturelle
 Industrie de la mode,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20de%20la%20mode
+Industrie de santé,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Médecine
 Industrie musicale,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20musicale
 Industrie pornographique,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Industrie%20pornographique
 Institut de France,organization,Culture,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Institut%20de%20France
@@ -304,7 +305,7 @@ Jean-Claude Elfassi,people,,true,https://fr.wikipedia.org/w/api.php?format=json&
 Jean-David Levitte,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-David%20Levitte
 Jean-François Copé,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Copé
 Jean-François Delfraissy,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Delfraissy
-Jean-François Dérec,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Dérec
+Jean-François Dérec,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Dérec
 Jean-François Kahn,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-François%20Kahn
 Jean-Jacques Goldman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Goldman
 Jean-Jacques Ohana,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jean-Jacques%20Ohana
@@ -410,7 +411,6 @@ Maurice Szafran,people,,true,https://fr.wikipedia.org/w/api.php?format=json&acti
 Max Boublil,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Max%20Boublil
 Maxime Saada,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Maxime%20Saada
 Mcfly,people,,false,
-Médecine,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Médecine
 Mélanie Laurent,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Mélanie%20Laurent
 Météo-France,organization,Médias,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Météo-France
 Meyer Habib,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Meyer%20Habib
@@ -552,7 +552,7 @@ Stéphane Bern,people,,true,https://fr.wikipedia.org/w/api.php?format=json&acti
 Stéphane Fouks,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Fouks
 Stéphane Israël,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Israël
 Stéphane Lilti,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Lilti
-Stéphane Sitbon-Gomez,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Sitbon-Gomez
+Stéphane Sitbon-Gomez,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stéphane%20Sitbon-Gomez
 Stephen Kaufer,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stephen%20Kaufer
 Steve Suissa,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Steve%20Suissa
 Stop hate money,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Stop%20hate%20money
