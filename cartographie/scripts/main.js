@@ -20,7 +20,7 @@ function imageExists(image_url, callback, reject) {
 
 function loadWiki(wikipedia, callback, reject) {
     var http = new XMLHttpRequest();
-    
+
     http.onreadystatechange = function () {
     if (this.readyState == 4) {
         if (this.status == 200) {
@@ -33,7 +33,7 @@ function loadWiki(wikipedia, callback, reject) {
     };
 
     http.open("HEAD", wikipedia, true);
-    // http.setRequestHeader("Origin", "*");
+    http.setRequestHeader("Origin", "*");
     http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
     http.send();
 }
@@ -156,10 +156,10 @@ function init() {
     const colors = ["#B0E2A7", "#8DA5A7", "#D0BAE8", "#53B8C6"];
     const colorMap = {};
 
-    const { 
-        areaNodes, 
-        areaLinks, 
-        areaNames 
+    const {
+        areaNodes,
+        areaLinks,
+        areaNames
     } = getAreaLevelData(resp[0], resp[1]);
 
     areaNames.forEach((area, i) => {
@@ -169,7 +169,7 @@ function init() {
 
       var _links = areaLinks[area];
       var _nodes = areaNodes[area];
- 
+
       var chart = renderChart()
         .svgHeight(window.innerHeight)
         .svgWidth(window.innerWidth)
