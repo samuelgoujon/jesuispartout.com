@@ -207,7 +207,7 @@ Frank Melloul,i24news,solid
 Jean-Charles Banoun,i24news,solid
 Noémie Halioua,i24news,solid
 Paul Amar,i24news,solid
-Barry Diller,"IAC (Tinder, Match.com, OkCupid, Vimeo...)",solid
+Barry Diller,IAC,solid
 Frédéric Dabi,IFOP,solid
 Dominique Moïsi,IFRI,dotted
 Armand Abécassis,Industrie culturelle,solid
@@ -341,6 +341,7 @@ Audrey Azoulay,Organisation des Nations Unies,solid
 Adeline Hazan,Parti socialiste,solid
 Danièle Hoffman-Rispal,Parti socialiste,solid
 Dominique Strauss-Kahn,Parti socialiste,solid
+Dominique Strauss-Kahn,Grand Orient de France,solid
 Henri Weber,Parti socialiste,solid
 Jack Lang,Parti socialiste,solid
 Julien Dray,Parti socialiste,solid
@@ -492,3 +493,5 @@ Pierre Lellouche,Les Républicains,solid
 Isaac Larian,MGA Entertainment,solid
 Stephen Kaufer,Tripadvisor,solid
 Stuart Levey,Facebook,solid
+Andy Jassy,Amazon,solid
+François Zimeray,Diplomates,solid

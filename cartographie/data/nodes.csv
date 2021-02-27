@@ -2,6 +2,8 @@ node,type,area,image,wikipedia
 Acteurs,organization,Culture,,
 Activision Blizzard,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Activision%20Blizzard
 Alain Afflelou (entreprise),organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Afflelou%20(entreprise)
+Amazon,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Amazon
+Andy Jassy,people,,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Andy%20Jassy
 Arianespace,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Arianespace
 Assemblée nationale,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Assemblée%20nationale
 Avocats sans frontières,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Avocats%20sans%20frontières
@@ -598,3 +600,4 @@ Yaël Braun-Pivet,people,,true,https://fr.wikipedia.org/w/api.php?format=json&ac
 Yedidia Levy-Zauberman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yedidia%20Levy-Zauberman
 Yvan Attal,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Yvan%20Attal
 Zabou Breitman,people,,true,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Zabou%20Breitman
+François Zimeray,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=François%20Zimeray
