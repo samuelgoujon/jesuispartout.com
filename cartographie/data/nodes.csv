@@ -601,3 +601,6 @@ UEJF,organization,Politique,,https://fr.wikipedia.org/w/api.php?format=json&acti
 Universal Music Group,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Universal%20Music%20Group
 Warner Bros.,organization,Économie,,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Warner%20Bros.
 Jérôme Guedj,people,,false,https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Jérôme%20Guedj
+Elise Goldfarb,people,,false,
+Julia Layani,people,,false,
+Influenceurs,organization,Médias,,
