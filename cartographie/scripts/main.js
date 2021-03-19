@@ -33,7 +33,7 @@ function loadWiki(wikipedia, callback, reject) {
     };
 
     http.open("GET", wikipedia, true);
-    http.setRequestHeader("Origin", "*");
+    http.setRequestHeader("Origin", "https://www.jesuispartout.com");
     http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
     http.send();
 }
