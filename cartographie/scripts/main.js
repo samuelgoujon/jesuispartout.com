@@ -32,7 +32,7 @@ function loadWiki(wikipedia, callback, reject) {
     }
     };
 
-    http.open("HEAD", wikipedia, true);
+    http.open("GET", wikipedia, true);
     http.setRequestHeader("Origin", "*");
     http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
     http.send();
