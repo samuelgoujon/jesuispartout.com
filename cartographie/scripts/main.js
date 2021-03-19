@@ -55,28 +55,28 @@ function openNav(d) {
       portrait.classList.add("d-none");
     }
 
-    // imageExists(
-    //   image_url,
-    //   function () {
-    //     portrait.src = image_url;
-    //     portrait.classList.remove("d-none");
-    //   },
-    //   function () {
-    //     portrait.classList.add("d-none");
-    //   }
-    // );
+     imageExists(
+       image_url,
+       function () {
+         portrait.src = image_url;
+         portrait.classList.remove("d-none");
+       },
+       function () {
+         portrait.classList.add("d-none");
+       }
+     );
 
-    // if (d.wikipedia) {
-    //     loadWiki(
-    //         d.wikipedia,
-    //         function() {
+     if (d.wikipedia) {
+         loadWiki(
+             d.wikipedia,
+             function() {
 
-    //         },
-    //         function() {
+             },
+             function() {
 
-    //         }
-    //     )
-    // }
+             }
+         )
+    }
 
   } else {
     portrait.classList.add("d-none");
