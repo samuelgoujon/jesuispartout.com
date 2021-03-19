@@ -2,15 +2,15 @@
 
 ## Données
 
-Les données sont enregistrées dans deux fichiers CSV :
-+ Le fichier « nodes » : liste des personnalités et des organisations ;
-- La colonne « wikipedia » (contenu dans le fichier « nodes ») contient les liens vers le fichier JSON de l’article Wikipédia associé.
-+ Le fichier « connections » : liste les connexions entre les personnalités et les organisations ;
+Les données sont enregistrées dans deux fichiers CSV cartographie/data :
++ Le fichier « nodes » : liste des personnalités et organisations ;
+- La colonne « wikipedia » (contenu dans le fichier « nodes ») contient les liens vers le fichier JSON associé à l’article Wikipédia de la personnalité ou de l’organisation.
++ Le fichier « connections » : liste les connexions entre personnalités et organisations ;
 
 
 ## Nouvelle fonctionnalité à rajouter
 
-Faire une fonction qui récupère et affiche dans la barre latérale droite l’extrait ("prop=extracts" du fichier JSON) de l’article Wikipédia contenu dans le lien API (les liens sont contenus dans la colonne « wikipedia » du fichier CSV « nodes ») :
+Rajouter une fonction qui récupère et affiche dans la barre latérale droite l’extrait ("prop=extracts" du fichier JSON) de l’article Wikipédia contenu dans le lien API (les liens sont contenus dans la colonne « wikipedia » du fichier CSV « nodes ») :
 
 Par exemple, pour « Alain Finkielkraut », lien JSON est : https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Finkielkraut
 
@@ -39,5 +39,5 @@ function loadWiki(wikipedia, callback, reject) {
 }
 ```
 ```
-Problème rencontré avec l’API de Wikipédia ==> « cors issues »
+Problème rencontré avec l’API de Wikipédia ==> __« cors issues »__
 ```
