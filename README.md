@@ -2,7 +2,7 @@
 
 ## Données
 
-Les données sont enregistrées dans deux fichiers CSV cartographie/data :
+Les données sont enregistrées dans deux fichiers CSV __[cartographie/data](https://github.com/samuelgoujon/jesuispartout.com/tree/gh-pages/cartographie/data)__ :
 + Le fichier « nodes » : liste des personnalités et organisations ;
 - La colonne « wikipedia » (contenu dans le fichier « nodes ») contient les liens vers le fichier JSON associé à l’article Wikipédia de la personnalité ou de l’organisation.
 + Le fichier « connections » : liste les connexions entre personnalités et organisations ;
@@ -15,7 +15,7 @@ Rajouter une fonction qui récupère et affiche dans la barre latérale droite l
 Par exemple, pour « Alain Finkielkraut », lien JSON est : https://fr.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=Alain%20Finkielkraut
 
 
-__Fichier : cartographie/scripts/main.js__
+Fichier : __[cartographie/scripts/main.js](https://github.com/samuelgoujon/jesuispartout.com/tree/gh-pages/cartographie/scripts/main.js)__
 
 ``` js
 function loadWiki(wikipedia, callback, reject) {
@@ -39,5 +39,5 @@ function loadWiki(wikipedia, callback, reject) {
 }
 ```
 ```
-Problème rencontré avec l’API de Wikipédia ==> __« cors issues »__
+Problème rencontré avec l’API de Wikipédia ==> « cors issues »
 ```
