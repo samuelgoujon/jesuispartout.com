@@ -71,7 +71,7 @@ function openNav(d) {
          loadWiki(
              d.wikipedia,
              function() {
-             	bio.span = wikipedia;
+             	bio.span = d.wikipedia;
              },
              function() {
 
