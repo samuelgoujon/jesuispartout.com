@@ -72,7 +72,7 @@ function openNav(d) {
              d.wikipedia,
              function() {
              	bio.span = ;
-             	document.getElementById('bio').innerHTML = d.wikipedia
+             	document.getElementById('bio').innerHTML = d.wikipedia;
              },
              function() {
 
