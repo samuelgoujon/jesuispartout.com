@@ -56,7 +56,7 @@ function openNav(d) {
       portrait.classList.add("d-none");
     }
 
-     imageExists(
+     /*imageExists(
        image_url,
        function () {
          portrait.src = image_url;
@@ -78,7 +78,7 @@ function openNav(d) {
 
              }
          )
-    }
+    }*/
 
   } else {
     portrait.classList.add("d-none");
