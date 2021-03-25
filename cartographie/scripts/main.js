@@ -71,7 +71,6 @@ function openNav(d) {
          loadWiki(
              d.wikipedia,
              function() {
-              item.classList.add("d-none");
 
              },
              function() {
