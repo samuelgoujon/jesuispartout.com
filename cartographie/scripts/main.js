@@ -67,11 +67,11 @@ function openNav(d) {
        }
      );*/
 
-     if (d.wikipedia) {
+    if (d.wikipedia) {
          loadWiki(
              d.wikipedia,
              function() {
-
+             	bio.span = wikipedia;
              },
              function() {
 
