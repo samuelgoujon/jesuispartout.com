@@ -65,7 +65,7 @@ function openNav(d) {
        function () {
          portrait.classList.add("d-none");
        }
-     );
+     );*/
 
      if (d.wikipedia) {
          loadWiki(
@@ -78,7 +78,7 @@ function openNav(d) {
 
              }
          )
-    }*/
+    }
 
   } else {
     portrait.classList.add("d-none");
