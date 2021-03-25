@@ -32,7 +32,7 @@ function loadWiki(wikipedia, callback, reject) {
     }
     };
 
-    http.open("GET", wikipedia, true);
+    http.open("HEAD", wikipedia, true);
     http.setRequestHeader("Access-Control-Allow-Origin", "https://www.jesuispartout.com");
     http.withCredentials = false;
     http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
