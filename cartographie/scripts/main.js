@@ -14,7 +14,7 @@ function imageExists(image_url, callback, reject) {
     }
   };
 
-  http.open("HEAD", image_url, true);
+  http.open("GET", image_url, true);
   http.send();
 }
 
