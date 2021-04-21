@@ -18,27 +18,6 @@ function imageExists(image_url, callback, reject) {
   http.send();
 }
 
-function loadWiki(wikipedia, callback, reject) {
-    var http = new XMLHttpRequest();
-
-    http.onreadystatechange = function () {
-    if (this.readyState == 4) {
-        if (this.status == 200) {
-            console.log(this);
-            callback();
-        } else if (reject) {
-            reject();
-        }
-    }
-    };
-
-    http.open("GET", wikipedia, true);
-    http.withCredentials = false;
-    http.setRequestHeader("Access-Control-Allow-Origin", "https://www.jesuispartout.com");
-    http.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
-    http.send();
-}
-
 function openNav(d) {
   var portrait = document.getElementById("portrait");
 
@@ -56,27 +35,10 @@ function openNav(d) {
       portrait.classList.add("d-none");
     }
 
-     /*imageExists(
-       image_url,
-       function () {
-         portrait.src = image_url;
-         portrait.classList.remove("d-none");
-       },
-       function () {
-         portrait.classList.add("d-none");
-       }
-     );*/
-
     if (d.wikipedia) {
-         loadWiki(
-             d.wikipedia,
-             function() {
-             	document.getElementById('bio').innerHTML = d.wikipedia;
-             },
-             function() {
-
-             }
-         )
+      // WIKIPEDIA.getData(d.wikipedia, (info) => {
+      //   console.log(info);
+      // });
     }
 
   } else {
