@@ -2,7 +2,7 @@ var WIKIPEDIA = function() {
   var my = {};
 
   // DBPedia SPARQL endpoint
-  my.endpoint = 'http://fr.dbpedia.org/sparql/';
+  my.endpoint = 'http://dbpedia.org/sparql/';
 
   // ### getData
   //
