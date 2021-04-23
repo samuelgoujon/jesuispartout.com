@@ -2,7 +2,7 @@ var WIKIPEDIA = function() {
   var my = {};
 
   // DBPedia SPARQL endpoint
-  my.endpoint = 'http://dbpedia.org/sparql/';
+  my.endpoint = 'http://fr.dbpedia.org/sparql/';
 
   // ### getData
   //
@@ -52,12 +52,12 @@ var WIKIPEDIA = function() {
     if (url.indexOf('wikipedia')!=-1) {
       var parts = url.split('/');
       var title = parts[parts.length-1];
-      url = 'http://dbpedia.org/resource/' + title;
+      url = 'http://fr.dbpedia.org/resource/' + title;
       return url;
     } else if (url.indexOf('dbpedia.org')!=-1) {
       return url;
     } else {
-      url = 'http://dbpedia.org/resource/' + url.replace(/ /g, '_');
+      url = 'http://fr.dbpedia.org/resource/' + url.replace(/ /g, '_');
       return url;
     }
   };
