@@ -36,9 +36,9 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
-      // WIKIPEDIA.getData(d.wikipedia, (info) => {
-      //   console.log(info);
-      // });
+      WIKIPEDIA.getData(d.wikipedia, (info) => {
+         console.log(info);
+      });
     }
 
   } else {
