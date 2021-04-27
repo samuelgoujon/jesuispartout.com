@@ -40,6 +40,7 @@ function openNav(d) {
         var info = WIKIPEDIA.getData('http://en.wikipedia.org/wiki/Invasion_of_Normandy');
         alert(info.summary.title);
         console.log(info);
+        document.getElementById("bio").innerHTML = info;
       });
     }
 
