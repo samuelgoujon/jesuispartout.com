@@ -37,7 +37,7 @@ function openNav(d) {
 
     if (d.wikipedia) {
       WIKIPEDIA.getData(d.wikipedia, (info) => {
-        var info = WIKIPEDIA.getData('http://en.wikipedia.org/wiki/Invasion_of_Normandy');
+        var info = WIKIPEDIA.getData("http://fr.wikipedia.org/wiki/"+info.summary.title);
         alert(info.summary.title);
         console.log(info);
         document.getElementById("bio").innerHTML = info;
