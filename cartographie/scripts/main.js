@@ -37,8 +37,9 @@ function openNav(d) {
 
     if (d.wikipedia) {
       WIKIPEDIA.getData(d.wikipedia, (info) => {
-         console.log(info);
-         var info = WIKIPEDIA.getData('http://en.wikipedia.org/wiki/Invasion_of_Normandy');
+        var info = WIKIPEDIA.getData('http://en.wikipedia.org/wiki/Invasion_of_Normandy');
+        alert(info.summary.title);
+        console.log(info);
       });
     }
 
