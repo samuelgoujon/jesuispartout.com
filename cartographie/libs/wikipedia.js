@@ -52,12 +52,12 @@ var WIKIPEDIA = function() {
     if (url.indexOf('wikipedia')!=-1) {
       var parts = url.split('/');
       var title = parts[parts.length-1];
-      url = 'http://fr.dbpedia.org/resource/' + title;
+      url = 'http://dbpedia.org/resource/' + title;
       return url;
     } else if (url.indexOf('dbpedia.org')!=-1) {
       return url;
     } else {
-      url = 'http://fr.dbpedia.org/resource/' + url.replace(/ /g, '_');
+      url = 'http://dbpedia.org/resource/' + url.replace(/ /g, '_');
       return url;
     }
   };
