@@ -175,7 +175,7 @@ ul.navbar-nav li a {
 .iconx-gab:before {
   content: "\e900";
 }
-/*
-body {
-  overflow: hidden;
-}*/
+
+.wiki-bio {
+    padding: 15px;
+}
