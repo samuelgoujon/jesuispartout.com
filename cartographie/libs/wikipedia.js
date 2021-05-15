@@ -82,17 +82,17 @@ var WIKIPEDIA = function() {
 
   // Standard RDF namespace prefixes for use in lookupProperty function
   my.PREFIX = {
-    rdf: "https://www.w3.org/1999/02/22-rdf-syntax-ns#",
-    rdfs: "https://www.w3.org/2000/01/rdf-schema#",
-    xsd: "https://www.w3.org/2001/XMLSchema#",
-    owl: "https://www.w3.org/2002/07/owl#",
-    dc: "https://purl.org/dc/terms/",
-    foaf: "https://xmlns.com/foaf/0.1/",
-    vcard: "https://www.w3.org/2006/vcard/ns#",
-    dbp: "https://dbpedia.org/property/",
-    dbo: "https://dbpedia.org/ontology/",
-    geo: "https://www.geonames.org/ontology#",
-    wgs: "https://www.w3.org/2003/01/geo/wgs84_pos#"
+    rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    rdfs: "http://www.w3.org/2000/01/rdf-schema#",
+    xsd: "http://www.w3.org/2001/XMLSchema#",
+    owl: "http://www.w3.org/2002/07/owl#",
+    dc: "http://purl.org/dc/terms/",
+    foaf: "http://xmlns.com/foaf/0.1/",
+    vcard: "http://www.w3.org/2006/vcard/ns#",
+    dbp: "http://dbpedia.org/property/",
+    dbo: "http://dbpedia.org/ontology/",
+    geo: "http://www.geonames.org/ontology#",
+    wgs: "http://www.w3.org/2003/01/geo/wgs84_pos#"
   };
 
   my._expandNamespacePrefix = function(uriWithPrefix) {
@@ -122,7 +122,7 @@ var WIKIPEDIA = function() {
     var values = dict[property];
     for (var idx in values) {
       // only take english values if lang is present
-      if (!values[idx]['lang'] || values[idx].lang == 'en') {
+      if (!values[idx]['lang'] || values[idx].lang == 'fr') {
         return values[idx].value;
       }
     }
