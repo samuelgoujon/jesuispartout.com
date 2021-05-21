@@ -122,7 +122,7 @@ var WIKIPEDIA = function() {
     var values = dict[property];
     for (var idx in values) {
       // only take english values if lang is present
-      if (!values[idx]['lang'] || values[idx].lang == 'en') {
+      if (!values[idx]['lang'] || values[idx].lang == 'fr') {
         return values[idx].value;
       }
     }
