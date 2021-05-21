@@ -23,7 +23,7 @@ function openNav(d) {
 
   document.getElementById("node").innerHTML = d.node;
 
-  if (d.type == "people") {
+  if (d.type == "people" || "organization") {
     d3.selectAll(".org").style("display", "none");
 
     var image_url = "img/portraits/" + d.node + ".jpg";
