@@ -36,8 +36,10 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
+      const bioEl = document.getElementById("bio");
+      bioEl.innerHTML = "";
       WIKIPEDIA.getData(d.wikipedia, (info) => {
-        document.getElementById("bio").innerHTML = info.summary.summary;
+        bioEl.innerHTML = info.summary.summary;
       });
     }
 
