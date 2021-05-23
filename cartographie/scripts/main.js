@@ -47,11 +47,8 @@ function openNav(d) {
         }
       });
     }
-
-    d3.selectAll(".wiki-label").style("display", null);
   } else {
     portrait.classList.add("d-none");
-    d3.selectAll(".wiki-label").style("display", "none");
   }
 
   document.getElementById("sidenav").style.right = "0px";
