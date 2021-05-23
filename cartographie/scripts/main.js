@@ -20,12 +20,17 @@ function imageExists(image_url, callback, reject) {
 
 function openNav(d) {
   var portrait = document.getElementById("portrait");
+  var bioEl = document.getElementById("bio");
+  var node = document.getElementById("node");
 
-  document.getElementById("node").innerHTML = d.node;
+  // clear wiki bio
+  bioEl.innerHTML = "";
 
-  if (d.type == "people") {
-    d3.selectAll(".org").style("display", "none");
+  // update entity name
+  node.innerHTML = d.node;
 
+
+  if (d.type === "people") {
     var image_url = "img/portraits/" + d.node + ".jpg";
 
     if (d.image) {
@@ -36,16 +41,17 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
-      const bioEl = document.getElementById("bio");
-      bioEl.innerHTML = "";
       WIKIPEDIA.getData(d.wikipedia, (info) => {
-        bioEl.innerHTML = info.summary.summary;
+        if (info.summary && info.summary.summary) {
+          bioEl.innerHTML = info.summary.summary;
+        }
       });
     }
 
+    d3.selectAll(".wiki-label").style("display", null);
   } else {
     portrait.classList.add("d-none");
-    d3.selectAll(".people").style("display", "none");
+    d3.selectAll(".wiki-label").style("display", "none");
   }
 
   document.getElementById("sidenav").style.right = "0px";
