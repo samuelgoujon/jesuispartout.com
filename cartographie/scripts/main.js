@@ -42,8 +42,10 @@ function openNav(d) {
 
     if (d.wikipedia) {
       WIKIPEDIA.getData(d.wikipedia, (info) => {
-        if (info.summary && info.summary.summary) {
-          bioEl.innerHTML = info.summary.summary;
+        const summary = info.summary;
+
+        if (summary && summary.description) {
+          bioEl.innerHTML = summary.description;
         }
       });
     }
