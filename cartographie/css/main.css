@@ -26,9 +26,9 @@ svg {
 }
 
 .sidenav .item, .sidenav .closebtn, .sidenav .wiki-bio {
-    padding: 15px 15px 15px 0px;
+    padding: 15px 15px 15px 15px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #000;
     display: block;
