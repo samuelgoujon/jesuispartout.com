@@ -33,7 +33,7 @@ function openNav(d) {
   if (d.type === "people") {
     var image_url = "img/portraits/" + d.node + ".jpg";
 
-    if (d.image) {
+    if (d.image) { 
       portrait.src = image_url;
       portrait.classList.remove("d-none");
     } else {
