@@ -30,7 +30,7 @@ function openNav(d) {
   node.innerHTML = d.node;
 
 
-  if (d.type === "people" || "organization") {
+  if (d.type === "people" || d.type === "organization") {
     var image_url = "img/portraits/" + d.node + ".jpg";
 
     if (d.image) { 
