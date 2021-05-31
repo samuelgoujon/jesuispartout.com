@@ -48,8 +48,8 @@ function openNav(d) {
         if (summary && summary.description) {
           bioEl.innerHTML = summary.description;
         }
-      });
       wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\" target=\"_blank\">Wikipédia</a>";
+      });
     }
   } else {
     portrait.classList.add("d-none");
