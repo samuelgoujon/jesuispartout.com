@@ -49,7 +49,7 @@ function openNav(d) {
           bioEl.innerHTML = summary.description;
         }
       });
-      wikipedia.innerHTML = d.wikipedia_url;
+      wikipedia_url.innerHTML = d.wikipedia;
     }
   } else {
     portrait.classList.add("d-none");
