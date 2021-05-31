@@ -41,7 +41,7 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
-      const wikiAnchor = '<a href="' + d.wikipedia + '" target="_blank">Wikipédia</a>';
+      const wikiAnchor = '<b><a href="' + d.wikipedia + '" target="_blank">Wikipédia</a></b>';
       console.log(wikiAnchor);
       WIKIPEDIA.getData(d.wikipedia, (info) => {
         const summary = info.summary;
