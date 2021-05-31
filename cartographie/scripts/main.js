@@ -22,6 +22,7 @@ function openNav(d) {
   var portrait = document.getElementById("portrait");
   var bioEl = document.getElementById("bio");
   var node = document.getElementById("node");
+  var wikipedia_url = document.getElementById("wikipedia_url");
 
   // clear wiki bio
   bioEl.innerHTML = "";
@@ -48,6 +49,7 @@ function openNav(d) {
           bioEl.innerHTML = summary.description;
         }
       });
+      wikipedia.innerHTML = d.wikipedia_url;
     }
   } else {
     portrait.classList.add("d-none");
