@@ -119,7 +119,7 @@ var WIKIPEDIA = function() {
   //       ...
   my._lookupProperty = function(dict, property) {
     property = my._expandNamespacePrefix(property);
-    var values = dict[property];
+    var values = dict && dict[property];
     for (var idx in values) {
       // only take english values if lang is present
       if (!values[idx]['lang'] || values[idx].lang == 'fr') {
@@ -180,7 +180,7 @@ var WIKIPEDIA = function() {
 
     var typeUri = my._expandNamespacePrefix('rdf:type');
     var types = [];
-    var typeObjs = properties[typeUri];
+    var typeObjs = properties && properties[typeUri];
     for(var idx in typeObjs) {
       var value = typeObjs[idx].value;
       // let's be selective

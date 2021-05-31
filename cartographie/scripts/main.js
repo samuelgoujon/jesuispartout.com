@@ -22,7 +22,6 @@ function openNav(d) {
   var portrait = document.getElementById("portrait");
   var bioEl = document.getElementById("bio");
   var node = document.getElementById("node");
-  var wikipedia_url = document.getElementById("wikipedia_url");
 
   // clear wiki bio
   bioEl.innerHTML = "";
@@ -42,13 +41,18 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
+      const wikiAnchor = '<a href="' + d.wikipedia + '" target="_blank">Wikipédia</a>';
+      console.log(wikiAnchor);
       WIKIPEDIA.getData(d.wikipedia, (info) => {
         const summary = info.summary;
 
         if (summary && summary.description) {
-          bioEl.innerHTML = summary.description;
-          wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\" target=\"_blank\">Wikipédia</a>";
+          bioEl.innerHTML = summary.description + ' ' + wikiAnchor;
+        } else {
+          bioEl.innerHTML = wikiAnchor;
         }
+      }, () => {
+        bioEl.innerHTML = wikiAnchor;
       });
     }
   } else {
