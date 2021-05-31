@@ -49,7 +49,7 @@ function openNav(d) {
           bioEl.innerHTML = summary.description;
         }
       });
-      wikipedia_url.innerHTML = d.wikipedia;
+      wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia +"\">Wikipédia</a>" ;
     }
   } else {
     portrait.classList.add("d-none");
