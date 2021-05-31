@@ -42,7 +42,6 @@ function openNav(d) {
     }
 
     if (d.wikipedia) {
-      wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\" target=\"_blank\">Wikipédia</a>";
       WIKIPEDIA.getData(d.wikipedia, (info) => {
         const summary = info.summary;
 
@@ -50,7 +49,8 @@ function openNav(d) {
           bioEl.innerHTML = summary.description;
         }
       });
-
+      wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\">Wikipédia</a>";
+      wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\" target=\"_blank\">Wikipédia</a>";
     }
   } else {
     portrait.classList.add("d-none");
