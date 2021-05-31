@@ -50,6 +50,7 @@ function openNav(d) {
         }
       });
       wikipedia_url.innerHTML = "<a href=\"" + d.wikipedia + "\" target=\"_blank\">Wikipédia</a>";
+
     }
   } else {
     portrait.classList.add("d-none");
