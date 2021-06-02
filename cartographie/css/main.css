@@ -108,6 +108,12 @@ svg.tooltip-shadow-wrapper-svg {
     .nav-tabs .nav-link {
         padding-left: 1rem;
     }
+    .navbar-brand {
+        padding-left: 1rem;
+    }
+    .navbar-nav {
+        padding-left: 1rem;
+    }
 }
 
 nav {
