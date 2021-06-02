@@ -101,12 +101,11 @@ svg.tooltip-shadow-wrapper-svg {
     }
 }
 
-@media (max-width: 768px)
-{
+@media (max-width: 768px) {
     .navbar {
         padding: .5rem 0rem;
     }
-    .nav-tabs .navbar-nav .nav-link {
+    .nav-tabs .nav-link {
         padding-left: 1rem;
     }
 }
