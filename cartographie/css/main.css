@@ -68,11 +68,6 @@ svg {
     padding: 16px;
 }
 
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}
-
 .nav-tabs .nav-link {
     border: none;
     border-radius: 0;
@@ -98,8 +93,18 @@ svg.tooltip-shadow-wrapper-svg {
 }
 
 @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+    .navbar {
+        padding: .5rem 0rem;
+    }
+    .nav-tabs .navbar-nav .nav-link {
+        padding-left: 1rem;
+    }
 }
 
 nav {
