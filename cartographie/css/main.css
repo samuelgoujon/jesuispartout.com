@@ -99,6 +99,10 @@ svg.tooltip-shadow-wrapper-svg {
     .sidenav a {
         font-size: 18px;
     }
+}
+
+@media (max-width: 768px)
+{
     .navbar {
         padding: .5rem 0rem;
     }
