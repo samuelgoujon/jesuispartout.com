@@ -40,7 +40,7 @@ Eva Green,people,,false,https://fr.wikipedia.org/wiki/Eva_Green
 Fabian Thylmann,people,,false,https://fr.wikipedia.org/wiki/Fabian_Thylmann
 Franck Provost,people,,false,https://fr.wikipedia.org/wiki/Franck_Provost
 François Zimeray,people,,false,https://fr.wikipedia.org/wiki/François_Zimeray
-Frank Melloul,people,,false,https://fr.wikipedia.org/wiki/Frank_Melloul
+Frank Melloul,people,,true,https://fr.wikipedia.org/wiki/Frank_Melloul
 George Soros,people,,false,https://fr.wikipedia.org/wiki/George_Soros
 Géraldine Muhlmann,people,,false,
 Gérard Lindeperg,people,,false,https://fr.wikipedia.org/wiki/Gérard_Lindeperg
@@ -57,7 +57,7 @@ Jan Koum,people,,false,https://fr.wikipedia.org/wiki/Jan_Koum
 Jean-Jacques Zambrowski,people,,false,
 Jean-Pierre Rosenczveig,people,,false,https://fr.wikipedia.org/wiki/Jean-Pierre_Rosenczveig
 Jeffrey Sachs,people,,false,https://fr.wikipedia.org/wiki/Jeffrey_Sachs
-Jérôme Clément,people,,false,https://fr.wikipedia.org/wiki/Jérôme_Clément
+Jérôme Clément,people,,true,https://fr.wikipedia.org/wiki/Jérôme_Clément
 Jérôme Guedj,people,,false,https://fr.wikipedia.org/wiki/Jérôme_Guedj
 Jerry Greenfield,people,,false,
 Joachim Bokobza,people,,false,
@@ -518,20 +518,18 @@ Jean-Paul Fitoussi,people,,false,https://fr.wikipedia.org/wiki/Jean-Paul_Fitouss
 Michel Gurfinkiel,people,,false,https://fr.wikipedia.org/wiki/Michel_Gurfinkiel
 Ivan Levaï,people,,false,https://fr.wikipedia.org/wiki/Ivan_Levaï
 Denis Kessler,people,,false,https://fr.wikipedia.org/wiki/Denis_Kessler
-Valérie Nataf,people,,false,https://fr.wikipedia.org/wiki/Valérie_Nataf
+Valérie Nataf,people,,true,https://fr.wikipedia.org/wiki/Valérie_Nataf
 André Lévy-Lang,people,,false,https://fr.wikipedia.org/wiki/André_Lévy-Lang
 Sidonie Dumas,people,,false,https://fr.wikipedia.org/wiki/Sidonie_Dumas
 Alain Sussfeld,people,,false,https://fr.wikipedia.org/wiki/Alain_Sussfeld
 Thierry Gaubert,people,,false,https://fr.wikipedia.org/wiki/Thierry_Gaubert
 Xavier Niel,people,,true,https://fr.wikipedia.org/wiki/Xavier_Niel
-Johan Hufnagel,people,,false,https://fr.wikipedia.org/wiki/Johan_Hufnagel
-Anne-Cécile Sarfati,people,,false,https://fr.wikipedia.org/wiki/Anne-Cécile_Sarfati
-Hervé Gattegno,people,,false,https://fr.wikipedia.org/wiki/Hervé_Gattegno
+Johan Hufnagel,people,,true,https://fr.wikipedia.org/wiki/Johan_Hufnagel
+Anne-Cécile Sarfati,people,,true,https://fr.wikipedia.org/wiki/Anne-Cécile_Sarfati
+Hervé Gattegno,people,,true,https://fr.wikipedia.org/wiki/Hervé_Gattegno
 Guy Birenbaum,people,,true,https://fr.wikipedia.org/wiki/Guy_Birenbaum
-Michel Sibony,people,,false,
-Kenneth Fisher,people,,false,
-Ariane Rothschild,people,,false,https://fr.wikipedia.org/wiki/Ariane_de_Rothschild
-Benjamin Rothschild ,people,,false,https://fr.wikipedia.org/wiki/Benjamin_de_Rothschild
+Michel Sibony,people,,true,
+Kenneth Fisher,people,,true,
 Arthur Dreyfuss,people,,false,
 Acteurs,organization,Culture,,
 Activision Blizzard,organization,Économie,,https://fr.wikipedia.org/wiki/Activision_Blizzard
@@ -675,3 +673,6 @@ Le Journal du dimanche,organization,Médias,,https://fr.wikipedia.org/wiki/Le_Jo
 Vivendi,organization,Médias,,https://fr.wikipedia.org/wiki/Vivendi
 L’Opinion,organization,Médias,,https://fr.wikipedia.org/wiki/L'Opinion_(quotidien_français)
 Slate,organization,Médias,,https://fr.wikipedia.org/wiki/Slate_(magazine)
+Sophie Obadia,people,,false,
+Ariane de Rothschild,people,,true,https://fr.wikipedia.org/wiki/Ariane_de_Rothschild
+Benjamin de Rothschild,people,,true,https://fr.wikipedia.org/wiki/Benjamin_de_Rothschild
